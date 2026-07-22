@@ -1,0 +1,14 @@
+/tmp/tmph5_j5sz8/dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b.cpp: In member function ‘virtual void dolfin::dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmph5_j5sz8/dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b.cpp:69:29: error: invalid operands of types ‘double [2]’ and ‘Eigen::DenseCoeffsBase<Eigen::Ref<const Eigen::Matrix<double, -1, 1> >, 0>::CoeffReturnType {aka double}’ to binary ‘operator*’
+           values[0] = (exp(v*x[0]/D) - 1)/(exp(v*L/D) - 1);
+                            ~^~~~~
+/tmp/tmph5_j5sz8/dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b.cpp:69:49: error: invalid operands of types ‘double [2]’ and ‘const double’ to binary ‘operator*’
+           values[0] = (exp(v*x[0]/D) - 1)/(exp(v*L/D) - 1);
+                                                ~^~
+/tmp/tmph5_j5sz8/dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b.cpp: In member function ‘virtual std::shared_ptr<dolfin::GenericFunction> dolfin::dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b::get_generic_function(std::__cxx11::string) const’:
+/tmp/tmph5_j5sz8/dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b.cpp:94:11: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+           if (name == "v") return generic_function_v;          if (name == "D") return generic_function_D;
+           ^~
+/tmp/tmph5_j5sz8/dolfin_expression_32a5a6fbe3a72b0f485d12710663c14b.cpp:94:64: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+           if (name == "v") return generic_function_v;          if (name == "D") return generic_function_D;
+                                                                ^~

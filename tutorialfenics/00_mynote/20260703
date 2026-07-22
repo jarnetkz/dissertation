@@ -1,0 +1,8 @@
+
+use the timestep at the third quarter to calculate the norm 
+try plotting the loglog 
+calculate the norm of pressure and concentration 
+cal both relative error and abs error
+try reduce the value of D (diffuse slowly)
+
+

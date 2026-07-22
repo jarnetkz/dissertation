@@ -1,0 +1,30 @@
+2026-07-06 09:24:23| Saved at t = 1.8000000000000014
+pressure norm 2D with meshsize 10x10: {1.8: 0.6693951435499278}
+concentration norm 2D with meshsize 10x10: {1.8: 0.32178605656773623}
+pressure norm 1D with meshsize 10x10: 0.6709546404367759
+concentration norm 1D with meshsize 10x10: 0.32547805458018747
+2026-07-06 09:24:26| Saved at t = 1.8000000000000014
+pressure norm 2D with meshsize 20x20: {1.8: 0.66969067344991}
+concentration norm 2D with meshsize 20x20: {1.8: 0.31575100027680736}
+pressure norm 1D with meshsize 20x20: 0.6712346461578649
+concentration norm 1D with meshsize 20x20: 0.32203717569643137
+2026-07-06 09:24:35| Saved at t = 1.8000000000000014
+pressure norm 2D with meshsize 40x40: {1.8: 0.6698084249100363}
+concentration norm 2D with meshsize 40x40: {1.8: 0.31733394292425776}
+pressure norm 1D with meshsize 40x40: 0.6713459925175155
+concentration norm 1D with meshsize 40x40: 0.32423097914420973
+2026-07-06 09:25:13| Saved at t = 1.8000000000000014
+pressure norm 2D with meshsize 80x80: {1.8: 0.6698553682201814}
+concentration norm 2D with meshsize 80x80: {1.8: 0.3177655172352435}
+pressure norm 1D with meshsize 80x80: 0.6713903567987357
+concentration norm 1D with meshsize 80x80: 0.32789186731303466
+2026-07-06 09:28:17| Saved at t = 1.8000000000000014
+pressure norm 2D with meshsize 160x160: {1.8: 0.6698740617198952}
+concentration norm 2D with meshsize 160x160: {1.8: 0.3178659895520585}
+pressure norm 1D with meshsize 160x160: 0.6714080171586
+concentration norm 1D with meshsize 160x160: 0.32819954908658805
+2026-07-06 10:14:45| Saved at t = 1.8000000000000014
+pressure norm 2D with meshsize 320x320: {1.8: 0.6698814976863268}
+concentration norm 2D with meshsize 320x320: {1.8: 0.3178901211094114}
+pressure norm 1D with meshsize 320x320: 0.671415040316443
+concentration norm 1D with meshsize 320x320: 0.32827992692604613

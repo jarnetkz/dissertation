@@ -1,0 +1,11 @@
+/tmp/tmp2tq739tl/dolfin_expression_e4f2a3834863399fc96a60bb6c180d85.cpp: In member function ‘virtual void dolfin::dolfin_expression_e4f2a3834863399fc96a60bb6c180d85::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmp2tq739tl/dolfin_expression_e4f2a3834863399fc96a60bb6c180d85.cpp:67:111: error: ‘l’ was not declared in this scope
+           values[0] = (x[0] < domain_size) ? (A*sin(t)*K1 * x[0]) / L : (A*sin(t) *(1 + (K1*x[0]/(L*K2))+ (K1*l/(K2*L)) ));
+                                                                                                               ^
+/tmp/tmp2tq739tl/dolfin_expression_e4f2a3834863399fc96a60bb6c180d85.cpp: In member function ‘virtual double dolfin::dolfin_expression_e4f2a3834863399fc96a60bb6c180d85::get_property(std::__cxx11::string) const’:
+/tmp/tmp2tq739tl/dolfin_expression_e4f2a3834863399fc96a60bb6c180d85.cpp:79:11: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+           if (name == "A") return A;          if (name == "t") return t;          if (name == "L") return L;          if (name == "domain_size") return domain_size;          if (name == "K1") return K1;          if (name == "K2") return K2;
+           ^~
+/tmp/tmp2tq739tl/dolfin_expression_e4f2a3834863399fc96a60bb6c180d85.cpp:79:47: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+           if (name == "A") return A;          if (name == "t") return t;          if (name == "L") return L;          if (name == "domain_size") return domain_size;          if (name == "K1") return K1;          if (name == "K2") return K2;
+                                               ^~

@@ -1,0 +1,83 @@
+1 compare the analytical solution with the simple problem (Neumann condition = 0 on the left and right)
+
+2 save some of the solution depending on dt (next_save,...)
+
+    using 
+        T = 5*2*np.pi
+        dt = 2*np.pi/20
+
+    dt_save = 0.1
+    next_save = 0.0
+    while t < T + 1e-12:
+    
+        # update BC
+        p_right.t = t
+    
+        # solve pressure
+        solve(a == L, p, [bc0, bc2, bc3])
+    
+        # Darcy velocity
+        velocity_expr = conditional(
+            le(x[0], l),
+            -K_left * grad(p),
+            -K_right * grad(p)
+        )
+    
+        velocity.assign(project(velocity_expr, Vvec))
+        vel.assign(velocity)
+    
+        # solve transport
+        solve(a_c == L_c, c_sol)
+    
+        c_n.assign(c_sol)
+    
+        if t >= next_save - 1e-12:
+    
+            vtkfile_p << (p, t)
+            vtkfile_v << (velocity, t)
+            vtkfile_c << (c_sol, t)
+    
+            print("Saved at t =", t)
+    
+            next_save += dt_save
+    
+        t += dt
+
+
+3 plot mesh size against norm of pressure  ===> norm(p(x,y=1/2))
+
+4 changing the method 
+Concentration P1 
+Pressure P2 
+Velocity P1
+
+
+
+
+save logic 
+***dt should be smaller than dt_save****
+dt        = 0.05   # small time step
+dt_save   = 0.1    # save every 0.1 units
+next_save = 0.0    # first save at t = 0
+--------------------------------
+t       | next_save  |  t >= next_save?  
+--------------------------------
+0         0.0           Yes
+0.05      0.1           No
+0.1       0.1           Yes
+
+while t < T + 1e-12:
+    .....
+    if t >= next_save - 1e-12:
+        ....
+        next_save += dt_save
+    
+    t += dt
+
+
+
+
+
+class 
+def 
+     - 

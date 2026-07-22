@@ -1,0 +1,3 @@
+Launching: python3 _02_main_simulation_new.py --T 1 --dt 0.1 --mesh 10 --ux 30
+Launching: python3 _02_main_simulation_new.py --T 1 --dt 0.1 --mesh 20
+All PDE simulations completed!

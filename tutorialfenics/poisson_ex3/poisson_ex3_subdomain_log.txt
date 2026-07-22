@@ -1,0 +1,80 @@
+=======Executing time step : 0======
+Step 1/20: t = 0.000, p_right = 0.000
+error_L2  = 0.0
+error_max = 0.0
+=======Executing time step : 1======
+Step 2/20: t = 0.083, p_right = 0.083
+error_L2  = 6.086904671983528e-16
+error_max = 1.394717674685353e-15
+=======Executing time step : 2======
+Step 3/20: t = 0.165, p_right = 0.165
+error_L2  = 1.2018973963280037e-15
+error_max = 2.7200464103316335e-15
+=======Executing time step : 3======
+Step 4/20: t = 0.248, p_right = 0.245
+error_L2  = 1.811325532227458e-15
+error_max = 4.135580766728708e-15
+=======Executing time step : 4======
+Step 5/20: t = 0.331, p_right = 0.325
+error_L2  = 2.424322117102078e-15
+error_max = 5.440092820663267e-15
+=======Executing time step : 5======
+Step 6/20: t = 0.413, p_right = 0.402
+error_L2  = 2.9732680526968147e-15
+error_max = 6.716849298982197e-15
+=======Executing time step : 6======
+Step 7/20: t = 0.496, p_right = 0.476
+error_L2  = 3.49611090652237e-15
+error_max = 7.993605777301127e-15
+=======Executing time step : 7======
+Step 8/20: t = 0.579, p_right = 0.547
+error_L2  = 4.005303808982112e-15
+error_max = 9.048317650695026e-15
+=======Executing time step : 8======
+Step 9/20: t = 0.661, p_right = 0.614
+error_L2  = 4.553657204533011e-15
+error_max = 1.0325074129013956e-14
+=======Executing time step : 9======
+Step 10/20: t = 0.744, p_right = 0.677
+error_L2  = 5.051284134018563e-15
+error_max = 1.1601830607332886e-14
+=======Executing time step : 10======
+Step 11/20: t = 0.827, p_right = 0.736
+error_L2  = 5.420441348366631e-15
+error_max = 1.2378986724570495e-14
+=======Executing time step : 11======
+Step 12/20: t = 0.909, p_right = 0.789
+error_L2  = 5.791812018422265e-15
+error_max = 1.2989609388114332e-14
+=======Executing time step : 12======
+Step 13/20: t = 0.992, p_right = 0.837
+error_L2  = 6.12927116450859e-15
+error_max = 1.3877787807814457e-14
+=======Executing time step : 13======
+Step 14/20: t = 1.075, p_right = 0.879
+error_L2  = 6.5061956720541345e-15
+error_max = 1.4765966227514582e-14
+=======Executing time step : 14======
+Step 15/20: t = 1.157, p_right = 0.916
+error_L2  = 6.7151072436866965e-15
+error_max = 1.5210055437364645e-14
+=======Executing time step : 15======
+Step 16/20: t = 1.240, p_right = 0.946
+error_L2  = 7.007151455221264e-15
+error_max = 1.5987211554602254e-14
+=======Executing time step : 16======
+Step 17/20: t = 1.323, p_right = 0.969
+error_L2  = 7.181662909024456e-15
+error_max = 1.6209256159527285e-14
+=======Executing time step : 17======
+Step 18/20: t = 1.405, p_right = 0.986
+error_L2  = 7.33781810286044e-15
+error_max = 1.6653345369377348e-14
+=======Executing time step : 18======
+Step 19/20: t = 1.488, p_right = 0.997
+error_L2  = 7.36620811113462e-15
+error_max = 1.687538997430238e-14
+=======Executing time step : 19======
+Step 20/20: t = 1.571, p_right = 1.000
+error_L2  = 7.400335828793134e-15
+error_max = 1.687538997430238e-14

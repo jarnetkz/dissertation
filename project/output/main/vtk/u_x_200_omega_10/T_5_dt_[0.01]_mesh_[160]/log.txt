@@ -1,0 +1,2036 @@
+changing parameters _u_x to 0.00019999999999999998 successfully 
+
+changing parameters _omega to 10 successfully 
+
+SI physical parameters:
+_l = 4.000e-05, 
+_L = 2.000e-04, 
+_H = 2.000e-04, 
+_omega = 1.000e+01, 
+_k = 1.000e-16, 
+_mu = 7.000e-04, 
+_u_x = 2.000e-04, 
+_D = 1.000e-12
+
+Coefficients for solver and Pe:
+adv_coeff = 0.09999999999999999, 
+diff_coeff = 2.5e-06, 
+Pe = 39999.99999999999
+
+t=0.000  |v|_max = 0.0000e+00
+concentration change = 3.388e-04
+t=0.000 | Total Mass in Domain = 0.005655
+Vertical concentration profile c(x=0.2, y): [-1.20091533e-68  3.07072246e-68 -8.63364671e-68  1.13374879e-68
+  1.82421863e-66 -1.38462870e-65  6.22805959e-65 -1.52655759e-64
+ -2.67961999e-64  5.48555163e-63 -3.54306867e-62  1.46225491e-61
+ -3.40761932e-61 -3.73471060e-61  7.67992108e-60 -2.93419432e-59
+ -8.11815553e-59  2.16431984e-57 -1.67698351e-56  1.74103367e-55
+  9.43746394e-55  4.32672049e-53  1.03351407e-51  2.52192267e-50
+  5.85732214e-49  1.29908463e-47  2.75744576e-46  5.59610289e-45
+  1.08635254e-43  2.01718620e-42  3.58307692e-41  6.08869655e-40
+  9.89867047e-39  1.53970063e-37  2.29152030e-36  3.26331086e-35
+  4.44690997e-34  5.79882318e-33  7.23632901e-32  8.64187193e-31
+  9.87692173e-30  1.08036858e-28  1.13102001e-27  1.13325426e-26
+  1.08680890e-25  9.97601699e-25  8.76492431e-24  7.37113659e-23
+  5.93367645e-22  4.57218443e-21  3.37241520e-20  2.38112565e-19
+  1.60936205e-18  1.04126489e-17  6.44926557e-17  3.82389632e-16
+  2.17046974e-15  1.17939111e-14  6.13511785e-14  3.05529496e-13
+  1.45664110e-12  6.64851958e-12  2.90518585e-11  1.21535421e-10
+  4.86760160e-10  1.86643743e-09  6.85174168e-09  2.40813251e-08
+  8.10315593e-08  2.61050685e-07  8.05182938e-07  2.37774619e-06
+  6.72263618e-06  1.81977939e-05  4.71633455e-05  1.17030420e-04
+  2.78037041e-04  6.32437488e-04  1.37735149e-03  2.87200540e-03
+  5.73376562e-03  1.09599769e-02  2.00583424e-02  3.51476817e-02
+  5.89678095e-02  9.47218711e-02  1.45680918e-01  2.14522195e-01
+  3.02453673e-01  4.08283973e-01  5.27694146e-01  6.53007535e-01
+  7.73694375e-01  8.77678040e-01  9.53267175e-01  9.91303360e-01
+  9.86983326e-01  9.40855565e-01  8.58705904e-01  7.50364993e-01
+  6.27777010e-01  5.02852832e-01  3.85635298e-01  2.83146102e-01
+  1.99039680e-01  1.33955683e-01  8.63121502e-02  5.32437603e-02
+  3.14447348e-02  1.77789363e-02  9.62361294e-03  4.98701527e-03
+  2.47405166e-03  1.17499866e-03  5.34221306e-04  2.32516941e-04
+  9.68794160e-05  3.86407443e-05  1.47533153e-05  5.39208318e-06
+  1.88642047e-06  6.31723415e-07  2.02494402e-07  6.21279495e-08
+  1.82447813e-08  5.12810474e-09  1.37952575e-09  3.55176859e-10
+  8.75160424e-11  2.06368776e-11  4.65690704e-12  1.00561336e-12
+  2.07790427e-13  4.10828510e-14  7.77166044e-15  1.40656841e-15
+  2.43542620e-16  4.03391547e-17  6.39122283e-18  9.68524691e-19
+  1.40367742e-19  1.94540307e-20  2.57803083e-21  3.26623404e-22
+  3.95571037e-23  4.57876674e-24  5.06451915e-25  5.35180588e-26
+  5.40165859e-27  5.20586591e-28  4.78906105e-29  4.20362920e-30
+  3.51888827e-31  2.80762769e-32  2.13360647e-33  1.54290904e-34
+  1.06052931e-35  6.91862882e-37  4.27505136e-38  2.50921430e-39]
+X-integrated concentration profile C(y) = $\int c(x,y), dx$ [-6.03068235e-64  1.27541589e-63 -4.34739828e-63  1.46463348e-62
+ -4.54571383e-62  1.25404198e-61 -2.83187668e-61  3.60702814e-61
+  1.08194802e-60 -1.20851408e-59  7.12106738e-59 -3.51249914e-58
+  1.59889133e-57 -6.96137827e-57  2.94035043e-56 -1.21031178e-55
+  4.85623774e-55 -1.89699606e-54  7.20529513e-54 -2.65913395e-53
+  9.56026445e-53 -3.31254509e-52  1.22531445e-51 -1.97102407e-51
+  5.71145628e-50  9.36097654e-49  2.08987323e-47  4.20300314e-46
+  8.15784487e-45  1.51208678e-43  2.68151991e-42  4.54906353e-41
+  7.38383902e-40  1.14687082e-38  1.70477672e-37  2.42537021e-36
+  3.30271248e-35  4.30485899e-34  5.37089287e-33  6.41403283e-32
+  7.33174904e-31  8.02176292e-30  8.40065802e-29  8.42045949e-28
+  8.07862769e-27  7.41858961e-26  6.52065906e-25  5.48597355e-24
+  4.41788485e-23  3.40549506e-22  2.51280070e-21  1.77482023e-20
+  1.19998439e-19  7.76654408e-19  4.81190223e-18  2.85396098e-17
+  1.62041673e-16  8.80760399e-16  4.58295797e-15  2.28294485e-14
+  1.08870596e-13  4.97044616e-13  2.17246853e-12  9.09051543e-12
+  3.64169674e-11  1.39669789e-10  5.12846745e-10  1.80285993e-09
+  6.06775860e-09  1.95519029e-08  6.03179470e-08  1.78157069e-07
+  5.03802842e-07  1.36402123e-06  3.53578935e-06  8.77522005e-06
+  2.08515110e-05  4.74379923e-05  1.03329794e-04  2.15494620e-04
+  4.30288641e-04  8.22615266e-04  1.50573242e-03  2.63884321e-03
+  4.42786713e-03  7.11362741e-03  1.09421684e-02  1.61150436e-02
+  2.27235054e-02  3.06785424e-02  3.96560389e-02  4.90793366e-02
+  5.81570223e-02  6.59810170e-02  7.16717989e-02  7.45399336e-02
+  7.42232353e-02  7.07619136e-02  6.45901850e-02  5.64467642e-02
+  4.72297076e-02  3.78349430e-02  2.90181874e-02  2.13080842e-02
+  1.49800343e-02  1.00826022e-02  6.49711870e-03  4.00824263e-03
+  2.36738389e-03  1.33863152e-03  7.24647849e-04  3.75545198e-04
+  1.86321086e-04  8.84955473e-05  4.02378845e-05  1.75144902e-05
+  7.29797646e-06  2.91100905e-06  1.11151135e-06  4.06261938e-07
+  1.42138719e-07  4.76018989e-08  1.52592357e-08  4.68196624e-09
+  1.37499286e-09  3.86489947e-10  1.03975174e-10  2.67708401e-11
+  6.59661971e-12  1.55558276e-12  3.51043500e-13  7.58066802e-14
+  1.56644031e-14  3.09713051e-15  5.85898048e-16  1.06041781e-16
+  1.83610529e-17  3.04126530e-18  4.81853169e-19  7.30201844e-20
+  1.05827635e-20  1.46669172e-21  1.94362528e-22  2.46243299e-23
+  2.98216397e-24  3.45177418e-25  3.81781976e-26  4.03419572e-27
+  4.07153944e-28  3.92368555e-29  3.60923555e-30  3.16771232e-31
+  2.65139691e-32  2.11517533e-33  1.60711162e-34  1.16193270e-35
+  7.98457859e-37  5.20728225e-38  3.21632549e-39  1.88667885e-40]
+Vertical concentration profile c(y=0.6, y): [ 2.24278455e-10  8.92434714e-10  3.40451424e-09  1.24082256e-08
+  4.32243427e-08  1.43938118e-07  4.58263891e-07  1.39509474e-06
+  4.06153019e-06  1.13088367e-05  3.01181431e-05  7.67284124e-05
+  1.86996841e-04  4.36005125e-04  9.72645820e-04  2.07609793e-03
+  4.24026491e-03  8.28724893e-03  1.54995301e-02  2.77417880e-02
+  4.75197111e-02  7.79024292e-02  1.22230449e-01  1.83557166e-01
+  2.63838531e-01  3.62986623e-01  4.78011517e-01  6.02546485e-01
+  7.27035610e-01  8.39733768e-01  9.28443954e-01  9.82663292e-01
+  9.95623395e-01  9.65678785e-01  8.96650176e-01  7.97023758e-01
+  6.78238060e-01  5.52535460e-01  4.30932648e-01  3.21761244e-01
+  2.30004710e-01  1.57406152e-01  1.03131592e-01  6.46918588e-02
+  3.88506285e-02  2.23377485e-02  1.22963409e-02  6.48051598e-03
+  3.26995913e-03  1.57970433e-03  7.30653670e-04  3.23557141e-04
+  1.37181423e-04  5.56859467e-05  2.16422725e-05  8.05318917e-06
+  2.86907192e-06  9.78642462e-07  3.19606968e-07  9.99351691e-08
+  2.99178689e-08  8.57537863e-09  2.35334911e-09  6.18343462e-10
+  1.55554800e-10  3.74668394e-11  8.64013213e-12  1.90766884e-12
+  4.03268565e-13  8.16195059e-14  1.58161617e-14  2.93437106e-15
+  5.21236643e-16  8.86461566e-17  1.44340750e-17  2.25019941e-18
+  3.35857388e-19  4.79942734e-20  6.56633802e-21  8.60111886e-22
+  1.07865628e-22  1.29510819e-23  1.48875148e-24  1.63843722e-25
+  1.72634266e-26  1.74145344e-27  1.68183106e-28  1.55502143e-29
+  1.37648556e-30  1.16650303e-31  9.46403990e-33  7.35091090e-34
+  5.46609239e-35  3.89117865e-36  2.65186124e-37  1.73014628e-38
+  1.08062172e-39  6.46131736e-41  3.69843885e-42  2.02659771e-43
+  1.06308526e-44  5.33715878e-46  2.56854122e-47  1.17576364e-48
+  5.27784108e-50  2.11017126e-51  9.05605418e-53  5.10170321e-54
+ -3.64560774e-55  8.06501020e-56 -3.70686883e-57 -1.77479491e-57
+  7.08094431e-58 -1.55458581e-58  2.25807302e-59 -1.42292011e-60
+ -3.45667354e-61  1.49071691e-61 -3.16196587e-62  3.99632498e-63
+ -3.32871780e-65 -1.43273192e-64  4.70106257e-65 -9.69146930e-66
+  1.37979656e-66 -9.24332992e-68 -1.80293450e-68  8.46580334e-69
+ -1.93342502e-69  2.98525930e-70 -2.52683389e-71 -2.33540002e-72
+  1.53532963e-72 -3.81378672e-73  6.28583404e-74 -6.02212280e-75
+ -3.19702773e-76  3.02909641e-76 -8.07480470e-77  1.39353301e-77
+ -1.39485508e-78 -6.98080392e-80  7.19133298e-80 -1.94813500e-80
+  3.34566692e-81 -3.09209341e-82 -2.85405874e-83  2.01182514e-83
+ -5.06453114e-84  7.92814703e-85 -5.19148449e-86 -1.37663295e-86
+  6.05740980e-87 -1.30170691e-87  1.63826387e-88 -5.07894484e-91
+ -5.92797357e-90  1.78824628e-90 -3.20310173e-91  4.39261087e-92]
+Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 1.68644174e-11  6.71156877e-11  2.56060671e-10  9.33322691e-10
+  3.25147115e-09  1.08280953e-08  3.44756556e-08  1.04958487e-07
+  3.05574554e-07  8.50855989e-07  2.26607454e-06  5.77307985e-06
+  1.40698236e-05  3.28055150e-05  7.31827763e-05  1.56206472e-04
+  3.19035837e-04  6.23520193e-04  1.16614026e-03  2.08716781e-03
+  3.57508187e-03  5.86072261e-03  9.19530808e-03  1.38084118e-02
+  1.98470043e-02  2.73042725e-02  3.59551020e-02  4.53204132e-02
+  5.46813366e-02  6.31544874e-02  6.98226773e-02  7.38963210e-02
+  7.48668480e-02  7.26110352e-02  6.74167145e-02  5.99224500e-02
+  5.09886311e-02  4.15358799e-02  3.23924573e-02  2.41845853e-02
+  1.72866661e-02  1.18294625e-02  7.75002351e-03  4.86102789e-03
+  2.91905929e-03  1.67822368e-03  9.23742923e-04  4.86798002e-04
+  2.45609235e-04  1.18642565e-04  5.48703618e-05  2.42961776e-05
+  1.03001167e-05  4.18072386e-06  1.62467659e-06  6.04490227e-07
+  2.15337301e-07  7.34441903e-08  2.39830432e-08  7.49825393e-09
+  2.24452917e-09  6.43279567e-10  1.76515843e-10  4.63742602e-11
+  1.16648594e-11  2.80925384e-12  6.47755446e-13  1.43001090e-13
+  3.02256244e-14  6.11671535e-15  1.18513444e-15  2.19848013e-16
+  3.90465071e-17  6.63965640e-18  1.08096533e-18  1.68492107e-19
+  2.51447786e-20  3.59265317e-21  4.91451561e-22  6.43639712e-23
+  8.07050044e-24  9.68841367e-25  1.11352231e-25  1.22529133e-26
+  1.29084805e-27  1.30199308e-28  1.25731492e-29  1.16248411e-30
+  1.02906943e-31  8.72217641e-33  7.07839837e-34  5.50022475e-35
+  4.09225639e-36  2.91526737e-37  1.98846465e-38  1.29856323e-39
+  8.11898931e-41  4.85929886e-42  2.78494560e-43  1.52567390e-44
+  8.05509488e-46  3.93436495e-47  2.17917064e-48  2.76294298e-50
+  1.93860049e-50 -3.74907881e-51  9.96922205e-52 -2.48837488e-52
+  6.26226148e-53 -1.56881201e-53  3.91650485e-54 -9.73510894e-55
+  2.40746526e-55 -5.91706910e-56  1.44349169e-56 -3.48957510e-57
+  8.34232461e-58 -1.96699831e-58  4.55791810e-59 -1.03262810e-59
+  2.26932563e-60 -4.77328494e-61  9.36712261e-62 -1.61621692e-62
+  2.00099531e-63  7.09794167e-65 -1.77446901e-64  8.89928243e-65
+ -3.47267386e-65  1.21734071e-65 -4.02109911e-66  1.27913819e-66
+ -3.96461509e-67  1.20557383e-67 -3.61232273e-68  1.06962512e-68
+ -3.13616945e-69  9.11866874e-70 -2.63228409e-70  7.55142856e-71
+ -2.15474557e-71  6.12026420e-72 -1.73161049e-72  4.88306267e-73
+ -1.37311278e-73  3.85171519e-74 -1.07808559e-74  3.01148428e-75
+ -8.39615649e-76  2.33653655e-76 -6.49024471e-77  1.79947585e-77
+ -4.98006795e-78  1.37580222e-78 -3.79457676e-79  1.04508055e-79
+ -2.87575225e-80  7.94135277e-81 -2.32661007e-81  1.19111946e-81]
+2026-07-22 22:35:42| Saved at t = 0
+Step: 0/500.0| time step t=0| Next Save=0.05
+Step: 0/500.0| time step t=0| Next Save gaussian=1
+t=0.010  |v|_max = 4.3026e-01
+concentration change = 1.397e-02
+t=0.010 | Total Mass in Domain = 0.005655
+Step: 1/500.0| time step t=0.01| Next Save=0.05
+Step: 1/500.0| time step t=0.01| Next Save gaussian=1
+t=0.020  |v|_max = 8.5882e-01
+concentration change = 2.787e-02
+t=0.020 | Total Mass in Domain = 0.005655
+Step: 2/500.0| time step t=0.02| Next Save=0.05
+Step: 2/500.0| time step t=0.02| Next Save gaussian=1
+t=0.030  |v|_max = 1.2840e+00
+concentration change = 4.166e-02
+t=0.030 | Total Mass in Domain = 0.005655
+Step: 3/500.0| time step t=0.03| Next Save=0.05
+Step: 3/500.0| time step t=0.03| Next Save gaussian=1
+t=0.040  |v|_max = 1.7041e+00
+concentration change = 5.528e-02
+t=0.040 | Total Mass in Domain = 0.005655
+Step: 4/500.0| time step t=0.04| Next Save=0.05
+Step: 4/500.0| time step t=0.04| Next Save gaussian=1
+t=0.050  |v|_max = 2.1175e+00
+concentration change = 6.868e-02
+t=0.050 | Total Mass in Domain = 0.005655
+2026-07-22 22:36:06| Saved at t = 0.05
+Step: 5/500.0| time step t=0.05| Next Save=0.1
+Step: 5/500.0| time step t=0.05| Next Save gaussian=1
+t=0.060  |v|_max = 2.5225e+00
+concentration change = 8.179e-02
+t=0.060 | Total Mass in Domain = 0.005655
+Step: 6/500.0| time step t=0.060000000000000005| Next Save=0.1
+Step: 6/500.0| time step t=0.060000000000000005| Next Save gaussian=1
+t=0.070  |v|_max = 2.9176e+00
+concentration change = 9.457e-02
+t=0.070 | Total Mass in Domain = 0.005655
+Step: 7/500.0| time step t=0.07| Next Save=0.1
+Step: 7/500.0| time step t=0.07| Next Save gaussian=1
+t=0.080  |v|_max = 3.3011e+00
+concentration change = 1.070e-01
+t=0.080 | Total Mass in Domain = 0.005655
+Step: 8/500.0| time step t=0.08| Next Save=0.1
+Step: 8/500.0| time step t=0.08| Next Save gaussian=1
+t=0.090  |v|_max = 3.6717e+00
+concentration change = 1.189e-01
+t=0.090 | Total Mass in Domain = 0.005655
+Step: 9/500.0| time step t=0.09| Next Save=0.1
+Step: 9/500.0| time step t=0.09| Next Save gaussian=1
+t=0.100  |v|_max = 4.0277e+00
+concentration change = 1.304e-01
+t=0.100 | Total Mass in Domain = 0.005655
+2026-07-22 22:36:20| Saved at t = 0.09999999999999999
+Step: 10/500.0| time step t=0.09999999999999999| Next Save=0.15000000000000002
+Step: 10/500.0| time step t=0.09999999999999999| Next Save gaussian=1
+t=0.110  |v|_max = 4.3678e+00
+concentration change = 1.413e-01
+t=0.110 | Total Mass in Domain = 0.005655
+Step: 11/500.0| time step t=0.10999999999999999| Next Save=0.15000000000000002
+Step: 11/500.0| time step t=0.10999999999999999| Next Save gaussian=1
+t=0.120  |v|_max = 4.6907e+00
+concentration change = 1.517e-01
+t=0.120 | Total Mass in Domain = 0.005655
+Step: 12/500.0| time step t=0.11999999999999998| Next Save=0.15000000000000002
+Step: 12/500.0| time step t=0.11999999999999998| Next Save gaussian=1
+t=0.130  |v|_max = 4.9951e+00
+concentration change = 1.614e-01
+t=0.130 | Total Mass in Domain = 0.005655
+Step: 13/500.0| time step t=0.12999999999999998| Next Save=0.15000000000000002
+Step: 13/500.0| time step t=0.12999999999999998| Next Save gaussian=1
+t=0.140  |v|_max = 5.2798e+00
+concentration change = 1.704e-01
+t=0.140 | Total Mass in Domain = 0.005655
+Step: 14/500.0| time step t=0.13999999999999999| Next Save=0.15000000000000002
+Step: 14/500.0| time step t=0.13999999999999999| Next Save gaussian=1
+t=0.150  |v|_max = 5.5436e+00
+concentration change = 1.788e-01
+t=0.150 | Total Mass in Domain = 0.005655
+2026-07-22 22:36:42| Saved at t = 0.15
+Step: 15/500.0| time step t=0.15| Next Save=0.2
+Step: 15/500.0| time step t=0.15| Next Save gaussian=1
+t=0.160  |v|_max = 5.7856e+00
+concentration change = 1.864e-01
+t=0.160 | Total Mass in Domain = 0.005655
+Step: 16/500.0| time step t=0.16| Next Save=0.2
+Step: 16/500.0| time step t=0.16| Next Save gaussian=1
+t=0.170  |v|_max = 6.0047e+00
+concentration change = 1.933e-01
+t=0.170 | Total Mass in Domain = 0.005655
+Step: 17/500.0| time step t=0.17| Next Save=0.2
+Step: 17/500.0| time step t=0.17| Next Save gaussian=1
+t=0.180  |v|_max = 6.2002e+00
+concentration change = 1.994e-01
+t=0.180 | Total Mass in Domain = 0.005655
+Step: 18/500.0| time step t=0.18000000000000002| Next Save=0.2
+Step: 18/500.0| time step t=0.18000000000000002| Next Save gaussian=1
+t=0.190  |v|_max = 6.3711e+00
+concentration change = 2.046e-01
+t=0.190 | Total Mass in Domain = 0.005655
+Step: 19/500.0| time step t=0.19000000000000003| Next Save=0.2
+Step: 19/500.0| time step t=0.19000000000000003| Next Save gaussian=1
+t=0.200  |v|_max = 6.5169e+00
+concentration change = 2.091e-01
+t=0.200 | Total Mass in Domain = 0.005655
+2026-07-22 22:37:07| Saved at t = 0.20000000000000004
+Step: 20/500.0| time step t=0.20000000000000004| Next Save=0.25
+Step: 20/500.0| time step t=0.20000000000000004| Next Save gaussian=1
+t=0.210  |v|_max = 6.6370e+00
+concentration change = 2.127e-01
+t=0.210 | Total Mass in Domain = 0.005655
+Step: 21/500.0| time step t=0.21000000000000005| Next Save=0.25
+Step: 21/500.0| time step t=0.21000000000000005| Next Save gaussian=1
+t=0.220  |v|_max = 6.7309e+00
+concentration change = 2.154e-01
+t=0.220 | Total Mass in Domain = 0.005655
+Step: 22/500.0| time step t=0.22000000000000006| Next Save=0.25
+Step: 22/500.0| time step t=0.22000000000000006| Next Save gaussian=1
+t=0.230  |v|_max = 6.7983e+00
+concentration change = 2.173e-01
+t=0.230 | Total Mass in Domain = 0.005655
+Step: 23/500.0| time step t=0.23000000000000007| Next Save=0.25
+Step: 23/500.0| time step t=0.23000000000000007| Next Save gaussian=1
+t=0.240  |v|_max = 6.8388e+00
+concentration change = 2.183e-01
+t=0.240 | Total Mass in Domain = 0.005655
+Step: 24/500.0| time step t=0.24000000000000007| Next Save=0.25
+Step: 24/500.0| time step t=0.24000000000000007| Next Save gaussian=1
+t=0.250  |v|_max = 6.8523e+00
+concentration change = 2.185e-01
+t=0.250 | Total Mass in Domain = 0.005655
+2026-07-22 22:37:35| Saved at t = 0.25000000000000006
+Step: 25/500.0| time step t=0.25000000000000006| Next Save=0.3
+Step: 25/500.0| time step t=0.25000000000000006| Next Save gaussian=1
+t=0.260  |v|_max = 6.8388e+00
+concentration change = 2.178e-01
+t=0.260 | Total Mass in Domain = 0.005655
+Step: 26/500.0| time step t=0.26000000000000006| Next Save=0.3
+Step: 26/500.0| time step t=0.26000000000000006| Next Save gaussian=1
+t=0.270  |v|_max = 6.7983e+00
+concentration change = 2.162e-01
+t=0.270 | Total Mass in Domain = 0.005655
+Step: 27/500.0| time step t=0.2700000000000001| Next Save=0.3
+Step: 27/500.0| time step t=0.2700000000000001| Next Save gaussian=1
+t=0.280  |v|_max = 6.7309e+00
+concentration change = 2.138e-01
+t=0.280 | Total Mass in Domain = 0.005655
+Step: 28/500.0| time step t=0.2800000000000001| Next Save=0.3
+Step: 28/500.0| time step t=0.2800000000000001| Next Save gaussian=1
+t=0.290  |v|_max = 6.6370e+00
+concentration change = 2.106e-01
+t=0.290 | Total Mass in Domain = 0.005655
+Step: 29/500.0| time step t=0.2900000000000001| Next Save=0.3
+Step: 29/500.0| time step t=0.2900000000000001| Next Save gaussian=1
+t=0.300  |v|_max = 6.5169e+00
+concentration change = 2.066e-01
+t=0.300 | Total Mass in Domain = 0.005655
+2026-07-22 22:37:55| Saved at t = 0.3000000000000001
+Step: 30/500.0| time step t=0.3000000000000001| Next Save=0.35
+Step: 30/500.0| time step t=0.3000000000000001| Next Save gaussian=1
+t=0.310  |v|_max = 6.3711e+00
+concentration change = 2.018e-01
+t=0.310 | Total Mass in Domain = 0.005655
+Step: 31/500.0| time step t=0.3100000000000001| Next Save=0.35
+Step: 31/500.0| time step t=0.3100000000000001| Next Save gaussian=1
+t=0.320  |v|_max = 6.2002e+00
+concentration change = 1.962e-01
+t=0.320 | Total Mass in Domain = 0.005655
+Step: 32/500.0| time step t=0.3200000000000001| Next Save=0.35
+Step: 32/500.0| time step t=0.3200000000000001| Next Save gaussian=1
+t=0.330  |v|_max = 6.0047e+00
+concentration change = 1.898e-01
+t=0.330 | Total Mass in Domain = 0.005655
+Step: 33/500.0| time step t=0.3300000000000001| Next Save=0.35
+Step: 33/500.0| time step t=0.3300000000000001| Next Save gaussian=1
+t=0.340  |v|_max = 5.7856e+00
+concentration change = 1.827e-01
+t=0.340 | Total Mass in Domain = 0.005655
+Step: 34/500.0| time step t=0.34000000000000014| Next Save=0.35
+Step: 34/500.0| time step t=0.34000000000000014| Next Save gaussian=1
+t=0.350  |v|_max = 5.5436e+00
+concentration change = 1.749e-01
+t=0.350 | Total Mass in Domain = 0.005655
+2026-07-22 22:38:09| Saved at t = 0.35000000000000014
+Step: 35/500.0| time step t=0.35000000000000014| Next Save=0.39999999999999997
+Step: 35/500.0| time step t=0.35000000000000014| Next Save gaussian=1
+t=0.360  |v|_max = 5.2798e+00
+concentration change = 1.665e-01
+t=0.360 | Total Mass in Domain = 0.005655
+Step: 36/500.0| time step t=0.36000000000000015| Next Save=0.39999999999999997
+Step: 36/500.0| time step t=0.36000000000000015| Next Save gaussian=1
+t=0.370  |v|_max = 4.9951e+00
+concentration change = 1.574e-01
+t=0.370 | Total Mass in Domain = 0.005655
+Step: 37/500.0| time step t=0.37000000000000016| Next Save=0.39999999999999997
+Step: 37/500.0| time step t=0.37000000000000016| Next Save gaussian=1
+t=0.380  |v|_max = 4.6907e+00
+concentration change = 1.477e-01
+t=0.380 | Total Mass in Domain = 0.005655
+Step: 38/500.0| time step t=0.38000000000000017| Next Save=0.39999999999999997
+Step: 38/500.0| time step t=0.38000000000000017| Next Save gaussian=1
+t=0.390  |v|_max = 4.3678e+00
+concentration change = 1.375e-01
+t=0.390 | Total Mass in Domain = 0.005655
+Step: 39/500.0| time step t=0.3900000000000002| Next Save=0.39999999999999997
+Step: 39/500.0| time step t=0.3900000000000002| Next Save gaussian=1
+t=0.400  |v|_max = 4.0277e+00
+concentration change = 1.267e-01
+t=0.400 | Total Mass in Domain = 0.005655
+2026-07-22 22:38:22| Saved at t = 0.4000000000000002
+Step: 40/500.0| time step t=0.4000000000000002| Next Save=0.44999999999999996
+Step: 40/500.0| time step t=0.4000000000000002| Next Save gaussian=1
+t=0.410  |v|_max = 3.6717e+00
+concentration change = 1.155e-01
+t=0.410 | Total Mass in Domain = 0.005655
+Step: 41/500.0| time step t=0.4100000000000002| Next Save=0.44999999999999996
+Step: 41/500.0| time step t=0.4100000000000002| Next Save gaussian=1
+t=0.420  |v|_max = 3.3011e+00
+concentration change = 1.038e-01
+t=0.420 | Total Mass in Domain = 0.005655
+Step: 42/500.0| time step t=0.4200000000000002| Next Save=0.44999999999999996
+Step: 42/500.0| time step t=0.4200000000000002| Next Save gaussian=1
+t=0.430  |v|_max = 2.9176e+00
+concentration change = 9.171e-02
+t=0.430 | Total Mass in Domain = 0.005655
+Step: 43/500.0| time step t=0.4300000000000002| Next Save=0.44999999999999996
+Step: 43/500.0| time step t=0.4300000000000002| Next Save gaussian=1
+t=0.440  |v|_max = 2.5225e+00
+concentration change = 7.928e-02
+t=0.440 | Total Mass in Domain = 0.005655
+Step: 44/500.0| time step t=0.4400000000000002| Next Save=0.44999999999999996
+Step: 44/500.0| time step t=0.4400000000000002| Next Save gaussian=1
+t=0.450  |v|_max = 2.1175e+00
+concentration change = 6.653e-02
+t=0.450 | Total Mass in Domain = 0.005655
+2026-07-22 22:38:40| Saved at t = 0.45000000000000023
+Step: 45/500.0| time step t=0.45000000000000023| Next Save=0.49999999999999994
+Step: 45/500.0| time step t=0.45000000000000023| Next Save gaussian=1
+t=0.460  |v|_max = 1.7041e+00
+concentration change = 5.353e-02
+t=0.460 | Total Mass in Domain = 0.005655
+Step: 46/500.0| time step t=0.46000000000000024| Next Save=0.49999999999999994
+Step: 46/500.0| time step t=0.46000000000000024| Next Save gaussian=1
+t=0.470  |v|_max = 1.2840e+00
+concentration change = 4.033e-02
+t=0.470 | Total Mass in Domain = 0.005655
+Step: 47/500.0| time step t=0.47000000000000025| Next Save=0.49999999999999994
+Step: 47/500.0| time step t=0.47000000000000025| Next Save gaussian=1
+t=0.480  |v|_max = 8.5882e-01
+concentration change = 2.697e-02
+t=0.480 | Total Mass in Domain = 0.005655
+Step: 48/500.0| time step t=0.48000000000000026| Next Save=0.49999999999999994
+Step: 48/500.0| time step t=0.48000000000000026| Next Save gaussian=1
+t=0.490  |v|_max = 4.3026e-01
+concentration change = 1.351e-02
+t=0.490 | Total Mass in Domain = 0.005655
+Step: 49/500.0| time step t=0.49000000000000027| Next Save=0.49999999999999994
+Step: 49/500.0| time step t=0.49000000000000027| Next Save gaussian=1
+t=0.500  |v|_max = 8.2899e-15
+concentration change = 5.221e-04
+t=0.500 | Total Mass in Domain = 0.005655
+2026-07-22 22:38:55| Saved at t = 0.5000000000000002
+Step: 50/500.0| time step t=0.5000000000000002| Next Save=0.5499999999999999
+Step: 50/500.0| time step t=0.5000000000000002| Next Save gaussian=1
+t=0.510  |v|_max = 4.3026e-01
+concentration change = 1.355e-02
+t=0.510 | Total Mass in Domain = 0.005655
+Step: 51/500.0| time step t=0.5100000000000002| Next Save=0.5499999999999999
+Step: 51/500.0| time step t=0.5100000000000002| Next Save gaussian=1
+t=0.520  |v|_max = 8.5882e-01
+concentration change = 2.700e-02
+t=0.520 | Total Mass in Domain = 0.005655
+Step: 52/500.0| time step t=0.5200000000000002| Next Save=0.5499999999999999
+Step: 52/500.0| time step t=0.5200000000000002| Next Save gaussian=1
+t=0.530  |v|_max = 1.2840e+00
+concentration change = 4.035e-02
+t=0.530 | Total Mass in Domain = 0.005655
+Step: 53/500.0| time step t=0.5300000000000002| Next Save=0.5499999999999999
+Step: 53/500.0| time step t=0.5300000000000002| Next Save gaussian=1
+t=0.540  |v|_max = 1.7041e+00
+concentration change = 5.353e-02
+t=0.540 | Total Mass in Domain = 0.005655
+Step: 54/500.0| time step t=0.5400000000000003| Next Save=0.5499999999999999
+Step: 54/500.0| time step t=0.5400000000000003| Next Save gaussian=1
+t=0.550  |v|_max = 2.1175e+00
+concentration change = 6.650e-02
+t=0.550 | Total Mass in Domain = 0.005655
+2026-07-22 22:39:13| Saved at t = 0.5500000000000003
+Step: 55/500.0| time step t=0.5500000000000003| Next Save=0.6
+Step: 55/500.0| time step t=0.5500000000000003| Next Save gaussian=1
+t=0.560  |v|_max = 2.5225e+00
+concentration change = 7.919e-02
+t=0.560 | Total Mass in Domain = 0.005655
+Step: 56/500.0| time step t=0.5600000000000003| Next Save=0.6
+Step: 56/500.0| time step t=0.5600000000000003| Next Save gaussian=1
+t=0.570  |v|_max = 2.9176e+00
+concentration change = 9.157e-02
+t=0.570 | Total Mass in Domain = 0.005655
+Step: 57/500.0| time step t=0.5700000000000003| Next Save=0.6
+Step: 57/500.0| time step t=0.5700000000000003| Next Save gaussian=1
+t=0.580  |v|_max = 3.3011e+00
+concentration change = 1.036e-01
+t=0.580 | Total Mass in Domain = 0.005655
+Step: 58/500.0| time step t=0.5800000000000003| Next Save=0.6
+Step: 58/500.0| time step t=0.5800000000000003| Next Save gaussian=1
+t=0.590  |v|_max = 3.6717e+00
+concentration change = 1.151e-01
+t=0.590 | Total Mass in Domain = 0.005655
+Step: 59/500.0| time step t=0.5900000000000003| Next Save=0.6
+Step: 59/500.0| time step t=0.5900000000000003| Next Save gaussian=1
+t=0.600  |v|_max = 4.0277e+00
+concentration change = 1.262e-01
+t=0.600 | Total Mass in Domain = 0.005655
+2026-07-22 22:39:37| Saved at t = 0.6000000000000003
+Step: 60/500.0| time step t=0.6000000000000003| Next Save=0.65
+Step: 60/500.0| time step t=0.6000000000000003| Next Save gaussian=1
+t=0.610  |v|_max = 4.3678e+00
+concentration change = 1.368e-01
+t=0.610 | Total Mass in Domain = 0.005655
+Step: 61/500.0| time step t=0.6100000000000003| Next Save=0.65
+Step: 61/500.0| time step t=0.6100000000000003| Next Save gaussian=1
+t=0.620  |v|_max = 4.6907e+00
+concentration change = 1.468e-01
+t=0.620 | Total Mass in Domain = 0.005655
+Step: 62/500.0| time step t=0.6200000000000003| Next Save=0.65
+Step: 62/500.0| time step t=0.6200000000000003| Next Save gaussian=1
+t=0.630  |v|_max = 4.9951e+00
+concentration change = 1.562e-01
+t=0.630 | Total Mass in Domain = 0.005655
+Step: 63/500.0| time step t=0.6300000000000003| Next Save=0.65
+Step: 63/500.0| time step t=0.6300000000000003| Next Save gaussian=1
+t=0.640  |v|_max = 5.2798e+00
+concentration change = 1.650e-01
+t=0.640 | Total Mass in Domain = 0.005655
+Step: 64/500.0| time step t=0.6400000000000003| Next Save=0.65
+Step: 64/500.0| time step t=0.6400000000000003| Next Save gaussian=1
+t=0.650  |v|_max = 5.5436e+00
+concentration change = 1.731e-01
+t=0.650 | Total Mass in Domain = 0.005655
+2026-07-22 22:40:05| Saved at t = 0.6500000000000004
+Step: 65/500.0| time step t=0.6500000000000004| Next Save=0.7000000000000001
+Step: 65/500.0| time step t=0.6500000000000004| Next Save gaussian=1
+t=0.660  |v|_max = 5.7856e+00
+concentration change = 1.805e-01
+t=0.660 | Total Mass in Domain = 0.005655
+Step: 66/500.0| time step t=0.6600000000000004| Next Save=0.7000000000000001
+Step: 66/500.0| time step t=0.6600000000000004| Next Save gaussian=1
+t=0.670  |v|_max = 6.0047e+00
+concentration change = 1.872e-01
+t=0.670 | Total Mass in Domain = 0.005655
+Step: 67/500.0| time step t=0.6700000000000004| Next Save=0.7000000000000001
+Step: 67/500.0| time step t=0.6700000000000004| Next Save gaussian=1
+t=0.680  |v|_max = 6.2002e+00
+concentration change = 1.930e-01
+t=0.680 | Total Mass in Domain = 0.005655
+Step: 68/500.0| time step t=0.6800000000000004| Next Save=0.7000000000000001
+Step: 68/500.0| time step t=0.6800000000000004| Next Save gaussian=1
+t=0.690  |v|_max = 6.3711e+00
+concentration change = 1.982e-01
+t=0.690 | Total Mass in Domain = 0.005655
+Step: 69/500.0| time step t=0.6900000000000004| Next Save=0.7000000000000001
+Step: 69/500.0| time step t=0.6900000000000004| Next Save gaussian=1
+t=0.700  |v|_max = 6.5169e+00
+concentration change = 2.025e-01
+t=0.700 | Total Mass in Domain = 0.005655
+2026-07-22 22:40:37| Saved at t = 0.7000000000000004
+Step: 70/500.0| time step t=0.7000000000000004| Next Save=0.7500000000000001
+Step: 70/500.0| time step t=0.7000000000000004| Next Save gaussian=1
+t=0.710  |v|_max = 6.6370e+00
+concentration change = 2.060e-01
+t=0.710 | Total Mass in Domain = 0.005655
+Step: 71/500.0| time step t=0.7100000000000004| Next Save=0.7500000000000001
+Step: 71/500.0| time step t=0.7100000000000004| Next Save gaussian=1
+t=0.720  |v|_max = 6.7309e+00
+concentration change = 2.086e-01
+t=0.720 | Total Mass in Domain = 0.005655
+Step: 72/500.0| time step t=0.7200000000000004| Next Save=0.7500000000000001
+Step: 72/500.0| time step t=0.7200000000000004| Next Save gaussian=1
+t=0.730  |v|_max = 6.7983e+00
+concentration change = 2.105e-01
+t=0.730 | Total Mass in Domain = 0.005655
+Step: 73/500.0| time step t=0.7300000000000004| Next Save=0.7500000000000001
+Step: 73/500.0| time step t=0.7300000000000004| Next Save gaussian=1
+t=0.740  |v|_max = 6.8388e+00
+concentration change = 2.115e-01
+t=0.740 | Total Mass in Domain = 0.005655
+Step: 74/500.0| time step t=0.7400000000000004| Next Save=0.7500000000000001
+Step: 74/500.0| time step t=0.7400000000000004| Next Save gaussian=1
+t=0.750  |v|_max = 6.8523e+00
+concentration change = 2.116e-01
+t=0.750 | Total Mass in Domain = 0.005655
+2026-07-22 22:40:53| Saved at t = 0.7500000000000004
+Step: 75/500.0| time step t=0.7500000000000004| Next Save=0.8000000000000002
+Step: 75/500.0| time step t=0.7500000000000004| Next Save gaussian=1
+t=0.760  |v|_max = 6.8388e+00
+concentration change = 2.110e-01
+t=0.760 | Total Mass in Domain = 0.005655
+Step: 76/500.0| time step t=0.7600000000000005| Next Save=0.8000000000000002
+Step: 76/500.0| time step t=0.7600000000000005| Next Save gaussian=1
+t=0.770  |v|_max = 6.7983e+00
+concentration change = 2.095e-01
+t=0.770 | Total Mass in Domain = 0.005655
+Step: 77/500.0| time step t=0.7700000000000005| Next Save=0.8000000000000002
+Step: 77/500.0| time step t=0.7700000000000005| Next Save gaussian=1
+t=0.780  |v|_max = 6.7309e+00
+concentration change = 2.072e-01
+t=0.780 | Total Mass in Domain = 0.005655
+Step: 78/500.0| time step t=0.7800000000000005| Next Save=0.8000000000000002
+Step: 78/500.0| time step t=0.7800000000000005| Next Save gaussian=1
+t=0.790  |v|_max = 6.6370e+00
+concentration change = 2.040e-01
+t=0.790 | Total Mass in Domain = 0.005655
+Step: 79/500.0| time step t=0.7900000000000005| Next Save=0.8000000000000002
+Step: 79/500.0| time step t=0.7900000000000005| Next Save gaussian=1
+t=0.800  |v|_max = 6.5169e+00
+concentration change = 2.001e-01
+t=0.800 | Total Mass in Domain = 0.005655
+2026-07-22 22:41:06| Saved at t = 0.8000000000000005
+Step: 80/500.0| time step t=0.8000000000000005| Next Save=0.8500000000000002
+Step: 80/500.0| time step t=0.8000000000000005| Next Save gaussian=1
+t=0.810  |v|_max = 6.3711e+00
+concentration change = 1.955e-01
+t=0.810 | Total Mass in Domain = 0.005655
+Step: 81/500.0| time step t=0.8100000000000005| Next Save=0.8500000000000002
+Step: 81/500.0| time step t=0.8100000000000005| Next Save gaussian=1
+t=0.820  |v|_max = 6.2002e+00
+concentration change = 1.900e-01
+t=0.820 | Total Mass in Domain = 0.005655
+Step: 82/500.0| time step t=0.8200000000000005| Next Save=0.8500000000000002
+Step: 82/500.0| time step t=0.8200000000000005| Next Save gaussian=1
+t=0.830  |v|_max = 6.0047e+00
+concentration change = 1.839e-01
+t=0.830 | Total Mass in Domain = 0.005655
+Step: 83/500.0| time step t=0.8300000000000005| Next Save=0.8500000000000002
+Step: 83/500.0| time step t=0.8300000000000005| Next Save gaussian=1
+t=0.840  |v|_max = 5.7856e+00
+concentration change = 1.770e-01
+t=0.840 | Total Mass in Domain = 0.005655
+Step: 84/500.0| time step t=0.8400000000000005| Next Save=0.8500000000000002
+Step: 84/500.0| time step t=0.8400000000000005| Next Save gaussian=1
+t=0.850  |v|_max = 5.5436e+00
+concentration change = 1.695e-01
+t=0.850 | Total Mass in Domain = 0.005655
+2026-07-22 22:41:26| Saved at t = 0.8500000000000005
+Step: 85/500.0| time step t=0.8500000000000005| Next Save=0.9000000000000002
+Step: 85/500.0| time step t=0.8500000000000005| Next Save gaussian=1
+t=0.860  |v|_max = 5.2798e+00
+concentration change = 1.613e-01
+t=0.860 | Total Mass in Domain = 0.005655
+Step: 86/500.0| time step t=0.8600000000000005| Next Save=0.9000000000000002
+Step: 86/500.0| time step t=0.8600000000000005| Next Save gaussian=1
+t=0.870  |v|_max = 4.9951e+00
+concentration change = 1.525e-01
+t=0.870 | Total Mass in Domain = 0.005655
+Step: 87/500.0| time step t=0.8700000000000006| Next Save=0.9000000000000002
+Step: 87/500.0| time step t=0.8700000000000006| Next Save gaussian=1
+t=0.880  |v|_max = 4.6907e+00
+concentration change = 1.432e-01
+t=0.880 | Total Mass in Domain = 0.005655
+Step: 88/500.0| time step t=0.8800000000000006| Next Save=0.9000000000000002
+Step: 88/500.0| time step t=0.8800000000000006| Next Save gaussian=1
+t=0.890  |v|_max = 4.3678e+00
+concentration change = 1.332e-01
+t=0.890 | Total Mass in Domain = 0.005655
+Step: 89/500.0| time step t=0.8900000000000006| Next Save=0.9000000000000002
+Step: 89/500.0| time step t=0.8900000000000006| Next Save gaussian=1
+t=0.900  |v|_max = 4.0277e+00
+concentration change = 1.228e-01
+t=0.900 | Total Mass in Domain = 0.005655
+2026-07-22 22:41:40| Saved at t = 0.9000000000000006
+Step: 90/500.0| time step t=0.9000000000000006| Next Save=0.9500000000000003
+Step: 90/500.0| time step t=0.9000000000000006| Next Save gaussian=1
+t=0.910  |v|_max = 3.6717e+00
+concentration change = 1.119e-01
+t=0.910 | Total Mass in Domain = 0.005655
+Step: 91/500.0| time step t=0.9100000000000006| Next Save=0.9500000000000003
+Step: 91/500.0| time step t=0.9100000000000006| Next Save gaussian=1
+t=0.920  |v|_max = 3.3011e+00
+concentration change = 1.006e-01
+t=0.920 | Total Mass in Domain = 0.005655
+Step: 92/500.0| time step t=0.9200000000000006| Next Save=0.9500000000000003
+Step: 92/500.0| time step t=0.9200000000000006| Next Save gaussian=1
+t=0.930  |v|_max = 2.9176e+00
+concentration change = 8.888e-02
+t=0.930 | Total Mass in Domain = 0.005655
+Step: 93/500.0| time step t=0.9300000000000006| Next Save=0.9500000000000003
+Step: 93/500.0| time step t=0.9300000000000006| Next Save gaussian=1
+t=0.940  |v|_max = 2.5225e+00
+concentration change = 7.683e-02
+t=0.940 | Total Mass in Domain = 0.005655
+Step: 94/500.0| time step t=0.9400000000000006| Next Save=0.9500000000000003
+Step: 94/500.0| time step t=0.9400000000000006| Next Save gaussian=1
+t=0.950  |v|_max = 2.1175e+00
+concentration change = 6.448e-02
+t=0.950 | Total Mass in Domain = 0.005655
+2026-07-22 22:41:59| Saved at t = 0.9500000000000006
+Step: 95/500.0| time step t=0.9500000000000006| Next Save=1.0000000000000002
+Step: 95/500.0| time step t=0.9500000000000006| Next Save gaussian=1
+t=0.960  |v|_max = 1.7041e+00
+concentration change = 5.189e-02
+t=0.960 | Total Mass in Domain = 0.005655
+Step: 96/500.0| time step t=0.9600000000000006| Next Save=1.0000000000000002
+Step: 96/500.0| time step t=0.9600000000000006| Next Save gaussian=1
+t=0.970  |v|_max = 1.2840e+00
+concentration change = 3.909e-02
+t=0.970 | Total Mass in Domain = 0.005655
+Step: 97/500.0| time step t=0.9700000000000006| Next Save=1.0000000000000002
+Step: 97/500.0| time step t=0.9700000000000006| Next Save gaussian=1
+t=0.980  |v|_max = 8.5882e-01
+concentration change = 2.615e-02
+t=0.980 | Total Mass in Domain = 0.005655
+Step: 98/500.0| time step t=0.9800000000000006| Next Save=1.0000000000000002
+Step: 98/500.0| time step t=0.9800000000000006| Next Save gaussian=1
+t=0.990  |v|_max = 4.3026e-01
+concentration change = 1.310e-02
+t=0.990 | Total Mass in Domain = 0.005655
+Step: 99/500.0| time step t=0.9900000000000007| Next Save=1.0000000000000002
+Step: 99/500.0| time step t=0.9900000000000007| Next Save gaussian=1
+t=1.000  |v|_max = 2.8752e-14
+concentration change = 3.743e-04
+t=1.000 | Total Mass in Domain = 0.005655
+Vertical concentration profile c(x=0.2, y): [-5.28466287e-37 -1.09783790e-38  6.84516609e-39  4.97325352e-38
+ -3.15760705e-38  3.57537667e-38 -3.74500600e-38  3.86923149e-38
+ -3.96650117e-38  3.98980846e-38 -3.91524054e-38  3.74579276e-38
+ -3.50720417e-38  3.22993926e-38 -2.90532542e-38  2.45991297e-38
+ -1.80518018e-38  9.89312185e-39 -3.67633579e-39  5.65406870e-39
+ -1.97785514e-38  3.83134588e-38 -3.47526784e-38 -2.74264137e-38
+  1.57812404e-37 -2.81469749e-37  2.11137137e-37  2.50112582e-37
+ -9.89325845e-37  1.18907318e-36  5.30132328e-37 -5.20551298e-37
+  5.74882049e-36  1.77046175e-34  6.82667319e-34  6.62015535e-33
+  4.25925740e-32  2.81921870e-31  1.73098673e-30  1.05395376e-29
+  5.93339264e-29  3.34865623e-28  1.83350715e-27  1.05866478e-26
+  6.72238340e-26  4.92074540e-25  4.02197151e-24  3.44518523e-23
+  2.93377719e-22  2.41429644e-21  1.89709348e-20  1.41761893e-19
+  1.00672718e-18  6.79831258e-18  4.36964772e-17  2.67593654e-16
+  1.56268991e-15  8.70888273e-15  4.63460883e-14  2.35636949e-13
+  1.14506508e-12  5.32004813e-12  2.36381255e-11  1.00464415e-10
+  4.08491457e-10  1.58919821e-09  5.91610750e-09  2.10757581e-08
+  7.18514073e-08  2.34422406e-07  7.31937587e-07  2.18702212e-06
+  6.25352024e-06  1.71108794e-05  4.47999676e-05  1.12232825e-04
+  2.69015333e-04  6.16917226e-04  1.35346694e-03  2.84065498e-03
+  5.70322075e-03  1.09530634e-02  2.01210267e-02  3.53551014e-02
+  5.94200432e-02  9.55185581e-02  1.46863935e-01  2.15982078e-01
+  3.03809904e-01  4.08769355e-01  5.26091737e-01  6.47694045e-01
+  7.62826850e-01  8.59519436e-01  9.26591866e-01  9.55777287e-01
+  9.43398711e-01  8.91129950e-01  8.05623313e-01  6.97118447e-01
+  5.77433889e-01  4.57883131e-01  3.47612731e-01  2.52668993e-01
+  1.75850061e-01  1.17186162e-01  7.47737388e-02  4.56814180e-02
+  2.67180636e-02  1.49580590e-02  8.01393508e-03  4.10741257e-03
+  2.01297415e-03  9.42709533e-04  4.21515431e-04  1.79738340e-04
+  7.29750728e-05  2.81494477e-05  1.02847133e-05  3.54316629e-06
+  1.14308313e-06  3.41458766e-07  9.25196784e-08  2.17591300e-08
+  3.91162663e-09  2.13038085e-10 -2.46724776e-10 -1.64035414e-10
+ -7.27318432e-11 -2.73932030e-11 -9.44234906e-12 -3.10169535e-12
+ -9.99631673e-13 -3.22695778e-13 -1.05313873e-13 -3.46095603e-14
+ -1.12776172e-14 -3.56406662e-15 -1.06620471e-15 -2.88381388e-16
+ -6.54691410e-17 -9.84160297e-18  2.20801736e-18  2.07672504e-18
+  1.15292539e-18  7.53155014e-19  3.51820860e-20  8.05139935e-20
+  6.03812045e-20  1.50228403e-20  2.36785384e-19  3.45069841e-19
+  5.22624528e-19  7.33470830e-19  8.41819037e-19  8.98865010e-19
+  7.90677479e-19  4.50887118e-19 -1.29409955e-19 -8.37240295e-19]
+X-integrated concentration profile C(y) = $\int c(x,y), dx$ [ 4.73328643e-32  5.36781425e-33  1.32368480e-32 -1.00900753e-32
+  1.06570438e-32 -7.16295260e-33  1.15937736e-33  7.04435224e-33
+ -1.56741297e-32  2.26723868e-32 -2.67857295e-32  2.92635175e-32
+ -3.54033598e-32  5.51484561e-32 -1.02065288e-31  1.90578482e-31
+ -3.32308330e-31  5.33211157e-31 -7.93810845e-31  1.11462799e-30
+ -1.50856576e-30  2.02186527e-30 -2.76613674e-30  3.96569051e-30
+ -6.02610613e-30  9.63048040e-30 -1.58687045e-29  2.64026857e-29
+ -4.36650922e-29  7.10742387e-29 -1.13213405e-28  1.75872016e-28
+ -2.65822004e-28  3.90304746e-28 -5.56542774e-28  7.72157177e-28
+ -1.04779221e-27  1.40327884e-27 -1.87425616e-27  2.53433387e-27
+ -3.38167282e-27  5.18348914e-27 -3.11887718e-27  3.27031239e-26
+  1.56318896e-25  1.16646382e-24  7.69630008e-24  5.05537002e-23
+  3.23087082e-22  2.01611050e-21  1.22643104e-20  7.26757386e-20
+  4.19105557e-19  2.34968882e-18  1.27936143e-17  6.75778281e-17
+  3.45921059e-16  1.71418458e-15  8.21505474e-15  3.80384175e-14
+  1.70022259e-13  7.32994476e-13  3.04562770e-12  1.21880237e-11
+  4.69459256e-11  1.73950347e-10  6.19718974e-10  2.12181749e-09
+  6.97889363e-09  2.20429503e-08  6.68362843e-08  1.94483544e-07
+  5.42952717e-07  1.45392166e-06  3.73353800e-06  9.19199925e-06
+  2.16933322e-05  4.90674755e-05  1.06351455e-04  2.20857991e-04
+  4.39386656e-04  8.37327056e-04  1.52832139e-03  2.67158327e-03
+  4.47225715e-03  7.16910387e-03  1.10043795e-02  1.61740164e-02
+  2.27623660e-02  3.06737013e-02  3.95797193e-02  4.89048366e-02
+  5.78661470e-02  6.55719615e-02  7.11649027e-02  7.39787079e-02
+  7.36691671e-02  7.02835384e-02  6.42490598e-02  5.62843328e-02
+  4.72589549e-02  3.80391705e-02  2.93568467e-02  2.17273868e-02
+  1.54248695e-02  1.05064619e-02  6.86795870e-03  4.30984793e-03
+  2.59716676e-03  1.50348075e-03  8.36433499e-04  4.47402092e-04
+  2.30208379e-04  1.14012973e-04  5.43857337e-05  2.50056512e-05
+  1.10911687e-05  4.75009021e-06  1.96624376e-06  7.87433752e-07
+  3.05370916e-07  1.14756072e-07  4.17984058e-08  1.47484466e-08
+  5.03238271e-09  1.65457193e-09  5.20890140e-10  1.55389541e-10
+  4.31767784e-11  1.08504321e-11  2.33362134e-12  3.80812197e-13
+  3.50623233e-14  7.03870097e-15  1.39960521e-14  1.43581163e-14
+  1.02874896e-14  6.04805751e-15  3.12042600e-15  1.45911909e-15
+  6.28309613e-16  2.50729227e-16  9.25510576e-17  3.11918421e-17
+  9.26398252e-18  2.17569221e-18  2.04694933e-19 -1.86892716e-19
+ -1.77801996e-19 -1.08414839e-19 -5.42524409e-20 -2.26561391e-20
+ -4.93798857e-21  5.04516001e-21  1.03358695e-20  1.24970993e-20
+  1.08860319e-20  4.25100328e-21 -8.16284621e-21 -2.21434192e-20]
+Vertical concentration profile c(y=0.6, y): [ 3.18160102e-10  9.81985528e-10  3.78101168e-09  1.37547241e-08
+  4.80509561e-08  1.59981993e-07  5.12062680e-07  1.55838362e-06
+  4.56681627e-06  1.26908320e-05  3.40328978e-05  8.62817006e-05
+  2.11678762e-04  4.89288805e-04  1.09808925e-03  2.31351526e-03
+  4.74965097e-03  9.12312050e-03  1.71322661e-02  3.00296953e-02
+  5.15633885e-02  8.26251235e-02  1.29625887e-01  1.90373823e-01
+  2.72648363e-01  3.67994429e-01  4.81064330e-01  5.97786403e-01
+  7.14477530e-01  8.17767022e-01  8.97092210e-01  9.46904205e-01
+  9.57314323e-01  9.31675468e-01  8.69732286e-01  7.79233441e-01
+  6.70103433e-01  5.53467801e-01  4.38728467e-01  3.34114842e-01
+  2.44253304e-01  1.71547526e-01  1.15678951e-01  7.49401300e-02
+  4.66196510e-02  2.78616600e-02  1.59916584e-02  8.81786814e-03
+  4.67005349e-03  2.37610275e-03  1.16124369e-03  5.45213075e-04
+  2.45888913e-04  1.06534719e-04  4.43381135e-05  1.77267989e-05
+  6.80786032e-06  2.51151690e-06  8.89962849e-07  3.02913831e-07
+  9.90262627e-08  3.10916989e-08  9.37539648e-09  2.71474060e-09
+  7.54892985e-10  2.01527412e-10  5.16637668e-11  1.27106171e-11
+  3.00329775e-12  6.80549194e-13  1.48186055e-13  3.08986477e-14
+  6.20213030e-15  1.18770981e-15  2.20183855e-16  3.85343343e-17
+  6.64571534e-18  1.04680155e-18  1.72418164e-19  2.31506559e-20
+  4.01091811e-21  3.65010794e-22  9.55897954e-23 -1.38745277e-26
+  2.96682726e-24 -3.74142817e-25  1.27605273e-25 -2.54735117e-26
+  6.20924082e-27 -1.33700807e-27  2.94329448e-28 -6.21941861e-29
+  1.29599002e-29 -2.63313359e-30  5.23812487e-31 -1.01853191e-31
+  1.94033902e-32 -3.64082828e-33  6.81013875e-34 -1.28768183e-34
+  2.44964578e-35 -4.37840103e-36  5.70292340e-37  2.44311473e-38
+ -4.82187931e-38  1.61917280e-38 -1.20077533e-39 -1.73679244e-39
+  1.13641599e-39 -3.82358634e-40  4.99117767e-41  2.63574022e-41
+ -2.13414378e-41  7.83020138e-42 -1.19328239e-42 -4.85247996e-43
+  4.41164402e-43 -1.71630474e-43  2.95483809e-44  9.14649108e-45
+ -9.50254085e-45  3.93115291e-45 -7.72416600e-46 -1.57378234e-46
+  2.03966895e-46 -9.06423009e-47  2.02121018e-47  2.24730352e-48
+ -4.27831293e-48  2.05632349e-48 -5.11038833e-49 -2.07430262e-50
+  8.73628402e-50 -4.54932044e-50  1.23412145e-50 -1.31047960e-52
+ -1.74033875e-51  9.78545934e-52 -2.84600718e-52  1.50477697e-53
+  3.25409537e-53 -2.11434627e-53  8.61519692e-54 -1.77663983e-54
+ -2.20502459e-54  3.08961122e-54 -4.59344263e-55 -2.48749743e-54
+  1.87380228e-54  1.33990576e-54 -2.37376927e-54 -1.50147278e-55
+  1.98805047e-54 -3.94227748e-55 -1.32214643e-54  2.39509696e-55
+  8.68395153e-55  9.26487876e-56 -3.55776118e-55 -3.80681528e-55]
+Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 2.51234915e-11  7.26961339e-11  2.95011724e-10  1.02876732e-09
+  3.74723457e-09  1.20634705e-08  3.98981495e-08  1.18360216e-07
+  3.55475163e-07  9.69740053e-07  2.64610100e-06  6.62565531e-06
+  1.64359102e-05  3.77195435e-05  8.51169712e-05  1.78868228e-04
+  3.67407223e-04  7.06671017e-04  1.32221830e-03  2.32768682e-03
+  3.97042491e-03  6.39980989e-03  9.96174173e-03  1.47111227e-02
+  2.09220138e-02  2.83290683e-02  3.68677303e-02  4.58099362e-02
+  5.46549470e-02  6.23648994e-02  6.82708916e-02  7.13532724e-02
+  7.16934131e-02  7.01033737e-02  6.55839114e-02  5.87468399e-02
+  5.05261628e-02  4.16947630e-02  3.30507479e-02  2.51515589e-02
+  1.83885541e-02  1.29087532e-02  8.70533586e-03  5.63729399e-03
+  3.50696006e-03  2.09514315e-03  1.20252174e-03  6.62852899e-04
+  3.51044708e-04  1.78549383e-04  8.72581243e-05  4.09531224e-05
+  1.84698577e-05  7.99870509e-06  3.32926592e-06  1.33024367e-06
+  5.11035411e-07  1.88337379e-07  6.67976780e-08  2.26902219e-08
+  7.43631898e-09  2.32352587e-09  7.05919442e-10  2.01532010e-10
+  5.74617185e-11  1.46032460e-11  4.11368018e-12  8.24383836e-13
+  2.88961925e-13  1.82693497e-14  2.75307535e-14 -5.96130559e-15
+  4.60292372e-15 -1.97527042e-15  1.04147628e-15 -5.04212891e-16
+  2.50383639e-16 -1.22587515e-16  5.99943914e-17 -2.92143807e-17
+  1.41754141e-17 -6.85033957e-18  3.29733692e-18 -1.58067852e-18
+  7.54609056e-19 -3.58718024e-19  1.69779102e-19 -7.99926049e-20
+  3.75122466e-20 -1.75049871e-20  8.12655233e-21 -3.75214000e-21
+  1.72238972e-21 -7.85765406e-22  3.56103481e-22 -1.60243445e-22
+  7.15663398e-23 -3.17101911e-23  1.39369969e-23 -6.07730671e-24
+  2.63148522e-24 -1.13363905e-24  4.87503230e-25 -2.10274850e-25
+  9.14651682e-26 -4.02507221e-26  1.78425159e-26 -7.80090233e-27
+  3.17743445e-27 -1.01288295e-27  1.54337884e-29  4.04941931e-28
+ -5.35139715e-28  5.23646857e-28 -4.50443268e-28  3.58609859e-28
+ -2.70135652e-28  1.94751043e-28 -1.35265979e-28  9.08834706e-29
+ -5.92251741e-29  3.74948299e-29 -2.30833250e-29  1.38250010e-29
+ -8.05439851e-30  4.56188293e-30 -2.50893271e-30  1.33733103e-30
+ -6.88838384e-31  3.41321683e-31 -1.61538217e-31  7.21494670e-32
+ -2.97397962e-32  1.07714721e-32 -2.95286218e-33  1.28077866e-34
+  6.38487845e-34 -6.63469748e-34  4.89412260e-34 -3.11206716e-34
+  1.80536202e-34 -9.78131723e-35  5.00323227e-35 -2.42716559e-35
+  1.11742542e-35 -4.87143534e-36  2.00324465e-36 -7.75205326e-37
+  2.84875662e-37 -1.03657222e-37  3.94185744e-38 -1.17673101e-38
+ -7.78537185e-39  2.27391765e-38 -2.70052119e-38  1.78631087e-38
+ -2.25975287e-39 -8.52055891e-39  7.47955423e-39  4.49379944e-39]
+2026-07-22 22:42:17| Saved at t = 1.0000000000000007
+Step: 100/500.0| time step t=1.0000000000000007| Next Save=1.0500000000000003
+Step: 100/500.0| time step t=1.0000000000000007| Next Save gaussian=2
+t=1.010  |v|_max = 4.3026e-01
+concentration change = 1.310e-02
+t=1.010 | Total Mass in Domain = 0.005655
+Step: 101/500.0| time step t=1.0100000000000007| Next Save=1.0500000000000003
+Step: 101/500.0| time step t=1.0100000000000007| Next Save gaussian=2
+t=1.020  |v|_max = 8.5882e-01
+concentration change = 2.614e-02
+t=1.020 | Total Mass in Domain = 0.005655
+Step: 102/500.0| time step t=1.0200000000000007| Next Save=1.0500000000000003
+Step: 102/500.0| time step t=1.0200000000000007| Next Save gaussian=2
+t=1.030  |v|_max = 1.2840e+00
+concentration change = 3.908e-02
+t=1.030 | Total Mass in Domain = 0.005655
+Step: 103/500.0| time step t=1.0300000000000007| Next Save=1.0500000000000003
+Step: 103/500.0| time step t=1.0300000000000007| Next Save gaussian=2
+t=1.040  |v|_max = 1.7041e+00
+concentration change = 5.186e-02
+t=1.040 | Total Mass in Domain = 0.005655
+Step: 104/500.0| time step t=1.0400000000000007| Next Save=1.0500000000000003
+Step: 104/500.0| time step t=1.0400000000000007| Next Save gaussian=2
+t=1.050  |v|_max = 2.1175e+00
+concentration change = 6.442e-02
+t=1.050 | Total Mass in Domain = 0.005655
+2026-07-22 22:42:34| Saved at t = 1.0500000000000007
+Step: 105/500.0| time step t=1.0500000000000007| Next Save=1.1000000000000003
+Step: 105/500.0| time step t=1.0500000000000007| Next Save gaussian=2
+t=1.060  |v|_max = 2.5225e+00
+concentration change = 7.673e-02
+t=1.060 | Total Mass in Domain = 0.005655
+Step: 106/500.0| time step t=1.0600000000000007| Next Save=1.1000000000000003
+Step: 106/500.0| time step t=1.0600000000000007| Next Save gaussian=2
+t=1.070  |v|_max = 2.9176e+00
+concentration change = 8.873e-02
+t=1.070 | Total Mass in Domain = 0.005655
+Step: 107/500.0| time step t=1.0700000000000007| Next Save=1.1000000000000003
+Step: 107/500.0| time step t=1.0700000000000007| Next Save gaussian=2
+t=1.080  |v|_max = 3.3011e+00
+concentration change = 1.004e-01
+t=1.080 | Total Mass in Domain = 0.005655
+Step: 108/500.0| time step t=1.0800000000000007| Next Save=1.1000000000000003
+Step: 108/500.0| time step t=1.0800000000000007| Next Save gaussian=2
+t=1.090  |v|_max = 3.6717e+00
+concentration change = 1.116e-01
+t=1.090 | Total Mass in Domain = 0.005655
+Step: 109/500.0| time step t=1.0900000000000007| Next Save=1.1000000000000003
+Step: 109/500.0| time step t=1.0900000000000007| Next Save gaussian=2
+t=1.100  |v|_max = 4.0277e+00
+concentration change = 1.224e-01
+t=1.100 | Total Mass in Domain = 0.005655
+2026-07-22 22:42:51| Saved at t = 1.1000000000000008
+Step: 110/500.0| time step t=1.1000000000000008| Next Save=1.1500000000000004
+Step: 110/500.0| time step t=1.1000000000000008| Next Save gaussian=2
+t=1.110  |v|_max = 4.3678e+00
+concentration change = 1.326e-01
+t=1.110 | Total Mass in Domain = 0.005655
+Step: 111/500.0| time step t=1.1100000000000008| Next Save=1.1500000000000004
+Step: 111/500.0| time step t=1.1100000000000008| Next Save gaussian=2
+t=1.120  |v|_max = 4.6907e+00
+concentration change = 1.424e-01
+t=1.120 | Total Mass in Domain = 0.005655
+Step: 112/500.0| time step t=1.1200000000000008| Next Save=1.1500000000000004
+Step: 112/500.0| time step t=1.1200000000000008| Next Save gaussian=2
+t=1.130  |v|_max = 4.9951e+00
+concentration change = 1.515e-01
+t=1.130 | Total Mass in Domain = 0.005655
+Step: 113/500.0| time step t=1.1300000000000008| Next Save=1.1500000000000004
+Step: 113/500.0| time step t=1.1300000000000008| Next Save gaussian=2
+t=1.140  |v|_max = 5.2798e+00
+concentration change = 1.600e-01
+t=1.140 | Total Mass in Domain = 0.005655
+Step: 114/500.0| time step t=1.1400000000000008| Next Save=1.1500000000000004
+Step: 114/500.0| time step t=1.1400000000000008| Next Save gaussian=2
+t=1.150  |v|_max = 5.5436e+00
+concentration change = 1.679e-01
+t=1.150 | Total Mass in Domain = 0.005655
+2026-07-22 22:43:04| Saved at t = 1.1500000000000008
+Step: 115/500.0| time step t=1.1500000000000008| Next Save=1.2000000000000004
+Step: 115/500.0| time step t=1.1500000000000008| Next Save gaussian=2
+t=1.160  |v|_max = 5.7856e+00
+concentration change = 1.751e-01
+t=1.160 | Total Mass in Domain = 0.005655
+Step: 116/500.0| time step t=1.1600000000000008| Next Save=1.2000000000000004
+Step: 116/500.0| time step t=1.1600000000000008| Next Save gaussian=2
+t=1.170  |v|_max = 6.0047e+00
+concentration change = 1.816e-01
+t=1.170 | Total Mass in Domain = 0.005655
+Step: 117/500.0| time step t=1.1700000000000008| Next Save=1.2000000000000004
+Step: 117/500.0| time step t=1.1700000000000008| Next Save gaussian=2
+t=1.180  |v|_max = 6.2002e+00
+concentration change = 1.873e-01
+t=1.180 | Total Mass in Domain = 0.005655
+Step: 118/500.0| time step t=1.1800000000000008| Next Save=1.2000000000000004
+Step: 118/500.0| time step t=1.1800000000000008| Next Save gaussian=2
+t=1.190  |v|_max = 6.3711e+00
+concentration change = 1.923e-01
+t=1.190 | Total Mass in Domain = 0.005655
+Step: 119/500.0| time step t=1.1900000000000008| Next Save=1.2000000000000004
+Step: 119/500.0| time step t=1.1900000000000008| Next Save gaussian=2
+t=1.200  |v|_max = 6.5169e+00
+concentration change = 1.965e-01
+t=1.200 | Total Mass in Domain = 0.005655
+2026-07-22 22:43:28| Saved at t = 1.2000000000000008
+Step: 120/500.0| time step t=1.2000000000000008| Next Save=1.2500000000000004
+Step: 120/500.0| time step t=1.2000000000000008| Next Save gaussian=2
+t=1.210  |v|_max = 6.6370e+00
+concentration change = 2.000e-01
+t=1.210 | Total Mass in Domain = 0.005655
+Step: 121/500.0| time step t=1.2100000000000009| Next Save=1.2500000000000004
+Step: 121/500.0| time step t=1.2100000000000009| Next Save gaussian=2
+t=1.220  |v|_max = 6.7309e+00
+concentration change = 2.026e-01
+t=1.220 | Total Mass in Domain = 0.005655
+Step: 122/500.0| time step t=1.2200000000000009| Next Save=1.2500000000000004
+Step: 122/500.0| time step t=1.2200000000000009| Next Save gaussian=2
+t=1.230  |v|_max = 6.7983e+00
+concentration change = 2.044e-01
+t=1.230 | Total Mass in Domain = 0.005655
+Step: 123/500.0| time step t=1.2300000000000009| Next Save=1.2500000000000004
+Step: 123/500.0| time step t=1.2300000000000009| Next Save gaussian=2
+t=1.240  |v|_max = 6.8388e+00
+concentration change = 2.054e-01
+t=1.240 | Total Mass in Domain = 0.005655
+Step: 124/500.0| time step t=1.2400000000000009| Next Save=1.2500000000000004
+Step: 124/500.0| time step t=1.2400000000000009| Next Save gaussian=2
+t=1.250  |v|_max = 6.8523e+00
+concentration change = 2.056e-01
+t=1.250 | Total Mass in Domain = 0.005655
+2026-07-22 22:43:51| Saved at t = 1.2500000000000009
+Step: 125/500.0| time step t=1.2500000000000009| Next Save=1.3000000000000005
+Step: 125/500.0| time step t=1.2500000000000009| Next Save gaussian=2
+t=1.260  |v|_max = 6.8388e+00
+concentration change = 2.050e-01
+t=1.260 | Total Mass in Domain = 0.005655
+Step: 126/500.0| time step t=1.260000000000001| Next Save=1.3000000000000005
+Step: 126/500.0| time step t=1.260000000000001| Next Save gaussian=2
+t=1.270  |v|_max = 6.7983e+00
+concentration change = 2.036e-01
+t=1.270 | Total Mass in Domain = 0.005655
+Step: 127/500.0| time step t=1.270000000000001| Next Save=1.3000000000000005
+Step: 127/500.0| time step t=1.270000000000001| Next Save gaussian=2
+t=1.280  |v|_max = 6.7309e+00
+concentration change = 2.014e-01
+t=1.280 | Total Mass in Domain = 0.005655
+Step: 128/500.0| time step t=1.280000000000001| Next Save=1.3000000000000005
+Step: 128/500.0| time step t=1.280000000000001| Next Save gaussian=2
+t=1.290  |v|_max = 6.6370e+00
+concentration change = 1.984e-01
+t=1.290 | Total Mass in Domain = 0.005655
+Step: 129/500.0| time step t=1.290000000000001| Next Save=1.3000000000000005
+Step: 129/500.0| time step t=1.290000000000001| Next Save gaussian=2
+t=1.300  |v|_max = 6.5169e+00
+concentration change = 1.946e-01
+t=1.300 | Total Mass in Domain = 0.005655
+2026-07-22 22:44:20| Saved at t = 1.300000000000001
+Step: 130/500.0| time step t=1.300000000000001| Next Save=1.3500000000000005
+Step: 130/500.0| time step t=1.300000000000001| Next Save gaussian=2
+t=1.310  |v|_max = 6.3711e+00
+concentration change = 1.901e-01
+t=1.310 | Total Mass in Domain = 0.005655
+Step: 131/500.0| time step t=1.310000000000001| Next Save=1.3500000000000005
+Step: 131/500.0| time step t=1.310000000000001| Next Save gaussian=2
+t=1.320  |v|_max = 6.2002e+00
+concentration change = 1.848e-01
+t=1.320 | Total Mass in Domain = 0.005655
+Step: 132/500.0| time step t=1.320000000000001| Next Save=1.3500000000000005
+Step: 132/500.0| time step t=1.320000000000001| Next Save gaussian=2
+t=1.330  |v|_max = 6.0047e+00
+concentration change = 1.789e-01
+t=1.330 | Total Mass in Domain = 0.005655
+Step: 133/500.0| time step t=1.330000000000001| Next Save=1.3500000000000005
+Step: 133/500.0| time step t=1.330000000000001| Next Save gaussian=2
+t=1.340  |v|_max = 5.7856e+00
+concentration change = 1.722e-01
+t=1.340 | Total Mass in Domain = 0.005655
+Step: 134/500.0| time step t=1.340000000000001| Next Save=1.3500000000000005
+Step: 134/500.0| time step t=1.340000000000001| Next Save gaussian=2
+t=1.350  |v|_max = 5.5436e+00
+concentration change = 1.649e-01
+t=1.350 | Total Mass in Domain = 0.005655
+2026-07-22 22:44:47| Saved at t = 1.350000000000001
+Step: 135/500.0| time step t=1.350000000000001| Next Save=1.4000000000000006
+Step: 135/500.0| time step t=1.350000000000001| Next Save gaussian=2
+t=1.360  |v|_max = 5.2798e+00
+concentration change = 1.570e-01
+t=1.360 | Total Mass in Domain = 0.005655
+Step: 136/500.0| time step t=1.360000000000001| Next Save=1.4000000000000006
+Step: 136/500.0| time step t=1.360000000000001| Next Save gaussian=2
+t=1.370  |v|_max = 4.9951e+00
+concentration change = 1.484e-01
+t=1.370 | Total Mass in Domain = 0.005655
+Step: 137/500.0| time step t=1.370000000000001| Next Save=1.4000000000000006
+Step: 137/500.0| time step t=1.370000000000001| Next Save gaussian=2
+t=1.380  |v|_max = 4.6907e+00
+concentration change = 1.393e-01
+t=1.380 | Total Mass in Domain = 0.005655
+Step: 138/500.0| time step t=1.380000000000001| Next Save=1.4000000000000006
+Step: 138/500.0| time step t=1.380000000000001| Next Save gaussian=2
+t=1.390  |v|_max = 4.3678e+00
+concentration change = 1.297e-01
+t=1.390 | Total Mass in Domain = 0.005655
+Step: 139/500.0| time step t=1.390000000000001| Next Save=1.4000000000000006
+Step: 139/500.0| time step t=1.390000000000001| Next Save gaussian=2
+t=1.400  |v|_max = 4.0277e+00
+concentration change = 1.195e-01
+t=1.400 | Total Mass in Domain = 0.005655
+2026-07-22 22:45:11| Saved at t = 1.400000000000001
+Step: 140/500.0| time step t=1.400000000000001| Next Save=1.4500000000000006
+Step: 140/500.0| time step t=1.400000000000001| Next Save gaussian=2
+t=1.410  |v|_max = 3.6717e+00
+concentration change = 1.089e-01
+t=1.410 | Total Mass in Domain = 0.005655
+Step: 141/500.0| time step t=1.410000000000001| Next Save=1.4500000000000006
+Step: 141/500.0| time step t=1.410000000000001| Next Save gaussian=2
+t=1.420  |v|_max = 3.3011e+00
+concentration change = 9.790e-02
+t=1.420 | Total Mass in Domain = 0.005655
+Step: 142/500.0| time step t=1.420000000000001| Next Save=1.4500000000000006
+Step: 142/500.0| time step t=1.420000000000001| Next Save gaussian=2
+t=1.430  |v|_max = 2.9176e+00
+concentration change = 8.650e-02
+t=1.430 | Total Mass in Domain = 0.005655
+Step: 143/500.0| time step t=1.430000000000001| Next Save=1.4500000000000006
+Step: 143/500.0| time step t=1.430000000000001| Next Save gaussian=2
+t=1.440  |v|_max = 2.5225e+00
+concentration change = 7.477e-02
+t=1.440 | Total Mass in Domain = 0.005655
+Step: 144/500.0| time step t=1.440000000000001| Next Save=1.4500000000000006
+Step: 144/500.0| time step t=1.440000000000001| Next Save gaussian=2
+t=1.450  |v|_max = 2.1175e+00
+concentration change = 6.276e-02
+t=1.450 | Total Mass in Domain = 0.005655
+2026-07-22 22:45:37| Saved at t = 1.450000000000001
+Step: 145/500.0| time step t=1.450000000000001| Next Save=1.5000000000000007
+Step: 145/500.0| time step t=1.450000000000001| Next Save gaussian=2
+t=1.460  |v|_max = 1.7041e+00
+concentration change = 5.050e-02
+t=1.460 | Total Mass in Domain = 0.005655
+Step: 146/500.0| time step t=1.460000000000001| Next Save=1.5000000000000007
+Step: 146/500.0| time step t=1.460000000000001| Next Save gaussian=2
+t=1.470  |v|_max = 1.2840e+00
+concentration change = 3.804e-02
+t=1.470 | Total Mass in Domain = 0.005655
+Step: 147/500.0| time step t=1.470000000000001| Next Save=1.5000000000000007
+Step: 147/500.0| time step t=1.470000000000001| Next Save gaussian=2
+t=1.480  |v|_max = 8.5882e-01
+concentration change = 2.544e-02
+t=1.480 | Total Mass in Domain = 0.005655
+Step: 148/500.0| time step t=1.480000000000001| Next Save=1.5000000000000007
+Step: 148/500.0| time step t=1.480000000000001| Next Save gaussian=2
+t=1.490  |v|_max = 4.3026e-01
+concentration change = 1.274e-02
+t=1.490 | Total Mass in Domain = 0.005655
+Step: 149/500.0| time step t=1.490000000000001| Next Save=1.5000000000000007
+Step: 149/500.0| time step t=1.490000000000001| Next Save gaussian=2
+t=1.500  |v|_max = 4.6171e-14
+concentration change = 4.441e-04
+t=1.500 | Total Mass in Domain = 0.005655
+2026-07-22 22:45:55| Saved at t = 1.500000000000001
+Step: 150/500.0| time step t=1.500000000000001| Next Save=1.5500000000000007
+Step: 150/500.0| time step t=1.500000000000001| Next Save gaussian=2
+t=1.510  |v|_max = 4.3026e-01
+concentration change = 1.278e-02
+t=1.510 | Total Mass in Domain = 0.005655
+Step: 151/500.0| time step t=1.5100000000000011| Next Save=1.5500000000000007
+Step: 151/500.0| time step t=1.5100000000000011| Next Save gaussian=2
+t=1.520  |v|_max = 8.5882e-01
+concentration change = 2.547e-02
+t=1.520 | Total Mass in Domain = 0.005655
+Step: 152/500.0| time step t=1.5200000000000011| Next Save=1.5500000000000007
+Step: 152/500.0| time step t=1.5200000000000011| Next Save gaussian=2
+t=1.530  |v|_max = 1.2840e+00
+concentration change = 3.806e-02
+t=1.530 | Total Mass in Domain = 0.005655
+Step: 153/500.0| time step t=1.5300000000000011| Next Save=1.5500000000000007
+Step: 153/500.0| time step t=1.5300000000000011| Next Save gaussian=2
+t=1.540  |v|_max = 1.7041e+00
+concentration change = 5.050e-02
+t=1.540 | Total Mass in Domain = 0.005655
+Step: 154/500.0| time step t=1.5400000000000011| Next Save=1.5500000000000007
+Step: 154/500.0| time step t=1.5400000000000011| Next Save gaussian=2
+t=1.550  |v|_max = 2.1175e+00
+concentration change = 6.273e-02
+t=1.550 | Total Mass in Domain = 0.005655
+2026-07-22 22:46:13| Saved at t = 1.5500000000000012
+Step: 155/500.0| time step t=1.5500000000000012| Next Save=1.6000000000000008
+Step: 155/500.0| time step t=1.5500000000000012| Next Save gaussian=2
+t=1.560  |v|_max = 2.5225e+00
+concentration change = 7.471e-02
+t=1.560 | Total Mass in Domain = 0.005655
+Step: 156/500.0| time step t=1.5600000000000012| Next Save=1.6000000000000008
+Step: 156/500.0| time step t=1.5600000000000012| Next Save gaussian=2
+t=1.570  |v|_max = 2.9176e+00
+concentration change = 8.639e-02
+t=1.570 | Total Mass in Domain = 0.005655
+Step: 157/500.0| time step t=1.5700000000000012| Next Save=1.6000000000000008
+Step: 157/500.0| time step t=1.5700000000000012| Next Save gaussian=2
+t=1.580  |v|_max = 3.3011e+00
+concentration change = 9.771e-02
+t=1.580 | Total Mass in Domain = 0.005655
+Step: 158/500.0| time step t=1.5800000000000012| Next Save=1.6000000000000008
+Step: 158/500.0| time step t=1.5800000000000012| Next Save gaussian=2
+t=1.590  |v|_max = 3.6717e+00
+concentration change = 1.086e-01
+t=1.590 | Total Mass in Domain = 0.005655
+Step: 159/500.0| time step t=1.5900000000000012| Next Save=1.6000000000000008
+Step: 159/500.0| time step t=1.5900000000000012| Next Save gaussian=2
+t=1.600  |v|_max = 4.0277e+00
+concentration change = 1.191e-01
+t=1.600 | Total Mass in Domain = 0.005655
+2026-07-22 22:46:33| Saved at t = 1.6000000000000012
+Step: 160/500.0| time step t=1.6000000000000012| Next Save=1.6500000000000008
+Step: 160/500.0| time step t=1.6000000000000012| Next Save gaussian=2
+t=1.610  |v|_max = 4.3678e+00
+concentration change = 1.291e-01
+t=1.610 | Total Mass in Domain = 0.005655
+Step: 161/500.0| time step t=1.6100000000000012| Next Save=1.6500000000000008
+Step: 161/500.0| time step t=1.6100000000000012| Next Save gaussian=2
+t=1.620  |v|_max = 4.6907e+00
+concentration change = 1.386e-01
+t=1.620 | Total Mass in Domain = 0.005655
+Step: 162/500.0| time step t=1.6200000000000012| Next Save=1.6500000000000008
+Step: 162/500.0| time step t=1.6200000000000012| Next Save gaussian=2
+t=1.630  |v|_max = 4.9951e+00
+concentration change = 1.475e-01
+t=1.630 | Total Mass in Domain = 0.005655
+Step: 163/500.0| time step t=1.6300000000000012| Next Save=1.6500000000000008
+Step: 163/500.0| time step t=1.6300000000000012| Next Save gaussian=2
+t=1.640  |v|_max = 5.2798e+00
+concentration change = 1.558e-01
+t=1.640 | Total Mass in Domain = 0.005655
+Step: 164/500.0| time step t=1.6400000000000012| Next Save=1.6500000000000008
+Step: 164/500.0| time step t=1.6400000000000012| Next Save gaussian=2
+t=1.650  |v|_max = 5.5436e+00
+concentration change = 1.634e-01
+t=1.650 | Total Mass in Domain = 0.005655
+2026-07-22 22:46:47| Saved at t = 1.6500000000000012
+Step: 165/500.0| time step t=1.6500000000000012| Next Save=1.7000000000000008
+Step: 165/500.0| time step t=1.6500000000000012| Next Save gaussian=2
+t=1.660  |v|_max = 5.7856e+00
+concentration change = 1.704e-01
+t=1.660 | Total Mass in Domain = 0.005655
+Step: 166/500.0| time step t=1.6600000000000013| Next Save=1.7000000000000008
+Step: 166/500.0| time step t=1.6600000000000013| Next Save gaussian=2
+t=1.670  |v|_max = 6.0047e+00
+concentration change = 1.767e-01
+t=1.670 | Total Mass in Domain = 0.005655
+Step: 167/500.0| time step t=1.6700000000000013| Next Save=1.7000000000000008
+Step: 167/500.0| time step t=1.6700000000000013| Next Save gaussian=2
+t=1.680  |v|_max = 6.2002e+00
+concentration change = 1.823e-01
+t=1.680 | Total Mass in Domain = 0.005655
+Step: 168/500.0| time step t=1.6800000000000013| Next Save=1.7000000000000008
+Step: 168/500.0| time step t=1.6800000000000013| Next Save gaussian=2
+t=1.690  |v|_max = 6.3711e+00
+concentration change = 1.872e-01
+t=1.690 | Total Mass in Domain = 0.005655
+Step: 169/500.0| time step t=1.6900000000000013| Next Save=1.7000000000000008
+Step: 169/500.0| time step t=1.6900000000000013| Next Save gaussian=2
+t=1.700  |v|_max = 6.5169e+00
+concentration change = 1.913e-01
+t=1.700 | Total Mass in Domain = 0.005655
+2026-07-22 22:47:19| Saved at t = 1.7000000000000013
+Step: 170/500.0| time step t=1.7000000000000013| Next Save=1.7500000000000009
+Step: 170/500.0| time step t=1.7000000000000013| Next Save gaussian=2
+t=1.710  |v|_max = 6.6370e+00
+concentration change = 1.946e-01
+t=1.710 | Total Mass in Domain = 0.005655
+Step: 171/500.0| time step t=1.7100000000000013| Next Save=1.7500000000000009
+Step: 171/500.0| time step t=1.7100000000000013| Next Save gaussian=2
+t=1.720  |v|_max = 6.7309e+00
+concentration change = 1.971e-01
+t=1.720 | Total Mass in Domain = 0.005655
+Step: 172/500.0| time step t=1.7200000000000013| Next Save=1.7500000000000009
+Step: 172/500.0| time step t=1.7200000000000013| Next Save gaussian=2
+t=1.730  |v|_max = 6.7983e+00
+concentration change = 1.989e-01
+t=1.730 | Total Mass in Domain = 0.005655
+Step: 173/500.0| time step t=1.7300000000000013| Next Save=1.7500000000000009
+Step: 173/500.0| time step t=1.7300000000000013| Next Save gaussian=2
+t=1.740  |v|_max = 6.8388e+00
+concentration change = 1.999e-01
+t=1.740 | Total Mass in Domain = 0.005655
+Step: 174/500.0| time step t=1.7400000000000013| Next Save=1.7500000000000009
+Step: 174/500.0| time step t=1.7400000000000013| Next Save gaussian=2
+t=1.750  |v|_max = 6.8523e+00
+concentration change = 2.001e-01
+t=1.750 | Total Mass in Domain = 0.005655
+2026-07-22 22:47:33| Saved at t = 1.7500000000000013
+Step: 175/500.0| time step t=1.7500000000000013| Next Save=1.800000000000001
+Step: 175/500.0| time step t=1.7500000000000013| Next Save gaussian=2
+t=1.760  |v|_max = 6.8388e+00
+concentration change = 1.995e-01
+t=1.760 | Total Mass in Domain = 0.005655
+Step: 176/500.0| time step t=1.7600000000000013| Next Save=1.800000000000001
+Step: 176/500.0| time step t=1.7600000000000013| Next Save gaussian=2
+t=1.770  |v|_max = 6.7983e+00
+concentration change = 1.981e-01
+t=1.770 | Total Mass in Domain = 0.005655
+Step: 177/500.0| time step t=1.7700000000000014| Next Save=1.800000000000001
+Step: 177/500.0| time step t=1.7700000000000014| Next Save gaussian=2
+t=1.780  |v|_max = 6.7309e+00
+concentration change = 1.959e-01
+t=1.780 | Total Mass in Domain = 0.005655
+Step: 178/500.0| time step t=1.7800000000000014| Next Save=1.800000000000001
+Step: 178/500.0| time step t=1.7800000000000014| Next Save gaussian=2
+t=1.790  |v|_max = 6.6370e+00
+concentration change = 1.930e-01
+t=1.790 | Total Mass in Domain = 0.005655
+Step: 179/500.0| time step t=1.7900000000000014| Next Save=1.800000000000001
+Step: 179/500.0| time step t=1.7900000000000014| Next Save gaussian=2
+t=1.800  |v|_max = 6.5169e+00
+concentration change = 1.893e-01
+t=1.800 | Total Mass in Domain = 0.005655
+2026-07-22 22:47:50| Saved at t = 1.8000000000000014
+Step: 180/500.0| time step t=1.8000000000000014| Next Save=1.850000000000001
+Step: 180/500.0| time step t=1.8000000000000014| Next Save gaussian=2
+t=1.810  |v|_max = 6.3711e+00
+concentration change = 1.849e-01
+t=1.810 | Total Mass in Domain = 0.005655
+Step: 181/500.0| time step t=1.8100000000000014| Next Save=1.850000000000001
+Step: 181/500.0| time step t=1.8100000000000014| Next Save gaussian=2
+t=1.820  |v|_max = 6.2002e+00
+concentration change = 1.798e-01
+t=1.820 | Total Mass in Domain = 0.005655
+Step: 182/500.0| time step t=1.8200000000000014| Next Save=1.850000000000001
+Step: 182/500.0| time step t=1.8200000000000014| Next Save gaussian=2
+t=1.830  |v|_max = 6.0047e+00
+concentration change = 1.740e-01
+t=1.830 | Total Mass in Domain = 0.005655
+Step: 183/500.0| time step t=1.8300000000000014| Next Save=1.850000000000001
+Step: 183/500.0| time step t=1.8300000000000014| Next Save gaussian=2
+t=1.840  |v|_max = 5.7856e+00
+concentration change = 1.675e-01
+t=1.840 | Total Mass in Domain = 0.005655
+Step: 184/500.0| time step t=1.8400000000000014| Next Save=1.850000000000001
+Step: 184/500.0| time step t=1.8400000000000014| Next Save gaussian=2
+t=1.850  |v|_max = 5.5436e+00
+concentration change = 1.604e-01
+t=1.850 | Total Mass in Domain = 0.005655
+2026-07-22 22:48:06| Saved at t = 1.8500000000000014
+Step: 185/500.0| time step t=1.8500000000000014| Next Save=1.900000000000001
+Step: 185/500.0| time step t=1.8500000000000014| Next Save gaussian=2
+t=1.860  |v|_max = 5.2798e+00
+concentration change = 1.527e-01
+t=1.860 | Total Mass in Domain = 0.005655
+Step: 186/500.0| time step t=1.8600000000000014| Next Save=1.900000000000001
+Step: 186/500.0| time step t=1.8600000000000014| Next Save gaussian=2
+t=1.870  |v|_max = 4.9951e+00
+concentration change = 1.444e-01
+t=1.870 | Total Mass in Domain = 0.005655
+Step: 187/500.0| time step t=1.8700000000000014| Next Save=1.900000000000001
+Step: 187/500.0| time step t=1.8700000000000014| Next Save gaussian=2
+t=1.880  |v|_max = 4.6907e+00
+concentration change = 1.355e-01
+t=1.880 | Total Mass in Domain = 0.005655
+Step: 188/500.0| time step t=1.8800000000000014| Next Save=1.900000000000001
+Step: 188/500.0| time step t=1.8800000000000014| Next Save gaussian=2
+t=1.890  |v|_max = 4.3678e+00
+concentration change = 1.261e-01
+t=1.890 | Total Mass in Domain = 0.005655
+Step: 189/500.0| time step t=1.8900000000000015| Next Save=1.900000000000001
+Step: 189/500.0| time step t=1.8900000000000015| Next Save gaussian=2
+t=1.900  |v|_max = 4.0277e+00
+concentration change = 1.163e-01
+t=1.900 | Total Mass in Domain = 0.005655
+2026-07-22 22:48:22| Saved at t = 1.9000000000000015
+Step: 190/500.0| time step t=1.9000000000000015| Next Save=1.950000000000001
+Step: 190/500.0| time step t=1.9000000000000015| Next Save gaussian=2
+t=1.910  |v|_max = 3.6717e+00
+concentration change = 1.059e-01
+t=1.910 | Total Mass in Domain = 0.005655
+Step: 191/500.0| time step t=1.9100000000000015| Next Save=1.950000000000001
+Step: 191/500.0| time step t=1.9100000000000015| Next Save gaussian=2
+t=1.920  |v|_max = 3.3011e+00
+concentration change = 9.523e-02
+t=1.920 | Total Mass in Domain = 0.005655
+Step: 192/500.0| time step t=1.9200000000000015| Next Save=1.950000000000001
+Step: 192/500.0| time step t=1.9200000000000015| Next Save gaussian=2
+t=1.930  |v|_max = 2.9176e+00
+concentration change = 8.414e-02
+t=1.930 | Total Mass in Domain = 0.005655
+Step: 193/500.0| time step t=1.9300000000000015| Next Save=1.950000000000001
+Step: 193/500.0| time step t=1.9300000000000015| Next Save gaussian=2
+t=1.940  |v|_max = 2.5225e+00
+concentration change = 7.274e-02
+t=1.940 | Total Mass in Domain = 0.005655
+Step: 194/500.0| time step t=1.9400000000000015| Next Save=1.950000000000001
+Step: 194/500.0| time step t=1.9400000000000015| Next Save gaussian=2
+t=1.950  |v|_max = 2.1175e+00
+concentration change = 6.105e-02
+t=1.950 | Total Mass in Domain = 0.005655
+2026-07-22 22:48:39| Saved at t = 1.9500000000000015
+Step: 195/500.0| time step t=1.9500000000000015| Next Save=2.000000000000001
+Step: 195/500.0| time step t=1.9500000000000015| Next Save gaussian=2
+t=1.960  |v|_max = 1.7041e+00
+concentration change = 4.913e-02
+t=1.960 | Total Mass in Domain = 0.005655
+Step: 196/500.0| time step t=1.9600000000000015| Next Save=2.000000000000001
+Step: 196/500.0| time step t=1.9600000000000015| Next Save gaussian=2
+t=1.970  |v|_max = 1.2840e+00
+concentration change = 3.701e-02
+t=1.970 | Total Mass in Domain = 0.005655
+Step: 197/500.0| time step t=1.9700000000000015| Next Save=2.000000000000001
+Step: 197/500.0| time step t=1.9700000000000015| Next Save gaussian=2
+t=1.980  |v|_max = 8.5882e-01
+concentration change = 2.476e-02
+t=1.980 | Total Mass in Domain = 0.005655
+Step: 198/500.0| time step t=1.9800000000000015| Next Save=2.000000000000001
+Step: 198/500.0| time step t=1.9800000000000015| Next Save gaussian=2
+t=1.990  |v|_max = 4.3026e-01
+concentration change = 1.241e-02
+t=1.990 | Total Mass in Domain = 0.005655
+Step: 199/500.0| time step t=1.9900000000000015| Next Save=2.000000000000001
+Step: 199/500.0| time step t=1.9900000000000015| Next Save gaussian=2
+t=2.000  |v|_max = 5.7504e-14
+concentration change = 3.823e-04
+t=2.000 | Total Mass in Domain = 0.005655
+Vertical concentration profile c(x=0.2, y): [-5.15979459e-35 -2.83041357e-35 -1.24794692e-35 -3.45302258e-36
+ -4.50541980e-36  1.85132656e-36 -4.68747633e-36  5.34305701e-36
+ -6.82343182e-36  8.03632630e-36 -9.08723076e-36  9.84589515e-36
+ -1.02342902e-35  1.02346919e-35 -9.89107206e-36  9.29914133e-36
+ -8.55144505e-36  7.65885721e-36 -6.49622051e-36  4.85993307e-36
+ -2.71323955e-36  5.93670357e-37  5.39173757e-38  2.89013139e-36
+ -1.08067832e-35  2.13711763e-35 -2.43793450e-35 -2.40206151e-36
+  9.64870369e-35 -3.14977319e-34  7.56295588e-34 -1.61660238e-33
+  3.40314176e-33 -7.21400587e-33  1.51964021e-32 -3.50545740e-32
+  4.56394347e-32 -2.24034923e-31 -4.56334539e-31 -3.50519248e-30
+ -1.85070204e-29 -1.04160175e-28 -6.06223242e-28 -3.10553793e-27
+ -9.47675811e-27  6.37377038e-26  1.68585295e-24  2.22646974e-23
+  2.34583488e-22  2.16634952e-21  1.81850355e-20  1.41287874e-19
+  1.02669772e-18  7.02423563e-18  4.54473811e-17  2.78954122e-16
+  1.62802078e-15  9.04955788e-15  4.79727964e-14  2.42769940e-13
+  1.17371817e-12  5.42458049e-12  2.39778180e-11  1.01404385e-10
+  4.10423857e-10  1.59012511e-09  5.89821142e-09  2.09480845e-08
+  7.12406579e-08  2.31994920e-07  7.23416163e-07  2.15991338e-06
+  6.17434662e-06  1.68970611e-05  4.42637731e-05  1.10981041e-04
+  2.66289782e-04  6.11372295e-04  1.34289619e-03  2.82166726e-03
+  5.67074355e-03  1.08991759e-02  2.00318533e-02  3.52033296e-02
+  5.91494643e-02  9.50168182e-02  1.45921847e-01  2.14243551e-01
+  3.00725540e-01  4.03576229e-01  5.17846506e-01  6.35380323e-01
+  7.45537910e-01  8.36687481e-01  8.98206352e-01  9.22521441e-01
+  9.06646117e-01  8.52781317e-01  7.67814445e-01  6.61873394e-01
+  5.46354282e-01  4.31949390e-01  3.27132938e-01  2.37364415e-01
+  1.65030639e-01  1.09955436e-01  7.02105035e-02  4.29666761e-02
+  2.51995892e-02  1.41627238e-02  7.62636277e-03  3.93360288e-03
+  1.94268305e-03  9.18181008e-04  4.15023848e-04  1.79245466e-04
+  7.38835435e-05  2.90206490e-05  1.08401641e-05  3.83968518e-06
+  1.28428054e-06  4.02895766e-07  1.17109011e-07  3.07376732e-08
+  6.80611077e-09  9.55422614e-10 -1.64395417e-10 -2.31634899e-10
+ -1.42904680e-10 -7.22850491e-11 -3.32070798e-11 -1.42643258e-11
+ -5.76598520e-12 -2.18650244e-12 -7.71271220e-13 -2.49707031e-13
+ -7.27360623e-14 -1.85263790e-14 -4.04218835e-15 -8.68930957e-16
+ -3.53397187e-16 -2.76565240e-16 -2.12115393e-16 -1.38401499e-16
+ -7.83749536e-17 -3.57344583e-17 -9.80332721e-18  1.93545813e-18
+  1.41730814e-18 -1.32864140e-17 -4.20211119e-17 -8.34035633e-17
+ -1.35968522e-16 -1.95508113e-16 -2.54909263e-16 -3.03227864e-16
+ -3.26688387e-16 -3.12949962e-16 -2.54754059e-16 -1.74693375e-16]
+X-integrated concentration profile C(y) = $\int c(x,y), dx$ [ 8.01679726e-31  2.37144749e-31  1.99722549e-31 -1.22899900e-32
+  2.09590843e-32  1.03021128e-31 -2.43584790e-31  4.36487959e-31
+ -6.52180576e-31  8.81044287e-31 -1.11937645e-30  1.39237921e-30
+ -1.76056432e-30  2.31790641e-30 -3.17153517e-30  4.40666668e-30
+ -6.04538442e-30  8.01713133e-30 -1.01620804e-29  1.22836264e-29
+ -1.42557529e-29  1.61716319e-29 -1.85038634e-29  2.22386978e-29
+ -2.89616831e-29  4.09157854e-29 -6.11199441e-29  9.36921683e-29
+ -1.44502679e-28  2.22117046e-28 -3.38658465e-28  5.09846282e-28
+ -7.53359841e-28  1.08530288e-27 -1.51582659e-27  2.04830184e-27
+ -2.67947221e-27  3.44395895e-27 -4.25722034e-27  5.97388081e-27
+ -4.31212020e-27  2.49441293e-26  7.74602903e-26  5.18896793e-25
+  2.77256802e-24  1.53397713e-23  8.28296793e-23  4.42175513e-22
+  2.32536697e-21  1.20488995e-20  6.14710030e-20  3.08644565e-19
+  1.52427291e-18  7.39937864e-18  3.52786469e-17  1.65042449e-16
+  7.56745664e-16  3.39629524e-15  1.48981939e-14  6.37768660e-14
+  2.66010269e-13  1.07929219e-12  4.25303880e-12  1.62526546e-11
+  6.01452482e-11  2.15261950e-10  7.44237290e-10  2.48299121e-09
+  7.98637233e-09  2.47440800e-08  7.37935487e-08  2.11692336e-07
+  5.83818171e-07  1.54706790e-06  3.93729286e-06  9.61967662e-06
+  2.25545104e-05  5.07303894e-05  1.09428624e-04  2.26308606e-04
+  4.48611835e-04  8.52205595e-04  1.55109620e-03  2.70447359e-03
+  4.51666394e-03  7.22433298e-03  1.10659650e-02  1.62319912e-02
+  2.28001372e-02  3.06684025e-02  3.95048353e-02  4.87353803e-02
+  5.75857376e-02  6.51800879e-02  7.06819383e-02  7.34463619e-02
+  7.31451907e-02  6.98313760e-02  6.39250174e-02  5.61259027e-02
+  4.72776775e-02  3.82198991e-02  2.96631595e-02  2.21110310e-02
+  1.58362111e-02  1.09031489e-02  7.22009502e-03  4.60134320e-03
+  2.82404022e-03  1.67045271e-03  9.53128539e-04  5.25109163e-04
+  2.79646949e-04  1.44135880e-04  7.19999702e-05  3.49092102e-05
+  1.64545490e-05  7.55237723e-06  3.38098254e-06  1.47855640e-06
+  6.32519536e-07  2.65009242e-07  1.08843633e-07  4.38544060e-08
+  1.73445768e-08  6.73864353e-09  2.57468561e-09  9.69185082e-10
+  3.60430884e-10  1.32920728e-10  4.88143548e-11  1.79131557e-11
+  6.57226371e-12  2.39946095e-12  8.60832044e-13  2.96390818e-13
+  9.37569818e-14  2.46430183e-14  3.46029169e-15 -1.58615936e-15
+ -1.89175052e-15 -1.22381438e-15 -6.27430467e-16 -2.69996275e-16
+ -9.40360832e-17 -2.06262044e-17  4.08244540e-18  9.08325064e-18
+  7.65782095e-18  4.94619646e-18  2.50100586e-18  5.43667907e-19
+ -1.05478409e-18 -2.41803732e-18 -3.57363414e-18 -4.42782582e-18
+ -4.75920868e-18 -4.26486586e-18 -2.74616329e-18 -8.80358540e-19]
+Vertical concentration profile c(y=0.6, y): [ 4.02811054e-10  1.09331047e-09  4.19413663e-09  1.52557870e-08
+  5.33780927e-08  1.77954191e-07  5.71529595e-07  1.74221446e-06
+  5.12547899e-06  1.42513879e-05  3.83454789e-05  9.70607788e-05
+  2.38602996e-04  5.49056213e-04  1.23251456e-03  2.57674313e-03
+  5.28095899e-03  1.00338103e-02  1.87732970e-02  3.24649061e-02
+  5.54369679e-02  8.75020362e-02  1.36282234e-01  1.97116408e-01
+  2.79838613e-01  3.72473496e-01  4.82227939e-01  5.92522238e-01
+  7.01765219e-01  7.97438763e-01  8.69422576e-01  9.15039443e-01
+  9.22757885e-01  9.00262208e-01  8.44533618e-01  7.61943305e-01
+  6.61526838e-01  5.52884364e-01  4.44673226e-01  3.44458517e-01
+  2.56824898e-01  1.84466598e-01  1.27548920e-01  8.49678372e-02
+  5.44980507e-02  3.36779715e-02  2.00412167e-02  1.14909708e-02
+  6.34536860e-03  3.37615794e-03  1.73020589e-03  8.54365211e-04
+  4.06374876e-04  1.86241728e-04  8.22204777e-05  3.49730857e-05
+  1.43299239e-05  5.65682507e-06  2.15105083e-06  7.87940068e-07
+  2.78018101e-07  9.44778631e-08  3.09257473e-08  9.74642755e-09
+  2.95893507e-09  8.64406318e-10  2.43332092e-10  6.58451159e-11
+  1.71848862e-11  4.30223776e-12  1.04140817e-12  2.40663952e-13
+  5.41306004e-14  1.14892734e-14  2.41612702e-15  4.64963379e-16
+  9.32016289e-17  1.56641941e-17  3.17809347e-18  4.12527125e-19
+  1.02434778e-19  5.98668454e-21  3.60539993e-21 -2.06264406e-22
+  1.59212478e-22 -2.65973956e-23  8.40097936e-24 -1.82229994e-24
+  4.57222369e-25 -1.02911683e-25  2.35399337e-26 -5.15849398e-27
+  1.11364396e-27 -2.33951638e-28  4.81317074e-29 -9.68654931e-30
+  1.91239136e-30 -3.70307258e-31  6.98221065e-32 -1.24915844e-32
+  2.00450961e-33 -2.69553397e-34  3.97286578e-35 -1.76435080e-35
+  1.07782276e-35 -4.55981969e-36  1.02037104e-36  1.70409532e-37
+ -2.82754115e-37  1.41131686e-37 -3.52698421e-38 -3.83029535e-39
+  8.72144871e-39 -4.68861145e-39  1.32644027e-39  2.23940166e-41
+ -2.51949911e-40  1.52036546e-40 -4.90917565e-41  3.22853331e-42
+  6.77407567e-42 -4.77625325e-42  1.75151477e-42 -2.33563669e-43
+ -1.67397938e-43  1.45143449e-43 -5.99572341e-44  1.12434492e-44
+  3.70293308e-45 -4.27272783e-45  1.97230699e-45 -4.55972547e-46
+ -6.84561193e-47  1.22169252e-46 -6.25563190e-47  1.66853953e-47
+  8.03626101e-49 -3.40131757e-48  1.92096747e-48 -5.72429412e-49
+  1.28194957e-50  9.48049557e-50 -6.38203994e-50  2.21427311e-50
+  2.95577662e-51 -1.01280928e-50  3.40089260e-51  5.90128809e-51
+ -5.84845555e-51 -2.54588714e-51  6.66304692e-51 -8.51127993e-52
+ -5.02275155e-51  2.06765196e-51  3.03963421e-51 -1.33531812e-51
+ -2.04154452e-51  2.57203868e-52  1.03891396e-51  8.64418938e-52]
+Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 3.30946532e-11  7.95490726e-11  3.39885853e-10  1.13280812e-09
+  4.32184846e-09  1.34458204e-08  4.61778314e-08  1.33726991e-07
+  4.13174854e-07  1.10827741e-06  3.08406139e-06  7.62547535e-06
+  1.91425835e-05  4.34607356e-05  9.85852784e-05  2.04985473e-04
+  4.20862170e-04  8.00298933e-04  1.48977282e-03  2.58987371e-03
+  4.37940478e-03  6.96364623e-03  1.07192437e-02  1.56079277e-02
+  2.19241432e-02  2.92784167e-02  3.76350173e-02  4.61779699e-02
+  5.44744073e-02  6.14808064e-02  6.66390375e-02  6.91095220e-02
+  6.91842205e-02  6.78045101e-02  6.37780589e-02  5.75875502e-02
+  5.00042914e-02  4.17565766e-02  3.35710830e-02  2.59811960e-02
+  1.93689682e-02  1.39028405e-02  9.61321475e-03  6.40025065e-03
+  4.10517582e-03  2.53545920e-03  1.50885249e-03  8.64640059e-04
+  4.77487629e-04  2.53898381e-04  1.30136107e-04  6.42118477e-05
+  3.05522664e-05  1.39871722e-05  6.17971119e-06  2.62389485e-06
+  1.07711227e-06  4.23675239e-07  1.61873303e-07  5.87885001e-08
+  2.10215071e-08  6.97338687e-09  2.37943574e-09  6.92926896e-10
+  2.42975971e-10  5.21897662e-11  2.54007905e-11  7.86151277e-13
+  3.64620811e-12 -1.02093145e-12  8.36612396e-13 -4.08936387e-13
+  2.43004230e-13 -1.32255327e-13  7.39673978e-14 -4.06688401e-14
+  2.23514487e-14 -1.22053812e-14  6.63595297e-15 -3.58950153e-15
+  1.93205792e-15 -1.03465669e-15  5.51226123e-16 -2.92122115e-16
+  1.53969545e-16 -8.06973660e-17  4.20473407e-17 -2.17746323e-17
+  1.12033539e-17 -5.72465406e-18  2.90357473e-18 -1.46092406e-18
+  7.28615774e-19 -3.59858526e-19  1.75797444e-19 -8.48196774e-20
+  4.03433182e-20 -1.88713590e-20  8.65481979e-21 -3.87605299e-21
+  1.68600957e-21 -7.07045300e-22  2.82830131e-22 -1.06182835e-22
+  3.64175405e-23 -1.08299294e-23  2.43928668e-24 -1.75029621e-25
+ -2.06036413e-25  1.64554962e-25 -1.11258217e-25  1.08999774e-25
+ -1.33870844e-25  1.58270593e-25 -1.68598124e-25  1.62966626e-25
+ -1.45425497e-25  1.21580607e-25 -9.62745741e-26  7.27782436e-26
+ -5.28187385e-26  3.69509036e-26 -2.49890318e-26  1.63681783e-26
+ -1.03966599e-26  6.40713958e-27 -3.83067863e-27  2.22026615e-27
+ -1.24561966e-27  6.74672773e-28 -3.51342397e-28  1.74743971e-28
+ -8.20767700e-29  3.56581325e-29 -1.37008011e-29  4.08666430e-30
+ -3.53054931e-31 -7.85779518e-31  9.06580292e-31 -7.10415210e-31
+  4.75057505e-31 -2.88645889e-31  1.63472054e-31 -8.73380100e-32
+  4.42816869e-32 -2.13754707e-32  9.85739006e-33 -4.37803135e-33
+  1.91283267e-33 -8.58332735e-34  4.10123058e-34 -1.85599734e-34
+  2.67059258e-35  9.37087020e-35 -1.41647283e-34  1.01495771e-34
+ -1.84292478e-35 -4.09306124e-35  4.17740879e-35  1.95779576e-35]
+2026-07-22 22:48:57| Saved at t = 2.0000000000000013
+Step: 200/500.0| time step t=2.0000000000000013| Next Save=2.0500000000000007
+Step: 200/500.0| time step t=2.0000000000000013| Next Save gaussian=3
+t=2.010  |v|_max = 4.3026e-01
+concentration change = 1.240e-02
+t=2.010 | Total Mass in Domain = 0.005655
+Step: 201/500.0| time step t=2.010000000000001| Next Save=2.0500000000000007
+Step: 201/500.0| time step t=2.010000000000001| Next Save gaussian=3
+t=2.020  |v|_max = 8.5882e-01
+concentration change = 2.475e-02
+t=2.020 | Total Mass in Domain = 0.005655
+Step: 202/500.0| time step t=2.020000000000001| Next Save=2.0500000000000007
+Step: 202/500.0| time step t=2.020000000000001| Next Save gaussian=3
+t=2.030  |v|_max = 1.2840e+00
+concentration change = 3.700e-02
+t=2.030 | Total Mass in Domain = 0.005655
+Step: 203/500.0| time step t=2.0300000000000007| Next Save=2.0500000000000007
+Step: 203/500.0| time step t=2.0300000000000007| Next Save gaussian=3
+t=2.040  |v|_max = 1.7041e+00
+concentration change = 4.910e-02
+t=2.040 | Total Mass in Domain = 0.005655
+Step: 204/500.0| time step t=2.0400000000000005| Next Save=2.0500000000000007
+Step: 204/500.0| time step t=2.0400000000000005| Next Save gaussian=3
+t=2.050  |v|_max = 2.1175e+00
+concentration change = 6.100e-02
+t=2.050 | Total Mass in Domain = 0.005655
+2026-07-22 22:49:14| Saved at t = 2.0500000000000003
+Step: 205/500.0| time step t=2.0500000000000003| Next Save=2.1000000000000005
+Step: 205/500.0| time step t=2.0500000000000003| Next Save gaussian=3
+t=2.060  |v|_max = 2.5225e+00
+concentration change = 7.265e-02
+t=2.060 | Total Mass in Domain = 0.005655
+Step: 206/500.0| time step t=2.06| Next Save=2.1000000000000005
+Step: 206/500.0| time step t=2.06| Next Save gaussian=3
+t=2.070  |v|_max = 2.9176e+00
+concentration change = 8.401e-02
+t=2.070 | Total Mass in Domain = 0.005655
+Step: 207/500.0| time step t=2.07| Next Save=2.1000000000000005
+Step: 207/500.0| time step t=2.07| Next Save gaussian=3
+t=2.080  |v|_max = 3.3011e+00
+concentration change = 9.503e-02
+t=2.080 | Total Mass in Domain = 0.005655
+Step: 208/500.0| time step t=2.0799999999999996| Next Save=2.1000000000000005
+Step: 208/500.0| time step t=2.0799999999999996| Next Save gaussian=3
+t=2.090  |v|_max = 3.6717e+00
+concentration change = 1.057e-01
+t=2.090 | Total Mass in Domain = 0.005655
+Step: 209/500.0| time step t=2.0899999999999994| Next Save=2.1000000000000005
+Step: 209/500.0| time step t=2.0899999999999994| Next Save gaussian=3
+t=2.100  |v|_max = 4.0277e+00
+concentration change = 1.159e-01
+t=2.100 | Total Mass in Domain = 0.005655
+2026-07-22 22:49:33| Saved at t = 2.099999999999999
+Step: 210/500.0| time step t=2.099999999999999| Next Save=2.1500000000000004
+Step: 210/500.0| time step t=2.099999999999999| Next Save gaussian=3
+t=2.110  |v|_max = 4.3678e+00
+concentration change = 1.256e-01
+t=2.110 | Total Mass in Domain = 0.005655
+Step: 211/500.0| time step t=2.109999999999999| Next Save=2.1500000000000004
+Step: 211/500.0| time step t=2.109999999999999| Next Save gaussian=3
+t=2.120  |v|_max = 4.6907e+00
+concentration change = 1.348e-01
+t=2.120 | Total Mass in Domain = 0.005655
+Step: 212/500.0| time step t=2.1199999999999988| Next Save=2.1500000000000004
+Step: 212/500.0| time step t=2.1199999999999988| Next Save gaussian=3
+t=2.130  |v|_max = 4.9951e+00
+concentration change = 1.435e-01
+t=2.130 | Total Mass in Domain = 0.005655
+Step: 213/500.0| time step t=2.1299999999999986| Next Save=2.1500000000000004
+Step: 213/500.0| time step t=2.1299999999999986| Next Save gaussian=3
+t=2.140  |v|_max = 5.2798e+00
+concentration change = 1.516e-01
+t=2.140 | Total Mass in Domain = 0.005655
+Step: 214/500.0| time step t=2.1399999999999983| Next Save=2.1500000000000004
+Step: 214/500.0| time step t=2.1399999999999983| Next Save gaussian=3
+t=2.150  |v|_max = 5.5436e+00
+concentration change = 1.591e-01
+t=2.150 | Total Mass in Domain = 0.005655
+2026-07-22 22:49:56| Saved at t = 2.149999999999998
+Step: 215/500.0| time step t=2.149999999999998| Next Save=2.2
+Step: 215/500.0| time step t=2.149999999999998| Next Save gaussian=3
+t=2.160  |v|_max = 5.7856e+00
+concentration change = 1.659e-01
+t=2.160 | Total Mass in Domain = 0.005655
+Step: 216/500.0| time step t=2.159999999999998| Next Save=2.2
+Step: 216/500.0| time step t=2.159999999999998| Next Save gaussian=3
+t=2.170  |v|_max = 6.0047e+00
+concentration change = 1.720e-01
+t=2.170 | Total Mass in Domain = 0.005655
+Step: 217/500.0| time step t=2.1699999999999977| Next Save=2.2
+Step: 217/500.0| time step t=2.1699999999999977| Next Save gaussian=3
+t=2.180  |v|_max = 6.2002e+00
+concentration change = 1.775e-01
+t=2.180 | Total Mass in Domain = 0.005655
+Step: 218/500.0| time step t=2.1799999999999975| Next Save=2.2
+Step: 218/500.0| time step t=2.1799999999999975| Next Save gaussian=3
+t=2.190  |v|_max = 6.3711e+00
+concentration change = 1.822e-01
+t=2.190 | Total Mass in Domain = 0.005655
+Step: 219/500.0| time step t=2.1899999999999973| Next Save=2.2
+Step: 219/500.0| time step t=2.1899999999999973| Next Save gaussian=3
+t=2.200  |v|_max = 6.5169e+00
+concentration change = 1.862e-01
+t=2.200 | Total Mass in Domain = 0.005655
+2026-07-22 22:50:12| Saved at t = 2.199999999999997
+Step: 220/500.0| time step t=2.199999999999997| Next Save=2.25
+Step: 220/500.0| time step t=2.199999999999997| Next Save gaussian=3
+t=2.210  |v|_max = 6.6370e+00
+concentration change = 1.895e-01
+t=2.210 | Total Mass in Domain = 0.005655
+Step: 221/500.0| time step t=2.209999999999997| Next Save=2.25
+Step: 221/500.0| time step t=2.209999999999997| Next Save gaussian=3
+t=2.220  |v|_max = 6.7309e+00
+concentration change = 1.920e-01
+t=2.220 | Total Mass in Domain = 0.005655
+Step: 222/500.0| time step t=2.2199999999999966| Next Save=2.25
+Step: 222/500.0| time step t=2.2199999999999966| Next Save gaussian=3
+t=2.230  |v|_max = 6.7983e+00
+concentration change = 1.938e-01
+t=2.230 | Total Mass in Domain = 0.005655
+Step: 223/500.0| time step t=2.2299999999999964| Next Save=2.25
+Step: 223/500.0| time step t=2.2299999999999964| Next Save gaussian=3
+t=2.240  |v|_max = 6.8388e+00
+concentration change = 1.947e-01
+t=2.240 | Total Mass in Domain = 0.005655
+Step: 224/500.0| time step t=2.239999999999996| Next Save=2.25
+Step: 224/500.0| time step t=2.239999999999996| Next Save gaussian=3
+t=2.250  |v|_max = 6.8523e+00
+concentration change = 1.949e-01
+t=2.250 | Total Mass in Domain = 0.005655
+2026-07-22 22:50:31| Saved at t = 2.249999999999996
+Step: 225/500.0| time step t=2.249999999999996| Next Save=2.3
+Step: 225/500.0| time step t=2.249999999999996| Next Save gaussian=3
+t=2.260  |v|_max = 6.8388e+00
+concentration change = 1.944e-01
+t=2.260 | Total Mass in Domain = 0.005655
+Step: 226/500.0| time step t=2.259999999999996| Next Save=2.3
+Step: 226/500.0| time step t=2.259999999999996| Next Save gaussian=3
+t=2.270  |v|_max = 6.7983e+00
+concentration change = 1.930e-01
+t=2.270 | Total Mass in Domain = 0.005655
+Step: 227/500.0| time step t=2.2699999999999956| Next Save=2.3
+Step: 227/500.0| time step t=2.2699999999999956| Next Save gaussian=3
+t=2.280  |v|_max = 6.7309e+00
+concentration change = 1.909e-01
+t=2.280 | Total Mass in Domain = 0.005655
+Step: 228/500.0| time step t=2.2799999999999954| Next Save=2.3
+Step: 228/500.0| time step t=2.2799999999999954| Next Save gaussian=3
+t=2.290  |v|_max = 6.6370e+00
+concentration change = 1.881e-01
+t=2.290 | Total Mass in Domain = 0.005655
+Step: 229/500.0| time step t=2.289999999999995| Next Save=2.3
+Step: 229/500.0| time step t=2.289999999999995| Next Save gaussian=3
+t=2.300  |v|_max = 6.5169e+00
+concentration change = 1.846e-01
+t=2.300 | Total Mass in Domain = 0.005655
+2026-07-22 22:50:46| Saved at t = 2.299999999999995
+Step: 230/500.0| time step t=2.299999999999995| Next Save=2.3499999999999996
+Step: 230/500.0| time step t=2.299999999999995| Next Save gaussian=3
+t=2.310  |v|_max = 6.3711e+00
+concentration change = 1.803e-01
+t=2.310 | Total Mass in Domain = 0.005655
+Step: 231/500.0| time step t=2.3099999999999947| Next Save=2.3499999999999996
+Step: 231/500.0| time step t=2.3099999999999947| Next Save gaussian=3
+t=2.320  |v|_max = 6.2002e+00
+concentration change = 1.753e-01
+t=2.320 | Total Mass in Domain = 0.005655
+Step: 232/500.0| time step t=2.3199999999999945| Next Save=2.3499999999999996
+Step: 232/500.0| time step t=2.3199999999999945| Next Save gaussian=3
+t=2.330  |v|_max = 6.0047e+00
+concentration change = 1.697e-01
+t=2.330 | Total Mass in Domain = 0.005655
+Step: 233/500.0| time step t=2.3299999999999943| Next Save=2.3499999999999996
+Step: 233/500.0| time step t=2.3299999999999943| Next Save gaussian=3
+t=2.340  |v|_max = 5.7856e+00
+concentration change = 1.634e-01
+t=2.340 | Total Mass in Domain = 0.005655
+Step: 234/500.0| time step t=2.339999999999994| Next Save=2.3499999999999996
+Step: 234/500.0| time step t=2.339999999999994| Next Save gaussian=3
+t=2.350  |v|_max = 5.5436e+00
+concentration change = 1.564e-01
+t=2.350 | Total Mass in Domain = 0.005655
+2026-07-22 22:51:05| Saved at t = 2.349999999999994
+Step: 235/500.0| time step t=2.349999999999994| Next Save=2.3999999999999995
+Step: 235/500.0| time step t=2.349999999999994| Next Save gaussian=3
+t=2.360  |v|_max = 5.2798e+00
+concentration change = 1.489e-01
+t=2.360 | Total Mass in Domain = 0.005655
+Step: 236/500.0| time step t=2.3599999999999937| Next Save=2.3999999999999995
+Step: 236/500.0| time step t=2.3599999999999937| Next Save gaussian=3
+t=2.370  |v|_max = 4.9951e+00
+concentration change = 1.408e-01
+t=2.370 | Total Mass in Domain = 0.005655
+Step: 237/500.0| time step t=2.3699999999999934| Next Save=2.3999999999999995
+Step: 237/500.0| time step t=2.3699999999999934| Next Save gaussian=3
+t=2.380  |v|_max = 4.6907e+00
+concentration change = 1.322e-01
+t=2.380 | Total Mass in Domain = 0.005655
+Step: 238/500.0| time step t=2.3799999999999932| Next Save=2.3999999999999995
+Step: 238/500.0| time step t=2.3799999999999932| Next Save gaussian=3
+t=2.390  |v|_max = 4.3678e+00
+concentration change = 1.230e-01
+t=2.390 | Total Mass in Domain = 0.005655
+Step: 239/500.0| time step t=2.389999999999993| Next Save=2.3999999999999995
+Step: 239/500.0| time step t=2.389999999999993| Next Save gaussian=3
+t=2.400  |v|_max = 4.0277e+00
+concentration change = 1.134e-01
+t=2.400 | Total Mass in Domain = 0.005655
+2026-07-22 22:51:19| Saved at t = 2.399999999999993
+Step: 240/500.0| time step t=2.399999999999993| Next Save=2.4499999999999993
+Step: 240/500.0| time step t=2.399999999999993| Next Save gaussian=3
+t=2.410  |v|_max = 3.6717e+00
+concentration change = 1.034e-01
+t=2.410 | Total Mass in Domain = 0.005655
+Step: 241/500.0| time step t=2.4099999999999926| Next Save=2.4499999999999993
+Step: 241/500.0| time step t=2.4099999999999926| Next Save gaussian=3
+t=2.420  |v|_max = 3.3011e+00
+concentration change = 9.290e-02
+t=2.420 | Total Mass in Domain = 0.005655
+Step: 242/500.0| time step t=2.4199999999999924| Next Save=2.4499999999999993
+Step: 242/500.0| time step t=2.4199999999999924| Next Save gaussian=3
+t=2.430  |v|_max = 2.9176e+00
+concentration change = 8.209e-02
+t=2.430 | Total Mass in Domain = 0.005655
+Step: 243/500.0| time step t=2.429999999999992| Next Save=2.4499999999999993
+Step: 243/500.0| time step t=2.429999999999992| Next Save gaussian=3
+t=2.440  |v|_max = 2.5225e+00
+concentration change = 7.096e-02
+t=2.440 | Total Mass in Domain = 0.005655
+Step: 244/500.0| time step t=2.439999999999992| Next Save=2.4499999999999993
+Step: 244/500.0| time step t=2.439999999999992| Next Save gaussian=3
+t=2.450  |v|_max = 2.1175e+00
+concentration change = 5.956e-02
+t=2.450 | Total Mass in Domain = 0.005655
+2026-07-22 22:51:36| Saved at t = 2.4499999999999917
+Step: 245/500.0| time step t=2.4499999999999917| Next Save=2.499999999999999
+Step: 245/500.0| time step t=2.4499999999999917| Next Save gaussian=3
+t=2.460  |v|_max = 1.7041e+00
+concentration change = 4.792e-02
+t=2.460 | Total Mass in Domain = 0.005655
+Step: 246/500.0| time step t=2.4599999999999915| Next Save=2.499999999999999
+Step: 246/500.0| time step t=2.4599999999999915| Next Save gaussian=3
+t=2.470  |v|_max = 1.2840e+00
+concentration change = 3.610e-02
+t=2.470 | Total Mass in Domain = 0.005655
+Step: 247/500.0| time step t=2.4699999999999913| Next Save=2.499999999999999
+Step: 247/500.0| time step t=2.4699999999999913| Next Save gaussian=3
+t=2.480  |v|_max = 8.5882e-01
+concentration change = 2.414e-02
+t=2.480 | Total Mass in Domain = 0.005655
+Step: 248/500.0| time step t=2.479999999999991| Next Save=2.499999999999999
+Step: 248/500.0| time step t=2.479999999999991| Next Save gaussian=3
+t=2.490  |v|_max = 4.3026e-01
+concentration change = 1.209e-02
+t=2.490 | Total Mass in Domain = 0.005655
+Step: 249/500.0| time step t=2.489999999999991| Next Save=2.499999999999999
+Step: 249/500.0| time step t=2.489999999999991| Next Save gaussian=3
+t=2.500  |v|_max = 4.0588e-13
+concentration change = 4.074e-04
+t=2.500 | Total Mass in Domain = 0.005655
+2026-07-22 22:51:51| Saved at t = 2.4999999999999907
+Step: 250/500.0| time step t=2.4999999999999907| Next Save=2.549999999999999
+Step: 250/500.0| time step t=2.4999999999999907| Next Save gaussian=3
+t=2.510  |v|_max = 4.3026e-01
+concentration change = 1.212e-02
+t=2.510 | Total Mass in Domain = 0.005655
+Step: 251/500.0| time step t=2.5099999999999905| Next Save=2.549999999999999
+Step: 251/500.0| time step t=2.5099999999999905| Next Save gaussian=3
+t=2.520  |v|_max = 8.5882e-01
+concentration change = 2.417e-02
+t=2.520 | Total Mass in Domain = 0.005655
+Step: 252/500.0| time step t=2.5199999999999902| Next Save=2.549999999999999
+Step: 252/500.0| time step t=2.5199999999999902| Next Save gaussian=3
+t=2.530  |v|_max = 1.2840e+00
+concentration change = 3.612e-02
+t=2.530 | Total Mass in Domain = 0.005655
+Step: 253/500.0| time step t=2.52999999999999| Next Save=2.549999999999999
+Step: 253/500.0| time step t=2.52999999999999| Next Save gaussian=3
+t=2.540  |v|_max = 1.7041e+00
+concentration change = 4.793e-02
+t=2.540 | Total Mass in Domain = 0.005655
+Step: 254/500.0| time step t=2.53999999999999| Next Save=2.549999999999999
+Step: 254/500.0| time step t=2.53999999999999| Next Save gaussian=3
+t=2.550  |v|_max = 2.1175e+00
+concentration change = 5.954e-02
+t=2.550 | Total Mass in Domain = 0.005655
+2026-07-22 22:52:12| Saved at t = 2.5499999999999896
+Step: 255/500.0| time step t=2.5499999999999896| Next Save=2.5999999999999988
+Step: 255/500.0| time step t=2.5499999999999896| Next Save gaussian=3
+t=2.560  |v|_max = 2.5225e+00
+concentration change = 7.091e-02
+t=2.560 | Total Mass in Domain = 0.005655
+Step: 256/500.0| time step t=2.5599999999999894| Next Save=2.5999999999999988
+Step: 256/500.0| time step t=2.5599999999999894| Next Save gaussian=3
+t=2.570  |v|_max = 2.9176e+00
+concentration change = 8.199e-02
+t=2.570 | Total Mass in Domain = 0.005655
+Step: 257/500.0| time step t=2.569999999999989| Next Save=2.5999999999999988
+Step: 257/500.0| time step t=2.569999999999989| Next Save gaussian=3
+t=2.580  |v|_max = 3.3011e+00
+concentration change = 9.274e-02
+t=2.580 | Total Mass in Domain = 0.005655
+Step: 258/500.0| time step t=2.579999999999989| Next Save=2.5999999999999988
+Step: 258/500.0| time step t=2.579999999999989| Next Save gaussian=3
+t=2.590  |v|_max = 3.6717e+00
+concentration change = 1.031e-01
+t=2.590 | Total Mass in Domain = 0.005655
+Step: 259/500.0| time step t=2.5899999999999888| Next Save=2.5999999999999988
+Step: 259/500.0| time step t=2.5899999999999888| Next Save gaussian=3
+t=2.600  |v|_max = 4.0277e+00
+concentration change = 1.131e-01
+t=2.600 | Total Mass in Domain = 0.005655
+2026-07-22 22:52:30| Saved at t = 2.5999999999999885
+Step: 260/500.0| time step t=2.5999999999999885| Next Save=2.6499999999999986
+Step: 260/500.0| time step t=2.5999999999999885| Next Save gaussian=3
+t=2.610  |v|_max = 4.3678e+00
+concentration change = 1.226e-01
+t=2.610 | Total Mass in Domain = 0.005655
+Step: 261/500.0| time step t=2.6099999999999883| Next Save=2.6499999999999986
+Step: 261/500.0| time step t=2.6099999999999883| Next Save gaussian=3
+t=2.620  |v|_max = 4.6907e+00
+concentration change = 1.315e-01
+t=2.620 | Total Mass in Domain = 0.005655
+Step: 262/500.0| time step t=2.619999999999988| Next Save=2.6499999999999986
+Step: 262/500.0| time step t=2.619999999999988| Next Save gaussian=3
+t=2.630  |v|_max = 4.9951e+00
+concentration change = 1.400e-01
+t=2.630 | Total Mass in Domain = 0.005655
+Step: 263/500.0| time step t=2.629999999999988| Next Save=2.6499999999999986
+Step: 263/500.0| time step t=2.629999999999988| Next Save gaussian=3
+t=2.640  |v|_max = 5.2798e+00
+concentration change = 1.479e-01
+t=2.640 | Total Mass in Domain = 0.005655
+Step: 264/500.0| time step t=2.6399999999999877| Next Save=2.6499999999999986
+Step: 264/500.0| time step t=2.6399999999999877| Next Save gaussian=3
+t=2.650  |v|_max = 5.5436e+00
+concentration change = 1.552e-01
+t=2.650 | Total Mass in Domain = 0.005655
+2026-07-22 22:52:42| Saved at t = 2.6499999999999875
+Step: 265/500.0| time step t=2.6499999999999875| Next Save=2.6999999999999984
+Step: 265/500.0| time step t=2.6499999999999875| Next Save gaussian=3
+t=2.660  |v|_max = 5.7856e+00
+concentration change = 1.618e-01
+t=2.660 | Total Mass in Domain = 0.005655
+Step: 266/500.0| time step t=2.6599999999999873| Next Save=2.6999999999999984
+Step: 266/500.0| time step t=2.6599999999999873| Next Save gaussian=3
+t=2.670  |v|_max = 6.0047e+00
+concentration change = 1.678e-01
+t=2.670 | Total Mass in Domain = 0.005655
+Step: 267/500.0| time step t=2.669999999999987| Next Save=2.6999999999999984
+Step: 267/500.0| time step t=2.669999999999987| Next Save gaussian=3
+t=2.680  |v|_max = 6.2002e+00
+concentration change = 1.731e-01
+t=2.680 | Total Mass in Domain = 0.005655
+Step: 268/500.0| time step t=2.679999999999987| Next Save=2.6999999999999984
+Step: 268/500.0| time step t=2.679999999999987| Next Save gaussian=3
+t=2.690  |v|_max = 6.3711e+00
+concentration change = 1.778e-01
+t=2.690 | Total Mass in Domain = 0.005655
+Step: 269/500.0| time step t=2.6899999999999866| Next Save=2.6999999999999984
+Step: 269/500.0| time step t=2.6899999999999866| Next Save gaussian=3
+t=2.700  |v|_max = 6.5169e+00
+concentration change = 1.817e-01
+t=2.700 | Total Mass in Domain = 0.005655
+2026-07-22 22:52:56| Saved at t = 2.6999999999999864
+Step: 270/500.0| time step t=2.6999999999999864| Next Save=2.7499999999999982
+Step: 270/500.0| time step t=2.6999999999999864| Next Save gaussian=3
+t=2.710  |v|_max = 6.6370e+00
+concentration change = 1.848e-01
+t=2.710 | Total Mass in Domain = 0.005655
+Step: 271/500.0| time step t=2.709999999999986| Next Save=2.7499999999999982
+Step: 271/500.0| time step t=2.709999999999986| Next Save gaussian=3
+t=2.720  |v|_max = 6.7309e+00
+concentration change = 1.873e-01
+t=2.720 | Total Mass in Domain = 0.005655
+Step: 272/500.0| time step t=2.719999999999986| Next Save=2.7499999999999982
+Step: 272/500.0| time step t=2.719999999999986| Next Save gaussian=3
+t=2.730  |v|_max = 6.7983e+00
+concentration change = 1.890e-01
+t=2.730 | Total Mass in Domain = 0.005655
+Step: 273/500.0| time step t=2.7299999999999858| Next Save=2.7499999999999982
+Step: 273/500.0| time step t=2.7299999999999858| Next Save gaussian=3
+t=2.740  |v|_max = 6.8388e+00
+concentration change = 1.899e-01
+t=2.740 | Total Mass in Domain = 0.005655
+Step: 274/500.0| time step t=2.7399999999999856| Next Save=2.7499999999999982
+Step: 274/500.0| time step t=2.7399999999999856| Next Save gaussian=3
+t=2.750  |v|_max = 6.8523e+00
+concentration change = 1.901e-01
+t=2.750 | Total Mass in Domain = 0.005655
+2026-07-22 22:53:11| Saved at t = 2.7499999999999853
+Step: 275/500.0| time step t=2.7499999999999853| Next Save=2.799999999999998
+Step: 275/500.0| time step t=2.7499999999999853| Next Save gaussian=3
+t=2.760  |v|_max = 6.8388e+00
+concentration change = 1.895e-01
+t=2.760 | Total Mass in Domain = 0.005655
+Step: 276/500.0| time step t=2.759999999999985| Next Save=2.799999999999998
+Step: 276/500.0| time step t=2.759999999999985| Next Save gaussian=3
+t=2.770  |v|_max = 6.7983e+00
+concentration change = 1.882e-01
+t=2.770 | Total Mass in Domain = 0.005655
+Step: 277/500.0| time step t=2.769999999999985| Next Save=2.799999999999998
+Step: 277/500.0| time step t=2.769999999999985| Next Save gaussian=3
+t=2.780  |v|_max = 6.7309e+00
+concentration change = 1.862e-01
+t=2.780 | Total Mass in Domain = 0.005655
+Step: 278/500.0| time step t=2.7799999999999847| Next Save=2.799999999999998
+Step: 278/500.0| time step t=2.7799999999999847| Next Save gaussian=3
+t=2.790  |v|_max = 6.6370e+00
+concentration change = 1.834e-01
+t=2.790 | Total Mass in Domain = 0.005655
+Step: 279/500.0| time step t=2.7899999999999845| Next Save=2.799999999999998
+Step: 279/500.0| time step t=2.7899999999999845| Next Save gaussian=3
+t=2.800  |v|_max = 6.5169e+00
+concentration change = 1.800e-01
+t=2.800 | Total Mass in Domain = 0.005655
+2026-07-22 22:53:37| Saved at t = 2.7999999999999843
+Step: 280/500.0| time step t=2.7999999999999843| Next Save=2.849999999999998
+Step: 280/500.0| time step t=2.7999999999999843| Next Save gaussian=3
+t=2.810  |v|_max = 6.3711e+00
+concentration change = 1.758e-01
+t=2.810 | Total Mass in Domain = 0.005655
+Step: 281/500.0| time step t=2.809999999999984| Next Save=2.849999999999998
+Step: 281/500.0| time step t=2.809999999999984| Next Save gaussian=3
+t=2.820  |v|_max = 6.2002e+00
+concentration change = 1.709e-01
+t=2.820 | Total Mass in Domain = 0.005655
+Step: 282/500.0| time step t=2.819999999999984| Next Save=2.849999999999998
+Step: 282/500.0| time step t=2.819999999999984| Next Save gaussian=3
+t=2.830  |v|_max = 6.0047e+00
+concentration change = 1.654e-01
+t=2.830 | Total Mass in Domain = 0.005655
+Step: 283/500.0| time step t=2.8299999999999836| Next Save=2.849999999999998
+Step: 283/500.0| time step t=2.8299999999999836| Next Save gaussian=3
+t=2.840  |v|_max = 5.7856e+00
+concentration change = 1.593e-01
+t=2.840 | Total Mass in Domain = 0.005655
+Step: 284/500.0| time step t=2.8399999999999834| Next Save=2.849999999999998
+Step: 284/500.0| time step t=2.8399999999999834| Next Save gaussian=3
+t=2.850  |v|_max = 5.5436e+00
+concentration change = 1.525e-01
+t=2.850 | Total Mass in Domain = 0.005655
+2026-07-22 22:54:04| Saved at t = 2.849999999999983
+Step: 285/500.0| time step t=2.849999999999983| Next Save=2.8999999999999977
+Step: 285/500.0| time step t=2.849999999999983| Next Save gaussian=3
+t=2.860  |v|_max = 5.2798e+00
+concentration change = 1.452e-01
+t=2.860 | Total Mass in Domain = 0.005655
+Step: 286/500.0| time step t=2.859999999999983| Next Save=2.8999999999999977
+Step: 286/500.0| time step t=2.859999999999983| Next Save gaussian=3
+t=2.870  |v|_max = 4.9951e+00
+concentration change = 1.373e-01
+t=2.870 | Total Mass in Domain = 0.005655
+Step: 287/500.0| time step t=2.869999999999983| Next Save=2.8999999999999977
+Step: 287/500.0| time step t=2.869999999999983| Next Save gaussian=3
+t=2.880  |v|_max = 4.6907e+00
+concentration change = 1.289e-01
+t=2.880 | Total Mass in Domain = 0.005655
+Step: 288/500.0| time step t=2.8799999999999826| Next Save=2.8999999999999977
+Step: 288/500.0| time step t=2.8799999999999826| Next Save gaussian=3
+t=2.890  |v|_max = 4.3678e+00
+concentration change = 1.199e-01
+t=2.890 | Total Mass in Domain = 0.005655
+Step: 289/500.0| time step t=2.8899999999999824| Next Save=2.8999999999999977
+Step: 289/500.0| time step t=2.8899999999999824| Next Save gaussian=3
+t=2.900  |v|_max = 4.0277e+00
+concentration change = 1.106e-01
+t=2.900 | Total Mass in Domain = 0.005655
+2026-07-22 22:54:22| Saved at t = 2.899999999999982
+Step: 290/500.0| time step t=2.899999999999982| Next Save=2.9499999999999975
+Step: 290/500.0| time step t=2.899999999999982| Next Save gaussian=3
+t=2.910  |v|_max = 3.6717e+00
+concentration change = 1.008e-01
+t=2.910 | Total Mass in Domain = 0.005655
+Step: 291/500.0| time step t=2.909999999999982| Next Save=2.9499999999999975
+Step: 291/500.0| time step t=2.909999999999982| Next Save gaussian=3
+t=2.920  |v|_max = 3.3011e+00
+concentration change = 9.057e-02
+t=2.920 | Total Mass in Domain = 0.005655
+Step: 292/500.0| time step t=2.9199999999999817| Next Save=2.9499999999999975
+Step: 292/500.0| time step t=2.9199999999999817| Next Save gaussian=3
+t=2.930  |v|_max = 2.9176e+00
+concentration change = 8.003e-02
+t=2.930 | Total Mass in Domain = 0.005655
+Step: 293/500.0| time step t=2.9299999999999815| Next Save=2.9499999999999975
+Step: 293/500.0| time step t=2.9299999999999815| Next Save gaussian=3
+t=2.940  |v|_max = 2.5225e+00
+concentration change = 6.918e-02
+t=2.940 | Total Mass in Domain = 0.005655
+Step: 294/500.0| time step t=2.9399999999999813| Next Save=2.9499999999999975
+Step: 294/500.0| time step t=2.9399999999999813| Next Save gaussian=3
+t=2.950  |v|_max = 2.1175e+00
+concentration change = 5.807e-02
+t=2.950 | Total Mass in Domain = 0.005655

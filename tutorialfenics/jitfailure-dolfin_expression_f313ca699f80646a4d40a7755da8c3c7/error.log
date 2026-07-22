@@ -1,0 +1,21 @@
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp: In member function ‘virtual void dolfin::dolfin_expression_f313ca699f80646a4d40a7755da8c3c7::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp:64:50: error: ‘K1’ was not declared in this scope
+           values[0] = (x[0] < L/2) ? (2*A*sin(t)*K1 * x[0]) / (L*(K1+K2)) : (A*sin(t) * (1 - (2*(K2**2)*(1-x[0]/L))/ (K1 + K2)));
+                                                  ^~
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp:64:50: note: suggested alternative: ‘y1’
+           values[0] = (x[0] < L/2) ? (2*A*sin(t)*K1 * x[0]) / (L*(K1+K2)) : (A*sin(t) * (1 - (2*(K2**2)*(1-x[0]/L))/ (K1 + K2)));
+                                                  ^~
+                                                  y1
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp:64:70: error: ‘K2’ was not declared in this scope
+           values[0] = (x[0] < L/2) ? (2*A*sin(t)*K1 * x[0]) / (L*(K1+K2)) : (A*sin(t) * (1 - (2*(K2**2)*(1-x[0]/L))/ (K1 + K2)));
+                                                                      ^~
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp:64:102: error: invalid type argument of unary ‘*’ (have ‘int’)
+           values[0] = (x[0] < L/2) ? (2*A*sin(t)*K1 * x[0]) / (L*(K1+K2)) : (A*sin(t) * (1 - (2*(K2**2)*(1-x[0]/L))/ (K1 + K2)));
+                                                                                                      ^
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp: In member function ‘virtual double dolfin::dolfin_expression_f313ca699f80646a4d40a7755da8c3c7::get_property(std::__cxx11::string) const’:
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp:76:11: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+           if (name == "A") return A;          if (name == "t") return t;          if (name == "L") return L;
+           ^~
+/tmp/tmpmtf2n4o3/dolfin_expression_f313ca699f80646a4d40a7755da8c3c7.cpp:76:47: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+           if (name == "A") return A;          if (name == "t") return t;          if (name == "L") return L;
+                                               ^~
