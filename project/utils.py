@@ -56,23 +56,39 @@ Note: K1_star, K2_star (hydrolic conductivity), indicating how easily the fluid 
 
 
 # ------------ Other functions ------------
-def get_param_si(df):
-    si_params = {}
+def get_params():
+    # ------ PHYSICAL PARAMETERS (SI) ------
+    columns_to_keep = ['param', 'physcl_value']
+    df = pd.read_csv('parameter/param.csv', usecols=columns_to_keep)
 
-    # Convert dataframe row into a dictionary val
+    # Convert dataframe rows into a dict: {param_name: value}
     val = dict(zip(df['param'], df['physcl_value']))
 
-    # Extract and convert each value to SI standard measurement
-    si_params['_l'] = val['_l'] * 1e-6
-    si_params['_L'] = val['_L'] * 1e-6
-    si_params['_H'] = val['_H'] * 1e-6
-    si_params['_omega'] = val['_omega']
-    si_params['_k'] = val['_k']
-    si_params['_mu'] = val['_mu'] 
-    si_params['_u_x'] = val['_u_x'] * 1e-6
-    si_params['_D'] = val['_D']
+    # Original (unconverted) values
+    params = {
+        '_l':     val['_l'],
+        '_L':     val['_L'],
+        '_H':     val['_H'],
+        '_omega': val['_omega'],
+        '_k':     val['_k'],
+        '_mu':    val['_mu'],
+        '_u_x':   val['_u_x'],
+        '_D':     val['_D'],
+    }
 
-    return si_params
+    # SI-converted values
+    si_params = {
+        '_l':     val['_l'] * 1e-6,
+        '_L':     val['_L'] * 1e-6,
+        '_H':     val['_H'] * 1e-6,
+        '_omega': val['_omega'],
+        '_k':     val['_k'],
+        '_mu':    val['_mu'],
+        '_u_x':   val['_u_x'] * 1e-6,
+        '_D':     val['_D'],
+    }
+
+    return si_params, params
 
 def log(message, logfile):
     '''
@@ -257,29 +273,33 @@ def load_result_dict(file_prefix, C_space_class, P_space_class, V_space_class):
 def prep_physical_params(logfile, overrides):
 
     physical_params = {}
-    velo_orig = None
+    velo_ori = None
 
-    # # ------PHYSICAL PARAMETER (SI)------------
-    columns_to_keep = ['param',	'physcl_value']
-    df = pd.read_csv('parameter/param.csv', usecols=columns_to_keep)
-    params = get_param_si(df)     # _l, _L, _H, _omega, _k, _mu, _u_x, _D
+    #1 Get parameter from the raw csv file
+    params, params_orig = get_params()    # _l, _L, _H, _omega, _k, _mu, _u_x, _D
 
-
+    
+    #2 Override parameter with override dictionary
     for param_key, param_val in overrides.items():
-        velo_orig = param_val
+        # Have _u_x, omega to override
         if param_val is not None:
-            # convert to SI
-            if param_key == '_u_x':
+            # override parameter and also convert to SI!
+            if param_key == '_u_x': 
                 param_val = param_val * 1e-6
-
-            # override physical params
+            # update dict params with overrided value
+            # _u_x, omega
             params[param_key] = param_val 
+
             log(f"changing parameters {param_key} to {param_val} successfully \n", logfile)
             print(f"changing parameters {param_key} to {param_val} successfully")
         else: 
             print(f"USE Default parameter for {param_key}!")
-
-    print(f"SI physical parameters used: {params}")
+    
+    #3 Extract velo before convert to SI unit
+    if overrides['_u_x'] is not None:
+        velo_ori = overrides['_u_x'] 
+    else:
+        velo_ori = params_orig['_u_x']
 
     # write physical params in the logfile
     log("SI physical parameters:", logfile)
@@ -299,8 +319,10 @@ def prep_physical_params(logfile, overrides):
         "Pe" : Pe,
         "x_interface": x_interface,
         "omega" : params["_omega"],
-        "velo_ori" : velo_orig
+        "velo_ori" : velo_ori
     }    
+
+    print(f"Physical parameters used: {physical_params}")
 
     log("\nCoefficients for solver and Pe:", logfile)
     log(f"adv_coeff = {adv_coeff}, \ndiff_coeff = {diff_coeff}, \nPe = {Pe}\n", logfile)
@@ -663,12 +685,12 @@ def solve_pde(T, no_cells, dt, target_step, dir_path, logfile, params):
         log(f"t={t:.3f} | Total Mass in Domain = {total_mass:.6f}", logfile)
 
         # Compute 2D total mass K1 (right)
-        total_mass_K1 = assemble(c_sol * dx_material[1])
+        total_mass_K1 = assemble(c_sol * dx_material(1))
         total_mass_K1_t.append(total_mass_K1)
         log(f"t={t:.3f} | Total Mass in Domain K1 = {total_mass:.6f}", logfile)
 
         # Compute 2D total mass K2 (left)
-        total_mass_K2 = assemble(c_sol * dx_material[2])
+        total_mass_K2 = assemble(c_sol * dx_material(2))
         total_mass_K2_t.append(total_mass_K2)
         log(f"t={t:.3f} | Total Mass in Domain K2 = {total_mass:.6f}", logfile)
 
@@ -768,6 +790,8 @@ def solve_pde(T, no_cells, dt, target_step, dir_path, logfile, params):
         'K1' : total_mass_K1_t,
         'K2' : total_mass_K2_t,
     }
+
+    log(f"total mass conservation: {total_mass_by_t}", logfile)
 
     result = {
         # FEniCS function object at t=target_step
@@ -1049,15 +1073,15 @@ def plot_guassian_sol(meshsize, result, y_vals, physical_params):
         axes[1,1].legend()
 
     plt.tight_layout()
+    return fig
     
 
-    
 def plot_total_mass(physical_params, meshsize, dt, result):
     """
     Plots the total solute mass over time to verify numerical mass conservation.
     
     """
-
+    print("PLOT mass conservation")
     # Create 1 row x 2 columns of subplots
     fig, axes = plt.subplots(1, 2, figsize=(12, 4.5))
 
@@ -1099,4 +1123,4 @@ def plot_total_mass(physical_params, meshsize, dt, result):
 
     plt.tight_layout()
     
-    
+    return fig

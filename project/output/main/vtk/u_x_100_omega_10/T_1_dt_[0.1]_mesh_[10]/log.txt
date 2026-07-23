@@ -1,3 +1,7 @@
+changing parameters _u_x to 9.999999999999999e-05 successfully 
+
+changing parameters _omega to 10 successfully 
+
 SI physical parameters:
 _l = 4.000e-05, 
 _L = 2.000e-04, 
@@ -178,7 +182,7 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [-3.69709165e-06  2.
   1.32504321e-09  1.03999759e-09  7.69630235e-10  5.13941147e-10
   2.72930325e-10  4.65977680e-11 -1.65056523e-10 -3.62032547e-10
  -5.44330306e-10 -7.11949799e-10 -8.64891026e-10 -1.00315399e-09]
-2026-07-23 14:09:55| Saved at t = 0
+2026-07-23 11:43:13| Saved at t = 0
 Step: 0/10.0| time step t=0| Next Save=0.05
 Step: 0/10.0| time step t=0| Next Save gaussian=1
 t=0.100  |v|_max = 2.0244e+00
@@ -186,7 +190,7 @@ concentration change = 3.871e-02
 t=0.100 | Total Mass in Domain = 0.010156
 t=0.100 | Total Mass in Domain K1 = 0.010156
 t=0.100 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.1
+2026-07-23 11:43:13| Saved at t = 0.1
 Step: 1/10.0| time step t=0.1| Next Save=0.1
 Step: 1/10.0| time step t=0.1| Next Save gaussian=1
 t=0.200  |v|_max = 3.2755e+00
@@ -194,7 +198,7 @@ concentration change = 6.234e-02
 t=0.200 | Total Mass in Domain = 0.010156
 t=0.200 | Total Mass in Domain K1 = 0.010156
 t=0.200 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.2
+2026-07-23 11:43:13| Saved at t = 0.2
 Step: 2/10.0| time step t=0.2| Next Save=0.15000000000000002
 Step: 2/10.0| time step t=0.2| Next Save gaussian=1
 t=0.300  |v|_max = 3.2755e+00
@@ -202,7 +206,7 @@ concentration change = 6.206e-02
 t=0.300 | Total Mass in Domain = 0.010156
 t=0.300 | Total Mass in Domain K1 = 0.010156
 t=0.300 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.30000000000000004
+2026-07-23 11:43:13| Saved at t = 0.30000000000000004
 Step: 3/10.0| time step t=0.30000000000000004| Next Save=0.2
 Step: 3/10.0| time step t=0.30000000000000004| Next Save gaussian=1
 t=0.400  |v|_max = 2.0244e+00
@@ -210,7 +214,7 @@ concentration change = 3.829e-02
 t=0.400 | Total Mass in Domain = 0.010156
 t=0.400 | Total Mass in Domain K1 = 0.010156
 t=0.400 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.4
+2026-07-23 11:43:13| Saved at t = 0.4
 Step: 4/10.0| time step t=0.4| Next Save=0.25
 Step: 4/10.0| time step t=0.4| Next Save gaussian=1
 t=0.500  |v|_max = 4.2178e-16
@@ -218,7 +222,7 @@ concentration change = 3.127e-04
 t=0.500 | Total Mass in Domain = 0.010156
 t=0.500 | Total Mass in Domain K1 = 0.010156
 t=0.500 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.5
+2026-07-23 11:43:14| Saved at t = 0.5
 Step: 5/10.0| time step t=0.5| Next Save=0.3
 Step: 5/10.0| time step t=0.5| Next Save gaussian=1
 t=0.600  |v|_max = 2.0244e+00
@@ -226,7 +230,7 @@ concentration change = 3.819e-02
 t=0.600 | Total Mass in Domain = 0.010156
 t=0.600 | Total Mass in Domain K1 = 0.010156
 t=0.600 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.6
+2026-07-23 11:43:14| Saved at t = 0.6
 Step: 6/10.0| time step t=0.6| Next Save=0.35
 Step: 6/10.0| time step t=0.6| Next Save gaussian=1
 t=0.700  |v|_max = 3.2755e+00
@@ -234,7 +238,7 @@ concentration change = 6.157e-02
 t=0.700 | Total Mass in Domain = 0.010156
 t=0.700 | Total Mass in Domain K1 = 0.010156
 t=0.700 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:55| Saved at t = 0.7
+2026-07-23 11:43:14| Saved at t = 0.7
 Step: 7/10.0| time step t=0.7| Next Save=0.39999999999999997
 Step: 7/10.0| time step t=0.7| Next Save gaussian=1
 t=0.800  |v|_max = 3.2755e+00
@@ -242,7 +246,7 @@ concentration change = 6.135e-02
 t=0.800 | Total Mass in Domain = 0.010156
 t=0.800 | Total Mass in Domain K1 = 0.010156
 t=0.800 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:56| Saved at t = 0.7999999999999999
+2026-07-23 11:43:14| Saved at t = 0.7999999999999999
 Step: 8/10.0| time step t=0.7999999999999999| Next Save=0.44999999999999996
 Step: 8/10.0| time step t=0.7999999999999999| Next Save gaussian=1
 t=0.900  |v|_max = 2.0244e+00
@@ -250,7 +254,7 @@ concentration change = 3.786e-02
 t=0.900 | Total Mass in Domain = 0.010156
 t=0.900 | Total Mass in Domain K1 = 0.010156
 t=0.900 | Total Mass in Domain K2 = 0.010156
-2026-07-23 14:09:56| Saved at t = 0.8999999999999999
+2026-07-23 11:43:14| Saved at t = 0.8999999999999999
 Step: 9/10.0| time step t=0.8999999999999999| Next Save=0.49999999999999994
 Step: 9/10.0| time step t=0.8999999999999999| Next Save gaussian=1
 t=1.000  |v|_max = 3.9026e-15
@@ -420,8 +424,8 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [-6.53187405e-05 -4.
  -1.60438370e-06 -1.14824980e-06 -7.19967404e-07 -3.19536521e-07
   5.30428511e-08  3.97770712e-07  7.14647061e-07  1.00367190e-06
   1.26484523e-06  1.49816704e-06  1.70363735e-06  1.88125614e-06]
-2026-07-23 14:09:56| Saved at t = 0.9999999999999999
+2026-07-23 11:43:14| Saved at t = 0.9999999999999999
 Step: 10/10.0| time step t=0.9999999999999999| Next Save=0.5499999999999999
 Step: 10/10.0| time step t=0.9999999999999999| Next Save gaussian=2
 total mass conservation: {'whole': [0.010155234626998057, 0.010155516935432327, 0.010155859651595482, 0.01015611918616402, 0.010156257328626909, 0.010156257328626902, 0.010156092512318256, 0.010155791470161803, 0.010155598006002938, 0.0101555734214624, 0.010155573421462399], 'K1': [0.005077613231542316, 0.004895021398530986, 0.004600269056848737, 0.004306982261017366, 0.004126486456491932, 0.00412654055414081, 0.004307660552451236, 0.004601310705356672, 0.004894800962862857, 0.005075938579357109, 0.005075935658072896], 'K2': [0.0050776213954557455, 0.005260495536901337, 0.005555590594746738, 0.005849136925146659, 0.006029770872134972, 0.006029716774486101, 0.005848431959867026, 0.005554480764805129, 0.005260797043140084, 0.005079634842105291, 0.005079637763389504]}
-Total runtime: 2.19 s
+Total runtime: 1.44 s

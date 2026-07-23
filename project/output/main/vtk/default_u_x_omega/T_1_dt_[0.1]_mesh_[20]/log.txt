@@ -16,6 +16,8 @@ Pe = 19999.999999999996
 t=0.000  |v|_max = 0.0000e+00
 concentration change = 7.840e-04
 t=0.000 | Total Mass in Domain = 0.005673
+t=0.000 | Total Mass in Domain K1 = 0.005673
+t=0.000 | Total Mass in Domain K2 = 0.005673
 Vertical concentration profile c(x=0.2, y): [ 1.50433100e-12  9.07362624e-13  3.10394244e-13 -2.86574136e-13
  -8.83542515e-13 -1.48051089e-12 -2.07747927e-12 -2.67444765e-12
  -3.21046477e-12 -2.58840789e-12 -1.96635101e-12 -1.34429413e-12
@@ -176,66 +178,86 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [-4.47709127e-08  7.
   1.46106859e-14  1.14108909e-14  4.17222807e-15 -7.10530255e-15
  -8.96723273e-15 -9.18027572e-15 -8.30021163e-15 -6.32704048e-15
  -3.26076225e-15  8.98623054e-16  6.15111543e-15  1.24967149e-14]
-2026-07-22 21:52:38| Saved at t = 0
+2026-07-23 14:09:55| Saved at t = 0
 Step: 0/10.0| time step t=0| Next Save=0.05
 Step: 0/10.0| time step t=0| Next Save gaussian=1
 t=0.100  |v|_max = 2.4239e+00
 concentration change = 7.138e-02
 t=0.100 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:38| Saved at t = 0.1
+t=0.100 | Total Mass in Domain K1 = 0.005673
+t=0.100 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:55| Saved at t = 0.1
 Step: 1/10.0| time step t=0.1| Next Save=0.1
 Step: 1/10.0| time step t=0.1| Next Save gaussian=1
 t=0.200  |v|_max = 3.9220e+00
 concentration change = 1.140e-01
 t=0.200 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:38| Saved at t = 0.2
+t=0.200 | Total Mass in Domain K1 = 0.005673
+t=0.200 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:55| Saved at t = 0.2
 Step: 2/10.0| time step t=0.2| Next Save=0.15000000000000002
 Step: 2/10.0| time step t=0.2| Next Save gaussian=1
 t=0.300  |v|_max = 3.9220e+00
 concentration change = 1.125e-01
 t=0.300 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:38| Saved at t = 0.30000000000000004
+t=0.300 | Total Mass in Domain K1 = 0.005673
+t=0.300 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:55| Saved at t = 0.30000000000000004
 Step: 3/10.0| time step t=0.30000000000000004| Next Save=0.2
 Step: 3/10.0| time step t=0.30000000000000004| Next Save gaussian=1
 t=0.400  |v|_max = 2.4239e+00
 concentration change = 6.921e-02
 t=0.400 | Total Mass in Domain = 0.005674
-2026-07-22 21:52:38| Saved at t = 0.4
+t=0.400 | Total Mass in Domain K1 = 0.005674
+t=0.400 | Total Mass in Domain K2 = 0.005674
+2026-07-23 14:09:55| Saved at t = 0.4
 Step: 4/10.0| time step t=0.4| Next Save=0.25
 Step: 4/10.0| time step t=0.4| Next Save gaussian=1
 t=0.500  |v|_max = 5.0502e-16
 concentration change = 7.661e-04
 t=0.500 | Total Mass in Domain = 0.005674
-2026-07-22 21:52:38| Saved at t = 0.5
+t=0.500 | Total Mass in Domain K1 = 0.005674
+t=0.500 | Total Mass in Domain K2 = 0.005674
+2026-07-23 14:09:56| Saved at t = 0.5
 Step: 5/10.0| time step t=0.5| Next Save=0.3
 Step: 5/10.0| time step t=0.5| Next Save gaussian=1
 t=0.600  |v|_max = 2.4239e+00
 concentration change = 6.880e-02
 t=0.600 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:38| Saved at t = 0.6
+t=0.600 | Total Mass in Domain K1 = 0.005673
+t=0.600 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:56| Saved at t = 0.6
 Step: 6/10.0| time step t=0.6| Next Save=0.35
 Step: 6/10.0| time step t=0.6| Next Save gaussian=1
 t=0.700  |v|_max = 3.9220e+00
 concentration change = 1.099e-01
 t=0.700 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:38| Saved at t = 0.7
+t=0.700 | Total Mass in Domain K1 = 0.005673
+t=0.700 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:56| Saved at t = 0.7
 Step: 7/10.0| time step t=0.7| Next Save=0.39999999999999997
 Step: 7/10.0| time step t=0.7| Next Save gaussian=1
 t=0.800  |v|_max = 3.9220e+00
 concentration change = 1.085e-01
 t=0.800 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:38| Saved at t = 0.7999999999999999
+t=0.800 | Total Mass in Domain K1 = 0.005673
+t=0.800 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:56| Saved at t = 0.7999999999999999
 Step: 8/10.0| time step t=0.7999999999999999| Next Save=0.44999999999999996
 Step: 8/10.0| time step t=0.7999999999999999| Next Save gaussian=1
 t=0.900  |v|_max = 2.4239e+00
 concentration change = 6.671e-02
 t=0.900 | Total Mass in Domain = 0.005673
-2026-07-22 21:52:39| Saved at t = 0.8999999999999999
+t=0.900 | Total Mass in Domain K1 = 0.005673
+t=0.900 | Total Mass in Domain K2 = 0.005673
+2026-07-23 14:09:56| Saved at t = 0.8999999999999999
 Step: 9/10.0| time step t=0.8999999999999999| Next Save=0.49999999999999994
 Step: 9/10.0| time step t=0.8999999999999999| Next Save gaussian=1
 t=1.000  |v|_max = 4.6727e-15
 concentration change = 7.449e-04
 t=1.000 | Total Mass in Domain = 0.005673
+t=1.000 | Total Mass in Domain K1 = 0.005673
+t=1.000 | Total Mass in Domain K2 = 0.005673
 Target_step=1| Actual_target_step=0.9999999999999999| 1D-norm pressure at t = 0.9999999999999999 is {'pressure': 6.044697134687855e-16, 'concentration': 0.0010241924992691826, 'concentration_sigma': 0.033246887652029135}
 Target_step=1| Actual_target_step=0.9999999999999999| 1D-norm concentration at t = 0.9999999999999999 is {'pressure': 6.044697134687855e-16, 'concentration': 0.0010241924992691826, 'concentration_sigma': 0.033246887652029135}
 Vertical concentration profile c(x=0.2, y): [-7.10461460e-09 -5.97944145e-09 -4.85426830e-09 -3.72909515e-09
@@ -398,7 +420,8 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 9.83903524e-05  6.
  -9.41663191e-11 -4.03069508e-10 -5.84151095e-10 -6.37411080e-10
  -4.00139009e-10 -2.01174399e-10 -5.41243563e-11  4.10111184e-11
   8.42320254e-11  7.55383646e-11  1.49301361e-11 -9.75926602e-11]
-2026-07-22 21:52:40| Saved at t = 0.9999999999999999
+2026-07-23 14:09:57| Saved at t = 0.9999999999999999
 Step: 10/10.0| time step t=0.9999999999999999| Next Save=0.5499999999999999
 Step: 10/10.0| time step t=0.9999999999999999| Next Save gaussian=2
-Total runtime: 3.35 s
+total mass conservation: {'whole': [0.005673431640026503, 0.005673444595702198, 0.005673466351705077, 0.005673488255995688, 0.005673501681471415, 0.0056735016814714245, 0.005673488339361753, 0.00567346811435882, 0.005673451539437967, 0.005673443462249327, 0.005673443462249334], 'K1': [0.002836715818608228, 0.002667247548568988, 0.0023956768596025296, 0.0021292491785359687, 0.001967190872146833, 0.001967339121094564, 0.0021315362992358517, 0.002399572568290643, 0.0026675625510398484, 0.0028325855074982594, 0.002832589538135947], 'K2': [0.0028367158214182724, 0.003006197047133206, 0.0032777894921025503, 0.0035442390774597264, 0.003706310809324587, 0.003706162560376858, 0.003541952040125907, 0.0032738955460681718, 0.0030058889883981207, 0.0028408579547510725, 0.0028408539241133843]}
+Total runtime: 2.37 s

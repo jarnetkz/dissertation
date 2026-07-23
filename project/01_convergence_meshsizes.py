@@ -26,7 +26,7 @@ dts = set_param['dts']
 mesh_sizes = set_param['mesh_sizes']
 u_x = set_param['_u_x']
 omega = set_param['_omega']
-param_str_fig = f"T{T}_dt{dts}_mesh{mesh_sizes}_u_x{u_x}_omega{omega}"
+param_str_fig = f"T_{T}_dt_{dts}_mesh_{mesh_sizes}_u_x_{u_x}_omega_{omega}"
 
 directories, logfile = prep_folder(T, 
                                 dts, 

@@ -14,7 +14,7 @@ dict_param = [
     {'_u_x': 200, '_omega': 10},
     {'_u_x': 500, '_omega': 10},
     {'_u_x': 100, '_omega': 5},
-    {'_u_x': 100, '_omega': 1},
+    {'_u_x': 100, '_omega': 3},
 ]
 
 for ele in dict_param:

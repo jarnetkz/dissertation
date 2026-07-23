@@ -31,7 +31,9 @@ update_simulation_param = [
 ]
 
 
-for i, set_param in enumerate(update_simulation_param):
+def simulation(task_k_v):
+
+    i, set_param = task_k_v
 
     T = set_param['T']
     target_step = T
@@ -91,3 +93,10 @@ for i, set_param in enumerate(update_simulation_param):
     print("=========================================================")
 
 
+
+tasks = list(enumerate(update_simulation_param))
+
+# take up all 4 available worker slots and run in pararell   
+# once the slot becomes free, automatically pick up the next task 
+with ProcessPoolExecutor(max_workers=4) as executor:
+    executor.map(simulation, tasks)
