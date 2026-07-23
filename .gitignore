@@ -1,2 +1,6 @@
 # simulation results
-/output/*
+*.pvd
+*.vtu
+*.pkl
+*.h5
+*.dat
