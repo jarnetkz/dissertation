@@ -554,7 +554,12 @@ def solve_pde(T, no_cells, dt, target_step, dir_path, logfile, params):
     x_interface = params["x_interface"]
     
     t_vals = []
-    total_mass_by_t = []
+    total_mass_by_t = {}
+    
+    total_mass_whole_t = []
+    total_mass_K1_t = []
+    total_mass_K2_t = []
+
     result = {}
 
     norm_at_steps = {
@@ -651,11 +656,21 @@ def solve_pde(T, no_cells, dt, target_step, dir_path, logfile, params):
         # update the previous solution u_n with a new current solution c_sol
         c_n.assign(c_sol)    
 
-
         # Compute 2D total mass at this timestep
         total_mass = assemble(c_sol * dx)
-        total_mass_by_t.append(total_mass)
+
+        total_mass_whole_t.append(total_mass)
         log(f"t={t:.3f} | Total Mass in Domain = {total_mass:.6f}", logfile)
+
+        # Compute 2D total mass K1 (right)
+        total_mass_K1 = assemble(c_sol * dx_material[1])
+        total_mass_K1_t.append(total_mass_K1)
+        log(f"t={t:.3f} | Total Mass in Domain K1 = {total_mass:.6f}", logfile)
+
+        # Compute 2D total mass K2 (left)
+        total_mass_K2 = assemble(c_sol * dx_material[2])
+        total_mass_K2_t.append(total_mass_K2)
+        log(f"t={t:.3f} | Total Mass in Domain K2 = {total_mass:.6f}", logfile)
 
         # NORM: save norms exactly at the target step (using a tolerance)
         # print("Check abs(t-target_step)", abs(t-target_step))
@@ -747,6 +762,12 @@ def solve_pde(T, no_cells, dt, target_step, dir_path, logfile, params):
 
         t += dt
         cnt += 1
+
+    total_mass_by_t = {
+        'whole' : total_mass_whole_t,
+        'K1' : total_mass_K1_t,
+        'K2' : total_mass_K2_t,
+    }
 
     result = {
         # FEniCS function object at t=target_step
@@ -1037,24 +1058,45 @@ def plot_total_mass(physical_params, meshsize, dt, result):
     
     """
 
-    fig, ax = plt.subplots(figsize=(7, 4.5))
+    # Create 1 row x 2 columns of subplots
+    fig, axes = plt.subplots(1, 2, figsize=(12, 4.5))
 
     t_vals = result["t_vals"]
-    total_mass_by_t = result["total_mass"]
+    total_mass_whole = result["total_mass"]['whole']
+    total_mass_K1 = result["total_mass"]['K1']
+    total_mass_K2 = result["total_mass"]['K2']
 
-    # Plot the mass
-    ax.plot(t_vals, total_mass_by_t, 'b-', linewidth=2, label='Total Mass $\int c\,dx dy$')
+    # ----------------------------------------------------
+    # Subplot 1: Whole Domain
+    # ----------------------------------------------------
+    axes[0].plot(t_vals, total_mass_whole, 'b-', linewidth=2, label='Total Mass $\int_{\Omega} c\,dx\,dy$')
+    axes[0].set_title('Whole Domain Mass', fontsize=10, fontweight='bold')
+    axes[0].set_xlabel("Time ($t$)", fontsize=9)
+    axes[0].set_ylabel("Total Mass", fontsize=9)
+    axes[0].grid(True, linestyle="--", alpha=0.5)
+    axes[0].legend(fontsize=9)
 
-    # Set titles and metadata
-    ax.set_title(
-        f'''Solute Mass Conservation on {meshsize}x{meshsize}, stepsize={dt} \n
-        u_x ={physical_params["velo_ori"]} (={physical_params["U0"]} in SI) and omega = {physical_params['omega']} ''', 
-        fontsize=10, 
+    # ----------------------------------------------------
+    # Subplot 2: K1 vs K2 Subdomains
+    # ----------------------------------------------------
+    axes[1].plot(t_vals, total_mass_K1, 'r-', linewidth=2, label=r'Region $K_1$ ($x \in [l, L]$)')
+    axes[1].plot(t_vals, total_mass_K2, 'g--', linewidth=2, label=r'Region $K_2$ ($x \in [0, l]$)')
+    axes[1].set_title('Subdomain Mass ($K_1$ vs $K_2$)', fontsize=10, fontweight='bold')
+    axes[1].set_xlabel("Time ($t$)", fontsize=9)
+    axes[1].set_ylabel("Subdomain Mass", fontsize=9)
+    axes[1].grid(True, linestyle="--", alpha=0.5)
+    axes[1].legend(fontsize=9)
+
+    # ----------------------------------------------------
+    # Overall Title & Layout
+    # ----------------------------------------------------
+    fig.suptitle(
+        f"Solute Mass Conservation ({meshsize}x{meshsize}, dt={dt})\n"
+        f"u_x = {physical_params['velo_ori']} ({physical_params['U0']:.3e} SI) | $\omega$ = {physical_params['omega']}",
+        fontsize=11, 
         fontweight='bold'
     )
-    ax.set_xlabel("Time ($t$)", fontsize=9)
-    ax.set_ylabel("Total Mass", fontsize=9)
-    
+
     plt.tight_layout()
     
     
