@@ -14,20 +14,22 @@ This file does the following tasks:
 # ----------------test param----------------
 # T = 5
 # update_simulation_param = [
-#     {'T':1, 'dts' : [0.1], 'mesh_sizes':[10], '_u_x': None, '_omega': None},
-#     {'T':1, 'dts' : [0.1], 'mesh_sizes':[20], '_u_x': None, '_omega': None}
+#     {'T':1, 'dts' : [0.1], 'mesh_sizes':[5], '_u_x': None, '_omega': None},
+    # {'T':1, 'dts' : [0.1], 'mesh_sizes':[20], '_u_x': None, '_omega': None}
 # ]
 
-
+T = 10
+dts = [0.01]
+mesh_sizes = [160]
 update_simulation_param = [
     # varying velocity
-    {'T': 5, 'dts': [0.01], 'mesh_sizes': [160], '_u_x': 100, '_omega': 10},
-    {'T': 5, 'dts': [0.01], 'mesh_sizes': [160], '_u_x': 200, '_omega': 10},
-    {'T': 5, 'dts': [0.01], 'mesh_sizes': [160], '_u_x': 500, '_omega': 10},
+    # {'T': T, 'dts': dts, 'mesh_sizes': mesh_sizes, '_u_x': 100, '_omega': 10},
+    {'T': T, 'dts': dts, 'mesh_sizes': mesh_sizes, '_u_x': 200, '_omega': 10},
+    # {'T': T, 'dts': dts, 'mesh_sizes': mesh_sizes, '_u_x': 500, '_omega': 10},
 
     # varying omega
-    {'T': 5, 'dts': [0.01], 'mesh_sizes': [160], '_u_x': 100, '_omega': 5},
-    {'T': 5, 'dts': [0.01], 'mesh_sizes': [160], '_u_x': 100, '_omega': 3}
+    # {'T': T, 'dts': dts, 'mesh_sizes': mesh_sizes, '_u_x': 100, '_omega': 5},
+    {'T': T, 'dts': dts, 'mesh_sizes': mesh_sizes, '_u_x': 100, '_omega': 3}
 ]
 
 

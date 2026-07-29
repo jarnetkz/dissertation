@@ -469,7 +469,7 @@ def build_pressure_problem(V, dx, ds_boundary, boundary_markers):
     PDE : XXXX
         ----p=0-----------∂p/∂y=0----
         |           |               |               
-    ∂p/∂y=0  K2     |       K1      p=Asin(2*pi*t)
+    ∂p/∂x=0      K2     |       K1      p=Asin(2*pi*t)
         |           |               |
         ----p=0-----------∂p/∂y=0----
         
@@ -722,6 +722,11 @@ def solve_pde(T, no_cells, dt, target_step, dir_path, logfile, params):
             l2_norm_line = np.sqrt(np.trapz(c_values**2, x_vals))
             norm_at_steps["concentration"] = l2_norm_line  
 
+            # print(f"no of values x_vals:len(x_vals))
+            # print(f"======check c_values {c_values}")
+            # print(f"======no of value c_values {len(c_values)}")
+
+            
             # prep norm considering sigma
             print(f"COMPUTE 1D-norm concentration at t={t} | target_step={target_step}")
             c_values_sigma = np.array([c_sol(Point(x, y_mid+sigma)) for x in x_vals])

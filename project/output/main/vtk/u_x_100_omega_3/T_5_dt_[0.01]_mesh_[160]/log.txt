@@ -182,7 +182,7 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 1.70231304e-11  6.
  -2.67808726e-76  7.34224668e-77 -2.00888973e-77  5.48588629e-78
  -1.49538670e-78  4.06956452e-79 -1.10590766e-79  3.00170643e-80
  -8.14143482e-81  2.21564891e-81 -6.38764250e-82  3.22973914e-82]
-2026-07-23 14:30:16| Saved at t = 0
+2026-07-28 22:29:52| Saved at t = 0
 Step: 0/500.0| time step t=0| Next Save=0.05
 Step: 0/500.0| time step t=0| Next Save gaussian=1
 t=0.010  |v|_max = 4.3026e-01
@@ -218,7 +218,7 @@ concentration change = 1.143e-01
 t=0.050 | Total Mass in Domain = 0.005655
 t=0.050 | Total Mass in Domain K1 = 0.005655
 t=0.050 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:30:30| Saved at t = 0.05
+2026-07-28 22:30:57| Saved at t = 0.05
 Step: 5/500.0| time step t=0.05| Next Save=0.1
 Step: 5/500.0| time step t=0.05| Next Save gaussian=1
 t=0.060  |v|_max = 2.5225e+00
@@ -254,7 +254,7 @@ concentration change = 2.162e-01
 t=0.100 | Total Mass in Domain = 0.005655
 t=0.100 | Total Mass in Domain K1 = 0.005655
 t=0.100 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:30:37| Saved at t = 0.09999999999999999
+2026-07-28 22:31:52| Saved at t = 0.09999999999999999
 Step: 10/500.0| time step t=0.09999999999999999| Next Save=0.15000000000000002
 Step: 10/500.0| time step t=0.09999999999999999| Next Save gaussian=1
 t=0.110  |v|_max = 4.3678e+00
@@ -290,7 +290,7 @@ concentration change = 2.946e-01
 t=0.150 | Total Mass in Domain = 0.005655
 t=0.150 | Total Mass in Domain K1 = 0.005655
 t=0.150 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:30:44| Saved at t = 0.15
+2026-07-28 22:32:48| Saved at t = 0.15
 Step: 15/500.0| time step t=0.15| Next Save=0.2
 Step: 15/500.0| time step t=0.15| Next Save gaussian=1
 t=0.160  |v|_max = 5.7856e+00
@@ -326,7 +326,7 @@ concentration change = 3.416e-01
 t=0.200 | Total Mass in Domain = 0.005655
 t=0.200 | Total Mass in Domain K1 = 0.005655
 t=0.200 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:30:50| Saved at t = 0.20000000000000004
+2026-07-28 22:33:44| Saved at t = 0.20000000000000004
 Step: 20/500.0| time step t=0.20000000000000004| Next Save=0.25
 Step: 20/500.0| time step t=0.20000000000000004| Next Save gaussian=1
 t=0.210  |v|_max = 6.6370e+00
@@ -362,7 +362,7 @@ concentration change = 3.536e-01
 t=0.250 | Total Mass in Domain = 0.005655
 t=0.250 | Total Mass in Domain K1 = 0.005655
 t=0.250 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:30:56| Saved at t = 0.25000000000000006
+2026-07-28 22:34:23| Saved at t = 0.25000000000000006
 Step: 25/500.0| time step t=0.25000000000000006| Next Save=0.3
 Step: 25/500.0| time step t=0.25000000000000006| Next Save gaussian=1
 t=0.260  |v|_max = 6.8388e+00
@@ -398,7 +398,7 @@ concentration change = 3.314e-01
 t=0.300 | Total Mass in Domain = 0.005655
 t=0.300 | Total Mass in Domain K1 = 0.005655
 t=0.300 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:02| Saved at t = 0.3000000000000001
+2026-07-28 22:34:54| Saved at t = 0.3000000000000001
 Step: 30/500.0| time step t=0.3000000000000001| Next Save=0.35
 Step: 30/500.0| time step t=0.3000000000000001| Next Save gaussian=1
 t=0.310  |v|_max = 6.3711e+00
@@ -434,7 +434,7 @@ concentration change = 2.786e-01
 t=0.350 | Total Mass in Domain = 0.005655
 t=0.350 | Total Mass in Domain K1 = 0.005655
 t=0.350 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:08| Saved at t = 0.35000000000000014
+2026-07-28 22:36:10| Saved at t = 0.35000000000000014
 Step: 35/500.0| time step t=0.35000000000000014| Next Save=0.39999999999999997
 Step: 35/500.0| time step t=0.35000000000000014| Next Save gaussian=1
 t=0.360  |v|_max = 5.2798e+00
@@ -470,7 +470,7 @@ concentration change = 2.009e-01
 t=0.400 | Total Mass in Domain = 0.005655
 t=0.400 | Total Mass in Domain K1 = 0.005655
 t=0.400 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:14| Saved at t = 0.4000000000000002
+2026-07-28 22:36:51| Saved at t = 0.4000000000000002
 Step: 40/500.0| time step t=0.4000000000000002| Next Save=0.44999999999999996
 Step: 40/500.0| time step t=0.4000000000000002| Next Save gaussian=1
 t=0.410  |v|_max = 3.6717e+00
@@ -506,7 +506,7 @@ concentration change = 1.052e-01
 t=0.450 | Total Mass in Domain = 0.005655
 t=0.450 | Total Mass in Domain K1 = 0.005655
 t=0.450 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:19| Saved at t = 0.45000000000000023
+2026-07-28 22:37:25| Saved at t = 0.45000000000000023
 Step: 45/500.0| time step t=0.45000000000000023| Next Save=0.49999999999999994
 Step: 45/500.0| time step t=0.45000000000000023| Next Save gaussian=1
 t=0.460  |v|_max = 1.7041e+00
@@ -542,7 +542,7 @@ concentration change = 1.541e-03
 t=0.500 | Total Mass in Domain = 0.005655
 t=0.500 | Total Mass in Domain K1 = 0.005655
 t=0.500 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:25| Saved at t = 0.5000000000000002
+2026-07-28 22:38:00| Saved at t = 0.5000000000000002
 Step: 50/500.0| time step t=0.5000000000000002| Next Save=0.5499999999999999
 Step: 50/500.0| time step t=0.5000000000000002| Next Save gaussian=1
 t=0.510  |v|_max = 4.3026e-01
@@ -578,7 +578,7 @@ concentration change = 1.051e-01
 t=0.550 | Total Mass in Domain = 0.005655
 t=0.550 | Total Mass in Domain K1 = 0.005655
 t=0.550 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:33| Saved at t = 0.5500000000000003
+2026-07-28 22:38:35| Saved at t = 0.5500000000000003
 Step: 55/500.0| time step t=0.5500000000000003| Next Save=0.6
 Step: 55/500.0| time step t=0.5500000000000003| Next Save gaussian=1
 t=0.560  |v|_max = 2.5225e+00
@@ -614,7 +614,7 @@ concentration change = 1.988e-01
 t=0.600 | Total Mass in Domain = 0.005655
 t=0.600 | Total Mass in Domain K1 = 0.005655
 t=0.600 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:38| Saved at t = 0.6000000000000003
+2026-07-28 22:39:12| Saved at t = 0.6000000000000003
 Step: 60/500.0| time step t=0.6000000000000003| Next Save=0.65
 Step: 60/500.0| time step t=0.6000000000000003| Next Save gaussian=1
 t=0.610  |v|_max = 4.3678e+00
@@ -650,7 +650,7 @@ concentration change = 2.712e-01
 t=0.650 | Total Mass in Domain = 0.005655
 t=0.650 | Total Mass in Domain K1 = 0.005655
 t=0.650 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:44| Saved at t = 0.6500000000000004
+2026-07-28 22:40:02| Saved at t = 0.6500000000000004
 Step: 65/500.0| time step t=0.6500000000000004| Next Save=0.7000000000000001
 Step: 65/500.0| time step t=0.6500000000000004| Next Save gaussian=1
 t=0.660  |v|_max = 5.7856e+00
@@ -686,7 +686,7 @@ concentration change = 3.148e-01
 t=0.700 | Total Mass in Domain = 0.005655
 t=0.700 | Total Mass in Domain K1 = 0.005655
 t=0.700 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:50| Saved at t = 0.7000000000000004
+2026-07-28 22:40:47| Saved at t = 0.7000000000000004
 Step: 70/500.0| time step t=0.7000000000000004| Next Save=0.7500000000000001
 Step: 70/500.0| time step t=0.7000000000000004| Next Save gaussian=1
 t=0.710  |v|_max = 6.6370e+00
@@ -722,7 +722,7 @@ concentration change = 3.264e-01
 t=0.750 | Total Mass in Domain = 0.005655
 t=0.750 | Total Mass in Domain K1 = 0.005655
 t=0.750 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:31:56| Saved at t = 0.7500000000000004
+2026-07-28 22:41:35| Saved at t = 0.7500000000000004
 Step: 75/500.0| time step t=0.7500000000000004| Next Save=0.8000000000000002
 Step: 75/500.0| time step t=0.7500000000000004| Next Save gaussian=1
 t=0.760  |v|_max = 6.8388e+00
@@ -758,7 +758,7 @@ concentration change = 3.063e-01
 t=0.800 | Total Mass in Domain = 0.005655
 t=0.800 | Total Mass in Domain K1 = 0.005655
 t=0.800 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:02| Saved at t = 0.8000000000000005
+2026-07-28 22:41:58| Saved at t = 0.8000000000000005
 Step: 80/500.0| time step t=0.8000000000000005| Next Save=0.8500000000000002
 Step: 80/500.0| time step t=0.8000000000000005| Next Save gaussian=1
 t=0.810  |v|_max = 6.3711e+00
@@ -794,7 +794,7 @@ concentration change = 2.578e-01
 t=0.850 | Total Mass in Domain = 0.005655
 t=0.850 | Total Mass in Domain K1 = 0.005655
 t=0.850 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:07| Saved at t = 0.8500000000000005
+2026-07-28 22:42:54| Saved at t = 0.8500000000000005
 Step: 85/500.0| time step t=0.8500000000000005| Next Save=0.9000000000000002
 Step: 85/500.0| time step t=0.8500000000000005| Next Save gaussian=1
 t=0.860  |v|_max = 5.2798e+00
@@ -830,7 +830,7 @@ concentration change = 1.861e-01
 t=0.900 | Total Mass in Domain = 0.005655
 t=0.900 | Total Mass in Domain K1 = 0.005655
 t=0.900 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:13| Saved at t = 0.9000000000000006
+2026-07-28 22:43:49| Saved at t = 0.9000000000000006
 Step: 90/500.0| time step t=0.9000000000000006| Next Save=0.9500000000000003
 Step: 90/500.0| time step t=0.9000000000000006| Next Save gaussian=1
 t=0.910  |v|_max = 3.6717e+00
@@ -866,7 +866,7 @@ concentration change = 9.753e-02
 t=0.950 | Total Mass in Domain = 0.005655
 t=0.950 | Total Mass in Domain K1 = 0.005655
 t=0.950 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:19| Saved at t = 0.9500000000000006
+2026-07-28 22:44:26| Saved at t = 0.9500000000000006
 Step: 95/500.0| time step t=0.9500000000000006| Next Save=1.0000000000000002
 Step: 95/500.0| time step t=0.9500000000000006| Next Save gaussian=1
 t=0.960  |v|_max = 1.7041e+00
@@ -1062,7 +1062,7 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 9.28475823e-11 -2.
  -1.07257812e-29  4.06012308e-30  1.84941198e-30 -4.08635338e-30
   3.16256469e-30 -1.35913508e-30 -5.82403845e-31  2.48581065e-30
  -2.42592608e-30 -9.29261197e-32  1.46489822e-30  3.60015977e-33]
-2026-07-23 14:32:25| Saved at t = 1.0000000000000007
+2026-07-28 22:45:12| Saved at t = 1.0000000000000007
 Step: 100/500.0| time step t=1.0000000000000007| Next Save=1.0500000000000003
 Step: 100/500.0| time step t=1.0000000000000007| Next Save gaussian=2
 t=1.010  |v|_max = 4.3026e-01
@@ -1098,7 +1098,7 @@ concentration change = 9.729e-02
 t=1.050 | Total Mass in Domain = 0.005655
 t=1.050 | Total Mass in Domain K1 = 0.005655
 t=1.050 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:30| Saved at t = 1.0500000000000007
+2026-07-28 22:45:56| Saved at t = 1.0500000000000007
 Step: 105/500.0| time step t=1.0500000000000007| Next Save=1.1000000000000003
 Step: 105/500.0| time step t=1.0500000000000007| Next Save gaussian=2
 t=1.060  |v|_max = 2.5225e+00
@@ -1134,7 +1134,7 @@ concentration change = 1.844e-01
 t=1.100 | Total Mass in Domain = 0.005655
 t=1.100 | Total Mass in Domain K1 = 0.005655
 t=1.100 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:36| Saved at t = 1.1000000000000008
+2026-07-28 22:46:21| Saved at t = 1.1000000000000008
 Step: 110/500.0| time step t=1.1000000000000008| Next Save=1.1500000000000004
 Step: 110/500.0| time step t=1.1000000000000008| Next Save gaussian=2
 t=1.110  |v|_max = 4.3678e+00
@@ -1170,7 +1170,7 @@ concentration change = 2.520e-01
 t=1.150 | Total Mass in Domain = 0.005655
 t=1.150 | Total Mass in Domain K1 = 0.005655
 t=1.150 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:43| Saved at t = 1.1500000000000008
+2026-07-28 22:46:40| Saved at t = 1.1500000000000008
 Step: 115/500.0| time step t=1.1500000000000008| Next Save=1.2000000000000004
 Step: 115/500.0| time step t=1.1500000000000008| Next Save gaussian=2
 t=1.160  |v|_max = 5.7856e+00
@@ -1206,7 +1206,7 @@ concentration change = 2.932e-01
 t=1.200 | Total Mass in Domain = 0.005655
 t=1.200 | Total Mass in Domain K1 = 0.005655
 t=1.200 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:48| Saved at t = 1.2000000000000008
+2026-07-28 22:47:08| Saved at t = 1.2000000000000008
 Step: 120/500.0| time step t=1.2000000000000008| Next Save=1.2500000000000004
 Step: 120/500.0| time step t=1.2000000000000008| Next Save gaussian=2
 t=1.210  |v|_max = 6.6370e+00
@@ -1242,7 +1242,7 @@ concentration change = 3.047e-01
 t=1.250 | Total Mass in Domain = 0.005655
 t=1.250 | Total Mass in Domain K1 = 0.005655
 t=1.250 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:32:54| Saved at t = 1.2500000000000009
+2026-07-28 22:47:34| Saved at t = 1.2500000000000009
 Step: 125/500.0| time step t=1.2500000000000009| Next Save=1.3000000000000005
 Step: 125/500.0| time step t=1.2500000000000009| Next Save gaussian=2
 t=1.260  |v|_max = 6.8388e+00
@@ -1278,7 +1278,7 @@ concentration change = 2.865e-01
 t=1.300 | Total Mass in Domain = 0.005655
 t=1.300 | Total Mass in Domain K1 = 0.005655
 t=1.300 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:00| Saved at t = 1.300000000000001
+2026-07-28 22:48:07| Saved at t = 1.300000000000001
 Step: 130/500.0| time step t=1.300000000000001| Next Save=1.3500000000000005
 Step: 130/500.0| time step t=1.300000000000001| Next Save gaussian=2
 t=1.310  |v|_max = 6.3711e+00
@@ -1314,7 +1314,7 @@ concentration change = 2.415e-01
 t=1.350 | Total Mass in Domain = 0.005655
 t=1.350 | Total Mass in Domain K1 = 0.005655
 t=1.350 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:06| Saved at t = 1.350000000000001
+2026-07-28 22:48:32| Saved at t = 1.350000000000001
 Step: 135/500.0| time step t=1.350000000000001| Next Save=1.4000000000000006
 Step: 135/500.0| time step t=1.350000000000001| Next Save gaussian=2
 t=1.360  |v|_max = 5.2798e+00
@@ -1350,7 +1350,7 @@ concentration change = 1.744e-01
 t=1.400 | Total Mass in Domain = 0.005655
 t=1.400 | Total Mass in Domain K1 = 0.005655
 t=1.400 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:11| Saved at t = 1.400000000000001
+2026-07-28 22:49:00| Saved at t = 1.400000000000001
 Step: 140/500.0| time step t=1.400000000000001| Next Save=1.4500000000000006
 Step: 140/500.0| time step t=1.400000000000001| Next Save gaussian=2
 t=1.410  |v|_max = 3.6717e+00
@@ -1386,7 +1386,7 @@ concentration change = 9.141e-02
 t=1.450 | Total Mass in Domain = 0.005655
 t=1.450 | Total Mass in Domain K1 = 0.005655
 t=1.450 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:17| Saved at t = 1.450000000000001
+2026-07-28 22:49:20| Saved at t = 1.450000000000001
 Step: 145/500.0| time step t=1.450000000000001| Next Save=1.5000000000000007
 Step: 145/500.0| time step t=1.450000000000001| Next Save gaussian=2
 t=1.460  |v|_max = 1.7041e+00
@@ -1422,7 +1422,7 @@ concentration change = 1.256e-03
 t=1.500 | Total Mass in Domain = 0.005655
 t=1.500 | Total Mass in Domain K1 = 0.005655
 t=1.500 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:22| Saved at t = 1.500000000000001
+2026-07-28 22:49:43| Saved at t = 1.500000000000001
 Step: 150/500.0| time step t=1.500000000000001| Next Save=1.5500000000000007
 Step: 150/500.0| time step t=1.500000000000001| Next Save gaussian=2
 t=1.510  |v|_max = 4.3026e-01
@@ -1458,7 +1458,7 @@ concentration change = 9.132e-02
 t=1.550 | Total Mass in Domain = 0.005655
 t=1.550 | Total Mass in Domain K1 = 0.005655
 t=1.550 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:28| Saved at t = 1.5500000000000012
+2026-07-28 22:50:06| Saved at t = 1.5500000000000012
 Step: 155/500.0| time step t=1.5500000000000012| Next Save=1.6000000000000008
 Step: 155/500.0| time step t=1.5500000000000012| Next Save gaussian=2
 t=1.560  |v|_max = 2.5225e+00
@@ -1494,7 +1494,7 @@ concentration change = 1.729e-01
 t=1.600 | Total Mass in Domain = 0.005655
 t=1.600 | Total Mass in Domain K1 = 0.005655
 t=1.600 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:34| Saved at t = 1.6000000000000012
+2026-07-28 22:50:29| Saved at t = 1.6000000000000012
 Step: 160/500.0| time step t=1.6000000000000012| Next Save=1.6500000000000008
 Step: 160/500.0| time step t=1.6000000000000012| Next Save gaussian=2
 t=1.610  |v|_max = 4.3678e+00
@@ -1530,7 +1530,7 @@ concentration change = 2.363e-01
 t=1.650 | Total Mass in Domain = 0.005655
 t=1.650 | Total Mass in Domain K1 = 0.005655
 t=1.650 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:40| Saved at t = 1.6500000000000012
+2026-07-28 22:50:54| Saved at t = 1.6500000000000012
 Step: 165/500.0| time step t=1.6500000000000012| Next Save=1.7000000000000008
 Step: 165/500.0| time step t=1.6500000000000012| Next Save gaussian=2
 t=1.660  |v|_max = 5.7856e+00
@@ -1566,7 +1566,7 @@ concentration change = 2.750e-01
 t=1.700 | Total Mass in Domain = 0.005655
 t=1.700 | Total Mass in Domain K1 = 0.005655
 t=1.700 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:46| Saved at t = 1.7000000000000013
+2026-07-28 22:51:16| Saved at t = 1.7000000000000013
 Step: 170/500.0| time step t=1.7000000000000013| Next Save=1.7500000000000009
 Step: 170/500.0| time step t=1.7000000000000013| Next Save gaussian=2
 t=1.710  |v|_max = 6.6370e+00
@@ -1602,7 +1602,7 @@ concentration change = 2.859e-01
 t=1.750 | Total Mass in Domain = 0.005655
 t=1.750 | Total Mass in Domain K1 = 0.005655
 t=1.750 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:52| Saved at t = 1.7500000000000013
+2026-07-28 22:51:39| Saved at t = 1.7500000000000013
 Step: 175/500.0| time step t=1.7500000000000013| Next Save=1.800000000000001
 Step: 175/500.0| time step t=1.7500000000000013| Next Save gaussian=2
 t=1.760  |v|_max = 6.8388e+00
@@ -1638,7 +1638,7 @@ concentration change = 2.689e-01
 t=1.800 | Total Mass in Domain = 0.005655
 t=1.800 | Total Mass in Domain K1 = 0.005655
 t=1.800 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:33:58| Saved at t = 1.8000000000000014
+2026-07-28 22:51:59| Saved at t = 1.8000000000000014
 Step: 180/500.0| time step t=1.8000000000000014| Next Save=1.850000000000001
 Step: 180/500.0| time step t=1.8000000000000014| Next Save gaussian=2
 t=1.810  |v|_max = 6.3711e+00
@@ -1674,7 +1674,7 @@ concentration change = 2.268e-01
 t=1.850 | Total Mass in Domain = 0.005655
 t=1.850 | Total Mass in Domain K1 = 0.005655
 t=1.850 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:04| Saved at t = 1.8500000000000014
+2026-07-28 22:52:17| Saved at t = 1.8500000000000014
 Step: 185/500.0| time step t=1.8500000000000014| Next Save=1.900000000000001
 Step: 185/500.0| time step t=1.8500000000000014| Next Save gaussian=2
 t=1.860  |v|_max = 5.2798e+00
@@ -1710,7 +1710,7 @@ concentration change = 1.638e-01
 t=1.900 | Total Mass in Domain = 0.005655
 t=1.900 | Total Mass in Domain K1 = 0.005655
 t=1.900 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:10| Saved at t = 1.9000000000000015
+2026-07-28 22:52:39| Saved at t = 1.9000000000000015
 Step: 190/500.0| time step t=1.9000000000000015| Next Save=1.950000000000001
 Step: 190/500.0| time step t=1.9000000000000015| Next Save gaussian=2
 t=1.910  |v|_max = 3.6717e+00
@@ -1746,7 +1746,7 @@ concentration change = 8.591e-02
 t=1.950 | Total Mass in Domain = 0.005655
 t=1.950 | Total Mass in Domain K1 = 0.005655
 t=1.950 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:16| Saved at t = 1.9500000000000015
+2026-07-28 22:52:55| Saved at t = 1.9500000000000015
 Step: 195/500.0| time step t=1.9500000000000015| Next Save=2.000000000000001
 Step: 195/500.0| time step t=1.9500000000000015| Next Save gaussian=2
 t=1.960  |v|_max = 1.7041e+00
@@ -1942,7 +1942,7 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 1.30296305e-10  1.
  -8.68337648e-28 -3.98552201e-29  8.22762237e-28 -7.82715033e-28
   3.42010565e-28 -1.59029271e-28 -8.36677598e-30  5.03512889e-28
  -6.24325770e-28 -2.32221657e-29  3.22157107e-28  5.30027389e-29]
-2026-07-23 14:34:22| Saved at t = 2.0000000000000013
+2026-07-28 22:53:16| Saved at t = 2.0000000000000013
 Step: 200/500.0| time step t=2.0000000000000013| Next Save=2.0500000000000007
 Step: 200/500.0| time step t=2.0000000000000013| Next Save gaussian=3
 t=2.010  |v|_max = 4.3026e-01
@@ -1978,7 +1978,7 @@ concentration change = 8.573e-02
 t=2.050 | Total Mass in Domain = 0.005655
 t=2.050 | Total Mass in Domain K1 = 0.005655
 t=2.050 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:28| Saved at t = 2.0500000000000003
+2026-07-28 22:53:42| Saved at t = 2.0500000000000003
 Step: 205/500.0| time step t=2.0500000000000003| Next Save=2.1000000000000005
 Step: 205/500.0| time step t=2.0500000000000003| Next Save gaussian=3
 t=2.060  |v|_max = 2.5225e+00
@@ -2014,7 +2014,7 @@ concentration change = 1.626e-01
 t=2.100 | Total Mass in Domain = 0.005655
 t=2.100 | Total Mass in Domain K1 = 0.005655
 t=2.100 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:38| Saved at t = 2.099999999999999
+2026-07-28 22:54:19| Saved at t = 2.099999999999999
 Step: 210/500.0| time step t=2.099999999999999| Next Save=2.1500000000000004
 Step: 210/500.0| time step t=2.099999999999999| Next Save gaussian=3
 t=2.110  |v|_max = 4.3678e+00
@@ -2050,7 +2050,7 @@ concentration change = 2.224e-01
 t=2.150 | Total Mass in Domain = 0.005655
 t=2.150 | Total Mass in Domain K1 = 0.005655
 t=2.150 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:47| Saved at t = 2.149999999999998
+2026-07-28 22:54:46| Saved at t = 2.149999999999998
 Step: 215/500.0| time step t=2.149999999999998| Next Save=2.2
 Step: 215/500.0| time step t=2.149999999999998| Next Save gaussian=3
 t=2.160  |v|_max = 5.7856e+00
@@ -2086,7 +2086,7 @@ concentration change = 2.592e-01
 t=2.200 | Total Mass in Domain = 0.005655
 t=2.200 | Total Mass in Domain K1 = 0.005655
 t=2.200 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:53| Saved at t = 2.199999999999997
+2026-07-28 22:55:03| Saved at t = 2.199999999999997
 Step: 220/500.0| time step t=2.199999999999997| Next Save=2.25
 Step: 220/500.0| time step t=2.199999999999997| Next Save gaussian=3
 t=2.210  |v|_max = 6.6370e+00
@@ -2122,7 +2122,7 @@ concentration change = 2.699e-01
 t=2.250 | Total Mass in Domain = 0.005655
 t=2.250 | Total Mass in Domain K1 = 0.005655
 t=2.250 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:34:59| Saved at t = 2.249999999999996
+2026-07-28 22:55:22| Saved at t = 2.249999999999996
 Step: 225/500.0| time step t=2.249999999999996| Next Save=2.3
 Step: 225/500.0| time step t=2.249999999999996| Next Save gaussian=3
 t=2.260  |v|_max = 6.8388e+00
@@ -2158,7 +2158,7 @@ concentration change = 2.542e-01
 t=2.300 | Total Mass in Domain = 0.005655
 t=2.300 | Total Mass in Domain K1 = 0.005655
 t=2.300 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:05| Saved at t = 2.299999999999995
+2026-07-28 22:55:38| Saved at t = 2.299999999999995
 Step: 230/500.0| time step t=2.299999999999995| Next Save=2.3499999999999996
 Step: 230/500.0| time step t=2.299999999999995| Next Save gaussian=3
 t=2.310  |v|_max = 6.3711e+00
@@ -2194,7 +2194,7 @@ concentration change = 2.146e-01
 t=2.350 | Total Mass in Domain = 0.005655
 t=2.350 | Total Mass in Domain K1 = 0.005655
 t=2.350 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:10| Saved at t = 2.349999999999994
+2026-07-28 22:55:55| Saved at t = 2.349999999999994
 Step: 235/500.0| time step t=2.349999999999994| Next Save=2.3999999999999995
 Step: 235/500.0| time step t=2.349999999999994| Next Save gaussian=3
 t=2.360  |v|_max = 5.2798e+00
@@ -2230,7 +2230,7 @@ concentration change = 1.551e-01
 t=2.400 | Total Mass in Domain = 0.005655
 t=2.400 | Total Mass in Domain K1 = 0.005655
 t=2.400 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:16| Saved at t = 2.399999999999993
+2026-07-28 22:56:10| Saved at t = 2.399999999999993
 Step: 240/500.0| time step t=2.399999999999993| Next Save=2.4499999999999993
 Step: 240/500.0| time step t=2.399999999999993| Next Save gaussian=3
 t=2.410  |v|_max = 3.6717e+00
@@ -2266,7 +2266,7 @@ concentration change = 8.132e-02
 t=2.450 | Total Mass in Domain = 0.005655
 t=2.450 | Total Mass in Domain K1 = 0.005655
 t=2.450 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:22| Saved at t = 2.4499999999999917
+2026-07-28 22:56:30| Saved at t = 2.4499999999999917
 Step: 245/500.0| time step t=2.4499999999999917| Next Save=2.499999999999999
 Step: 245/500.0| time step t=2.4499999999999917| Next Save gaussian=3
 t=2.460  |v|_max = 1.7041e+00
@@ -2302,7 +2302,7 @@ concentration change = 1.112e-03
 t=2.500 | Total Mass in Domain = 0.005655
 t=2.500 | Total Mass in Domain K1 = 0.005655
 t=2.500 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:27| Saved at t = 2.4999999999999907
+2026-07-28 22:56:47| Saved at t = 2.4999999999999907
 Step: 250/500.0| time step t=2.4999999999999907| Next Save=2.549999999999999
 Step: 250/500.0| time step t=2.4999999999999907| Next Save gaussian=3
 t=2.510  |v|_max = 4.3026e-01
@@ -2338,7 +2338,7 @@ concentration change = 8.127e-02
 t=2.550 | Total Mass in Domain = 0.005655
 t=2.550 | Total Mass in Domain K1 = 0.005655
 t=2.550 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:33| Saved at t = 2.5499999999999896
+2026-07-28 22:57:03| Saved at t = 2.5499999999999896
 Step: 255/500.0| time step t=2.5499999999999896| Next Save=2.5999999999999988
 Step: 255/500.0| time step t=2.5499999999999896| Next Save gaussian=3
 t=2.560  |v|_max = 2.5225e+00
@@ -2374,7 +2374,7 @@ concentration change = 1.540e-01
 t=2.600 | Total Mass in Domain = 0.005655
 t=2.600 | Total Mass in Domain K1 = 0.005655
 t=2.600 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:39| Saved at t = 2.5999999999999885
+2026-07-28 22:57:21| Saved at t = 2.5999999999999885
 Step: 260/500.0| time step t=2.5999999999999885| Next Save=2.6499999999999986
 Step: 260/500.0| time step t=2.5999999999999885| Next Save gaussian=3
 t=2.610  |v|_max = 4.3678e+00
@@ -2410,7 +2410,7 @@ concentration change = 2.107e-01
 t=2.650 | Total Mass in Domain = 0.005655
 t=2.650 | Total Mass in Domain K1 = 0.005655
 t=2.650 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:45| Saved at t = 2.6499999999999875
+2026-07-28 22:57:36| Saved at t = 2.6499999999999875
 Step: 265/500.0| time step t=2.6499999999999875| Next Save=2.6999999999999984
 Step: 265/500.0| time step t=2.6499999999999875| Next Save gaussian=3
 t=2.660  |v|_max = 5.7856e+00
@@ -2446,7 +2446,7 @@ concentration change = 2.455e-01
 t=2.700 | Total Mass in Domain = 0.005655
 t=2.700 | Total Mass in Domain K1 = 0.005655
 t=2.700 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:51| Saved at t = 2.6999999999999864
+2026-07-28 22:57:53| Saved at t = 2.6999999999999864
 Step: 270/500.0| time step t=2.6999999999999864| Next Save=2.7499999999999982
 Step: 270/500.0| time step t=2.6999999999999864| Next Save gaussian=3
 t=2.710  |v|_max = 6.6370e+00
@@ -2482,7 +2482,7 @@ concentration change = 2.556e-01
 t=2.750 | Total Mass in Domain = 0.005655
 t=2.750 | Total Mass in Domain K1 = 0.005655
 t=2.750 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:35:56| Saved at t = 2.7499999999999853
+2026-07-28 22:58:09| Saved at t = 2.7499999999999853
 Step: 275/500.0| time step t=2.7499999999999853| Next Save=2.799999999999998
 Step: 275/500.0| time step t=2.7499999999999853| Next Save gaussian=3
 t=2.760  |v|_max = 6.8388e+00
@@ -2518,7 +2518,7 @@ concentration change = 2.408e-01
 t=2.800 | Total Mass in Domain = 0.005655
 t=2.800 | Total Mass in Domain K1 = 0.005655
 t=2.800 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:02| Saved at t = 2.7999999999999843
+2026-07-28 22:58:26| Saved at t = 2.7999999999999843
 Step: 280/500.0| time step t=2.7999999999999843| Next Save=2.849999999999998
 Step: 280/500.0| time step t=2.7999999999999843| Next Save gaussian=3
 t=2.810  |v|_max = 6.3711e+00
@@ -2554,7 +2554,7 @@ concentration change = 2.033e-01
 t=2.850 | Total Mass in Domain = 0.005655
 t=2.850 | Total Mass in Domain K1 = 0.005655
 t=2.850 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:08| Saved at t = 2.849999999999983
+2026-07-28 22:58:41| Saved at t = 2.849999999999983
 Step: 285/500.0| time step t=2.849999999999983| Next Save=2.8999999999999977
 Step: 285/500.0| time step t=2.849999999999983| Next Save gaussian=3
 t=2.860  |v|_max = 5.2798e+00
@@ -2590,7 +2590,7 @@ concentration change = 1.470e-01
 t=2.900 | Total Mass in Domain = 0.005655
 t=2.900 | Total Mass in Domain K1 = 0.005655
 t=2.900 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:13| Saved at t = 2.899999999999982
+2026-07-28 22:58:56| Saved at t = 2.899999999999982
 Step: 290/500.0| time step t=2.899999999999982| Next Save=2.9499999999999975
 Step: 290/500.0| time step t=2.899999999999982| Next Save gaussian=3
 t=2.910  |v|_max = 3.6717e+00
@@ -2626,7 +2626,7 @@ concentration change = 7.711e-02
 t=2.950 | Total Mass in Domain = 0.005655
 t=2.950 | Total Mass in Domain K1 = 0.005655
 t=2.950 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:19| Saved at t = 2.949999999999981
+2026-07-28 22:59:12| Saved at t = 2.949999999999981
 Step: 295/500.0| time step t=2.949999999999981| Next Save=2.9999999999999973
 Step: 295/500.0| time step t=2.949999999999981| Next Save gaussian=3
 t=2.960  |v|_max = 1.7041e+00
@@ -2822,7 +2822,7 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 1.74794162e-10  1.
   5.40136089e-26 -4.26659955e-26  2.82515557e-26 -1.12346085e-26
   3.28641974e-28  5.62236961e-28  6.35774595e-28  2.01893840e-27
  -2.21248767e-27 -2.20635029e-27  1.00396202e-27  2.52103362e-27]
-2026-07-23 14:36:25| Saved at t = 2.99999999999998
+2026-07-28 22:59:27| Saved at t = 2.99999999999998
 Step: 300/500.0| time step t=2.99999999999998| Next Save=3.049999999999997
 Step: 300/500.0| time step t=2.99999999999998| Next Save gaussian=4
 t=3.010  |v|_max = 4.3026e-01
@@ -2858,7 +2858,7 @@ concentration change = 7.696e-02
 t=3.050 | Total Mass in Domain = 0.005655
 t=3.050 | Total Mass in Domain K1 = 0.005655
 t=3.050 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:31| Saved at t = 3.049999999999979
+2026-07-28 22:59:41| Saved at t = 3.049999999999979
 Step: 305/500.0| time step t=3.049999999999979| Next Save=3.099999999999997
 Step: 305/500.0| time step t=3.049999999999979| Next Save gaussian=4
 t=3.060  |v|_max = 2.5225e+00
@@ -2894,7 +2894,7 @@ concentration change = 1.460e-01
 t=3.100 | Total Mass in Domain = 0.005655
 t=3.100 | Total Mass in Domain K1 = 0.005655
 t=3.100 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:36| Saved at t = 3.099999999999978
+2026-07-28 22:59:56| Saved at t = 3.099999999999978
 Step: 310/500.0| time step t=3.099999999999978| Next Save=3.149999999999997
 Step: 310/500.0| time step t=3.099999999999978| Next Save gaussian=4
 t=3.110  |v|_max = 4.3678e+00
@@ -2930,7 +2930,7 @@ concentration change = 1.999e-01
 t=3.150 | Total Mass in Domain = 0.005655
 t=3.150 | Total Mass in Domain K1 = 0.005655
 t=3.150 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:42| Saved at t = 3.149999999999977
+2026-07-28 23:00:23| Saved at t = 3.149999999999977
 Step: 315/500.0| time step t=3.149999999999977| Next Save=3.1999999999999966
 Step: 315/500.0| time step t=3.149999999999977| Next Save gaussian=4
 t=3.160  |v|_max = 5.7856e+00
@@ -2966,7 +2966,7 @@ concentration change = 2.332e-01
 t=3.200 | Total Mass in Domain = 0.005655
 t=3.200 | Total Mass in Domain K1 = 0.005655
 t=3.200 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:48| Saved at t = 3.1999999999999758
+2026-07-28 23:00:42| Saved at t = 3.1999999999999758
 Step: 320/500.0| time step t=3.1999999999999758| Next Save=3.2499999999999964
 Step: 320/500.0| time step t=3.1999999999999758| Next Save gaussian=4
 t=3.210  |v|_max = 6.6370e+00
@@ -3002,7 +3002,7 @@ concentration change = 2.431e-01
 t=3.250 | Total Mass in Domain = 0.005655
 t=3.250 | Total Mass in Domain K1 = 0.005655
 t=3.250 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:53| Saved at t = 3.2499999999999747
+2026-07-28 23:00:59| Saved at t = 3.2499999999999747
 Step: 325/500.0| time step t=3.2499999999999747| Next Save=3.2999999999999963
 Step: 325/500.0| time step t=3.2499999999999747| Next Save gaussian=4
 t=3.260  |v|_max = 6.8388e+00
@@ -3038,7 +3038,7 @@ concentration change = 2.293e-01
 t=3.300 | Total Mass in Domain = 0.005655
 t=3.300 | Total Mass in Domain K1 = 0.005655
 t=3.300 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:36:58| Saved at t = 3.2999999999999736
+2026-07-28 23:01:17| Saved at t = 3.2999999999999736
 Step: 330/500.0| time step t=3.2999999999999736| Next Save=3.349999999999996
 Step: 330/500.0| time step t=3.2999999999999736| Next Save gaussian=4
 t=3.310  |v|_max = 6.3711e+00
@@ -3074,7 +3074,7 @@ concentration change = 1.937e-01
 t=3.350 | Total Mass in Domain = 0.005655
 t=3.350 | Total Mass in Domain K1 = 0.005655
 t=3.350 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:04| Saved at t = 3.3499999999999726
+2026-07-28 23:01:35| Saved at t = 3.3499999999999726
 Step: 335/500.0| time step t=3.3499999999999726| Next Save=3.399999999999996
 Step: 335/500.0| time step t=3.3499999999999726| Next Save gaussian=4
 t=3.360  |v|_max = 5.2798e+00
@@ -3110,7 +3110,7 @@ concentration change = 1.401e-01
 t=3.400 | Total Mass in Domain = 0.005655
 t=3.400 | Total Mass in Domain K1 = 0.005655
 t=3.400 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:10| Saved at t = 3.3999999999999715
+2026-07-28 23:01:51| Saved at t = 3.3999999999999715
 Step: 340/500.0| time step t=3.3999999999999715| Next Save=3.4499999999999957
 Step: 340/500.0| time step t=3.3999999999999715| Next Save gaussian=4
 t=3.410  |v|_max = 3.6717e+00
@@ -3146,7 +3146,7 @@ concentration change = 7.349e-02
 t=3.450 | Total Mass in Domain = 0.005655
 t=3.450 | Total Mass in Domain K1 = 0.005655
 t=3.450 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:16| Saved at t = 3.4499999999999704
+2026-07-28 23:02:09| Saved at t = 3.4499999999999704
 Step: 345/500.0| time step t=3.4499999999999704| Next Save=3.4999999999999956
 Step: 345/500.0| time step t=3.4499999999999704| Next Save gaussian=4
 t=3.460  |v|_max = 1.7041e+00
@@ -3182,7 +3182,7 @@ concentration change = 1.009e-03
 t=3.500 | Total Mass in Domain = 0.005655
 t=3.500 | Total Mass in Domain K1 = 0.005655
 t=3.500 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:23| Saved at t = 3.4999999999999694
+2026-07-28 23:02:26| Saved at t = 3.4999999999999694
 Step: 350/500.0| time step t=3.4999999999999694| Next Save=3.5499999999999954
 Step: 350/500.0| time step t=3.4999999999999694| Next Save gaussian=4
 t=3.510  |v|_max = 4.3026e-01
@@ -3218,7 +3218,7 @@ concentration change = 7.346e-02
 t=3.550 | Total Mass in Domain = 0.005655
 t=3.550 | Total Mass in Domain K1 = 0.005655
 t=3.550 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:29| Saved at t = 3.5499999999999683
+2026-07-28 23:02:47| Saved at t = 3.5499999999999683
 Step: 355/500.0| time step t=3.5499999999999683| Next Save=3.599999999999995
 Step: 355/500.0| time step t=3.5499999999999683| Next Save gaussian=4
 t=3.560  |v|_max = 2.5225e+00
@@ -3254,7 +3254,7 @@ concentration change = 1.393e-01
 t=3.600 | Total Mass in Domain = 0.005655
 t=3.600 | Total Mass in Domain K1 = 0.005655
 t=3.600 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:35| Saved at t = 3.5999999999999672
+2026-07-28 23:03:00| Saved at t = 3.5999999999999672
 Step: 360/500.0| time step t=3.5999999999999672| Next Save=3.649999999999995
 Step: 360/500.0| time step t=3.5999999999999672| Next Save gaussian=4
 t=3.610  |v|_max = 4.3678e+00
@@ -3290,7 +3290,7 @@ concentration change = 1.906e-01
 t=3.650 | Total Mass in Domain = 0.005655
 t=3.650 | Total Mass in Domain K1 = 0.005655
 t=3.650 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:41| Saved at t = 3.649999999999966
+2026-07-28 23:03:13| Saved at t = 3.649999999999966
 Step: 365/500.0| time step t=3.649999999999966| Next Save=3.699999999999995
 Step: 365/500.0| time step t=3.649999999999966| Next Save gaussian=4
 t=3.660  |v|_max = 5.7856e+00
@@ -3326,7 +3326,7 @@ concentration change = 2.224e-01
 t=3.700 | Total Mass in Domain = 0.005655
 t=3.700 | Total Mass in Domain K1 = 0.005655
 t=3.700 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:51| Saved at t = 3.699999999999965
+2026-07-28 23:03:26| Saved at t = 3.699999999999965
 Step: 370/500.0| time step t=3.699999999999965| Next Save=3.7499999999999947
 Step: 370/500.0| time step t=3.699999999999965| Next Save gaussian=4
 t=3.710  |v|_max = 6.6370e+00
@@ -3362,7 +3362,7 @@ concentration change = 2.318e-01
 t=3.750 | Total Mass in Domain = 0.005655
 t=3.750 | Total Mass in Domain K1 = 0.005655
 t=3.750 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:37:58| Saved at t = 3.749999999999964
+2026-07-28 23:03:40| Saved at t = 3.749999999999964
 Step: 375/500.0| time step t=3.749999999999964| Next Save=3.7999999999999945
 Step: 375/500.0| time step t=3.749999999999964| Next Save gaussian=4
 t=3.760  |v|_max = 6.8388e+00
@@ -3398,7 +3398,7 @@ concentration change = 2.187e-01
 t=3.800 | Total Mass in Domain = 0.005655
 t=3.800 | Total Mass in Domain K1 = 0.005655
 t=3.800 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:04| Saved at t = 3.799999999999963
+2026-07-28 23:03:52| Saved at t = 3.799999999999963
 Step: 380/500.0| time step t=3.799999999999963| Next Save=3.8499999999999943
 Step: 380/500.0| time step t=3.799999999999963| Next Save gaussian=4
 t=3.810  |v|_max = 6.3711e+00
@@ -3434,7 +3434,7 @@ concentration change = 1.848e-01
 t=3.850 | Total Mass in Domain = 0.005655
 t=3.850 | Total Mass in Domain K1 = 0.005655
 t=3.850 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:12| Saved at t = 3.849999999999962
+2026-07-28 23:04:03| Saved at t = 3.849999999999962
 Step: 385/500.0| time step t=3.849999999999962| Next Save=3.899999999999994
 Step: 385/500.0| time step t=3.849999999999962| Next Save gaussian=4
 t=3.860  |v|_max = 5.2798e+00
@@ -3470,7 +3470,7 @@ concentration change = 1.337e-01
 t=3.900 | Total Mass in Domain = 0.005655
 t=3.900 | Total Mass in Domain K1 = 0.005655
 t=3.900 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:20| Saved at t = 3.899999999999961
+2026-07-28 23:04:15| Saved at t = 3.899999999999961
 Step: 390/500.0| time step t=3.899999999999961| Next Save=3.949999999999994
 Step: 390/500.0| time step t=3.899999999999961| Next Save gaussian=4
 t=3.910  |v|_max = 3.6717e+00
@@ -3506,7 +3506,7 @@ concentration change = 7.014e-02
 t=3.950 | Total Mass in Domain = 0.005655
 t=3.950 | Total Mass in Domain K1 = 0.005655
 t=3.950 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:26| Saved at t = 3.9499999999999598
+2026-07-28 23:04:27| Saved at t = 3.9499999999999598
 Step: 395/500.0| time step t=3.9499999999999598| Next Save=3.999999999999994
 Step: 395/500.0| time step t=3.9499999999999598| Next Save gaussian=4
 t=3.960  |v|_max = 1.7041e+00
@@ -3702,7 +3702,7 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 2.40738828e-10  2.
   3.18297755e-25 -2.34896624e-25  1.39364803e-25 -5.21182064e-26
   4.42462946e-27  3.37937861e-27 -9.46217334e-28  2.54046252e-27
   4.75967224e-27 -1.01146224e-26  1.15513632e-27  3.04317096e-26]
-2026-07-23 14:38:35| Saved at t = 3.9999999999999587
+2026-07-28 23:05:10| Saved at t = 3.9999999999999587
 Step: 400/500.0| time step t=3.9999999999999587| Next Save=4.049999999999994
 Step: 400/500.0| time step t=3.9999999999999587| Next Save gaussian=5
 t=4.010  |v|_max = 4.3026e-01
@@ -3738,7 +3738,7 @@ concentration change = 7.001e-02
 t=4.050 | Total Mass in Domain = 0.005655
 t=4.050 | Total Mass in Domain K1 = 0.005655
 t=4.050 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:41| Saved at t = 4.049999999999958
+2026-07-28 23:05:50| Saved at t = 4.049999999999958
 Step: 405/500.0| time step t=4.049999999999958| Next Save=4.099999999999993
 Step: 405/500.0| time step t=4.049999999999958| Next Save gaussian=5
 t=4.060  |v|_max = 2.5225e+00
@@ -3774,7 +3774,7 @@ concentration change = 1.329e-01
 t=4.100 | Total Mass in Domain = 0.005655
 t=4.100 | Total Mass in Domain K1 = 0.005655
 t=4.100 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:47| Saved at t = 4.099999999999957
+2026-07-28 23:06:05| Saved at t = 4.099999999999957
 Step: 410/500.0| time step t=4.099999999999957| Next Save=4.149999999999993
 Step: 410/500.0| time step t=4.099999999999957| Next Save gaussian=5
 t=4.110  |v|_max = 4.3678e+00
@@ -3810,7 +3810,7 @@ concentration change = 1.820e-01
 t=4.150 | Total Mass in Domain = 0.005655
 t=4.150 | Total Mass in Domain K1 = 0.005655
 t=4.150 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:53| Saved at t = 4.149999999999956
+2026-07-28 23:06:21| Saved at t = 4.149999999999956
 Step: 415/500.0| time step t=4.149999999999956| Next Save=4.199999999999993
 Step: 415/500.0| time step t=4.149999999999956| Next Save gaussian=5
 t=4.160  |v|_max = 5.7856e+00
@@ -3846,7 +3846,7 @@ concentration change = 2.126e-01
 t=4.200 | Total Mass in Domain = 0.005655
 t=4.200 | Total Mass in Domain K1 = 0.005655
 t=4.200 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:38:59| Saved at t = 4.199999999999955
+2026-07-28 23:06:34| Saved at t = 4.199999999999955
 Step: 420/500.0| time step t=4.199999999999955| Next Save=4.249999999999993
 Step: 420/500.0| time step t=4.199999999999955| Next Save gaussian=5
 t=4.210  |v|_max = 6.6370e+00
@@ -3882,7 +3882,7 @@ concentration change = 2.218e-01
 t=4.250 | Total Mass in Domain = 0.005655
 t=4.250 | Total Mass in Domain K1 = 0.005655
 t=4.250 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:06| Saved at t = 4.249999999999954
+2026-07-28 23:06:49| Saved at t = 4.249999999999954
 Step: 425/500.0| time step t=4.249999999999954| Next Save=4.299999999999993
 Step: 425/500.0| time step t=4.249999999999954| Next Save gaussian=5
 t=4.260  |v|_max = 6.8388e+00
@@ -3918,7 +3918,7 @@ concentration change = 2.093e-01
 t=4.300 | Total Mass in Domain = 0.005655
 t=4.300 | Total Mass in Domain K1 = 0.005655
 t=4.300 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:12| Saved at t = 4.299999999999953
+2026-07-28 23:07:05| Saved at t = 4.299999999999953
 Step: 430/500.0| time step t=4.299999999999953| Next Save=4.3499999999999925
 Step: 430/500.0| time step t=4.299999999999953| Next Save gaussian=5
 t=4.310  |v|_max = 6.3711e+00
@@ -3954,7 +3954,7 @@ concentration change = 1.770e-01
 t=4.350 | Total Mass in Domain = 0.005655
 t=4.350 | Total Mass in Domain K1 = 0.005655
 t=4.350 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:17| Saved at t = 4.349999999999952
+2026-07-28 23:07:18| Saved at t = 4.349999999999952
 Step: 435/500.0| time step t=4.349999999999952| Next Save=4.399999999999992
 Step: 435/500.0| time step t=4.349999999999952| Next Save gaussian=5
 t=4.360  |v|_max = 5.2798e+00
@@ -3990,7 +3990,7 @@ concentration change = 1.281e-01
 t=4.400 | Total Mass in Domain = 0.005655
 t=4.400 | Total Mass in Domain K1 = 0.005655
 t=4.400 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:23| Saved at t = 4.399999999999951
+2026-07-28 23:07:30| Saved at t = 4.399999999999951
 Step: 440/500.0| time step t=4.399999999999951| Next Save=4.449999999999992
 Step: 440/500.0| time step t=4.399999999999951| Next Save gaussian=5
 t=4.410  |v|_max = 3.6717e+00
@@ -4026,7 +4026,7 @@ concentration change = 6.720e-02
 t=4.450 | Total Mass in Domain = 0.005655
 t=4.450 | Total Mass in Domain K1 = 0.005655
 t=4.450 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:30| Saved at t = 4.4499999999999496
+2026-07-28 23:07:42| Saved at t = 4.4499999999999496
 Step: 445/500.0| time step t=4.4499999999999496| Next Save=4.499999999999992
 Step: 445/500.0| time step t=4.4499999999999496| Next Save gaussian=5
 t=4.460  |v|_max = 1.7041e+00
@@ -4062,7 +4062,7 @@ concentration change = 9.302e-04
 t=4.500 | Total Mass in Domain = 0.005655
 t=4.500 | Total Mass in Domain K1 = 0.005655
 t=4.500 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:37| Saved at t = 4.4999999999999485
+2026-07-28 23:07:56| Saved at t = 4.4999999999999485
 Step: 450/500.0| time step t=4.4999999999999485| Next Save=4.549999999999992
 Step: 450/500.0| time step t=4.4999999999999485| Next Save gaussian=5
 t=4.510  |v|_max = 4.3026e-01
@@ -4098,7 +4098,7 @@ concentration change = 6.718e-02
 t=4.550 | Total Mass in Domain = 0.005655
 t=4.550 | Total Mass in Domain K1 = 0.005655
 t=4.550 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:43| Saved at t = 4.549999999999947
+2026-07-28 23:08:09| Saved at t = 4.549999999999947
 Step: 455/500.0| time step t=4.549999999999947| Next Save=4.599999999999992
 Step: 455/500.0| time step t=4.549999999999947| Next Save gaussian=5
 t=4.560  |v|_max = 2.5225e+00
@@ -4134,7 +4134,7 @@ concentration change = 1.274e-01
 t=4.600 | Total Mass in Domain = 0.005655
 t=4.600 | Total Mass in Domain K1 = 0.005655
 t=4.600 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:52| Saved at t = 4.599999999999946
+2026-07-28 23:08:21| Saved at t = 4.599999999999946
 Step: 460/500.0| time step t=4.599999999999946| Next Save=4.6499999999999915
 Step: 460/500.0| time step t=4.599999999999946| Next Save gaussian=5
 t=4.610  |v|_max = 4.3678e+00
@@ -4170,7 +4170,7 @@ concentration change = 1.745e-01
 t=4.650 | Total Mass in Domain = 0.005655
 t=4.650 | Total Mass in Domain K1 = 0.005655
 t=4.650 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:39:58| Saved at t = 4.649999999999945
+2026-07-28 23:08:35| Saved at t = 4.649999999999945
 Step: 465/500.0| time step t=4.649999999999945| Next Save=4.699999999999991
 Step: 465/500.0| time step t=4.649999999999945| Next Save gaussian=5
 t=4.660  |v|_max = 5.7856e+00
@@ -4206,7 +4206,7 @@ concentration change = 2.037e-01
 t=4.700 | Total Mass in Domain = 0.005655
 t=4.700 | Total Mass in Domain K1 = 0.005655
 t=4.700 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:40:04| Saved at t = 4.699999999999944
+2026-07-28 23:08:45| Saved at t = 4.699999999999944
 Step: 470/500.0| time step t=4.699999999999944| Next Save=4.749999999999991
 Step: 470/500.0| time step t=4.699999999999944| Next Save gaussian=5
 t=4.710  |v|_max = 6.6370e+00
@@ -4242,7 +4242,7 @@ concentration change = 2.126e-01
 t=4.750 | Total Mass in Domain = 0.005655
 t=4.750 | Total Mass in Domain K1 = 0.005655
 t=4.750 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:40:10| Saved at t = 4.749999999999943
+2026-07-28 23:08:58| Saved at t = 4.749999999999943
 Step: 475/500.0| time step t=4.749999999999943| Next Save=4.799999999999991
 Step: 475/500.0| time step t=4.749999999999943| Next Save gaussian=5
 t=4.760  |v|_max = 6.8388e+00
@@ -4278,7 +4278,7 @@ concentration change = 2.007e-01
 t=4.800 | Total Mass in Domain = 0.005655
 t=4.800 | Total Mass in Domain K1 = 0.005655
 t=4.800 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:40:17| Saved at t = 4.799999999999942
+2026-07-28 23:09:11| Saved at t = 4.799999999999942
 Step: 480/500.0| time step t=4.799999999999942| Next Save=4.849999999999991
 Step: 480/500.0| time step t=4.799999999999942| Next Save gaussian=5
 t=4.810  |v|_max = 6.3711e+00
@@ -4314,7 +4314,7 @@ concentration change = 1.697e-01
 t=4.850 | Total Mass in Domain = 0.005655
 t=4.850 | Total Mass in Domain K1 = 0.005655
 t=4.850 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:40:22| Saved at t = 4.849999999999941
+2026-07-28 23:09:32| Saved at t = 4.849999999999941
 Step: 485/500.0| time step t=4.849999999999941| Next Save=4.899999999999991
 Step: 485/500.0| time step t=4.849999999999941| Next Save gaussian=5
 t=4.860  |v|_max = 5.2798e+00
@@ -4350,7 +4350,7 @@ concentration change = 1.228e-01
 t=4.900 | Total Mass in Domain = 0.005655
 t=4.900 | Total Mass in Domain K1 = 0.005655
 t=4.900 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:40:28| Saved at t = 4.89999999999994
+2026-07-28 23:10:13| Saved at t = 4.89999999999994
 Step: 490/500.0| time step t=4.89999999999994| Next Save=4.94999999999999
 Step: 490/500.0| time step t=4.89999999999994| Next Save gaussian=5
 t=4.910  |v|_max = 3.6717e+00
@@ -4386,7 +4386,7 @@ concentration change = 6.444e-02
 t=4.950 | Total Mass in Domain = 0.005655
 t=4.950 | Total Mass in Domain K1 = 0.005655
 t=4.950 | Total Mass in Domain K2 = 0.005655
-2026-07-23 14:40:34| Saved at t = 4.949999999999939
+2026-07-28 23:10:37| Saved at t = 4.949999999999939
 Step: 495/500.0| time step t=4.949999999999939| Next Save=4.99999999999999
 Step: 495/500.0| time step t=4.949999999999939| Next Save gaussian=5
 t=4.960  |v|_max = 1.7041e+00
@@ -4584,8 +4584,8 @@ Y-integrated concentration profile C(x) = $\int c(x,y), dy$ [ 3.41479193e-10  4.
   5.50020739e-25 -3.91446590e-25  2.18238105e-25 -6.92762121e-26
  -8.46261330e-27  2.51402757e-26 -2.23130275e-26  2.31615031e-26
   1.14419967e-26  1.54778068e-26  5.10283578e-26  2.06737756e-25]
-2026-07-23 14:40:40| Saved at t = 4.999999999999938
+2026-07-28 23:10:50| Saved at t = 4.999999999999938
 Step: 500/500.0| time step t=4.999999999999938| Next Save=5.04999999999999
 Step: 500/500.0| time step t=4.999999999999938| Next Save gaussian=6
 total mass conservation: {'whole': [0.005654866776375798, 0.005654866776477466, 0.005654866776679226, 0.005654866776975398, 0.005654866777351868, 0.00565486677778119, 0.0056548667782178345, 0.005654866778595423, 0.005654866778826958, 0.005654866778810387, 0.005654866778440381, 0.00565486677762424, 0.005654866776301227, 0.005654866774458802, 0.005654866772141959, 0.005654866769450538, 0.005654866766523558, 0.005654866763512732, 0.005654866760552147, 0.005654866757731667, 0.005654866755082424, 0.005654866752577772, 0.005654866750149106, 0.005654866747710883, 0.00565486674518719, 0.005654866742532067, 0.005654866739739057, 0.00565486673683908, 0.005654866733889461, 0.00565486673095883, 0.0056548667281126055, 0.005654866725402576, 0.005654866722861946, 0.005654866720505437, 0.005654866718333077, 0.005654866716335704, 0.005654866714499895, 0.005654866712812384, 0.005654866711262319, 0.0056548667098422715, 0.005654866708548581, 0.0056548667073798575, 0.0056548667063368975, 0.005654866705421187, 0.005654866704634525, 0.005654866703978533, 0.005654866703453968, 0.005654866703061526, 0.005654866702800907, 0.005654866702671328, 0.005654866702671308, 0.005654866702798709, 0.005654866703050533, 0.005654866703423024, 0.0056548667039114705, 0.005654866704510906, 0.005654866705215659, 0.005654866706020546, 0.0056548667069213805, 0.0056548667079150865, 0.0056548667090006565, 0.005654866710178372, 0.005654866711449494, 0.005654866712815224, 0.0056548667142746235, 0.0056548667158239545, 0.005654866717455377, 0.005654866719157272, 0.005654866720914784, 0.0056548667227113, 0.005654866724529819, 0.005654866726354659, 0.005654866728171729, 0.0056548667299692315, 0.005654866731736601, 0.005654866733464763, 0.005654866735144799, 0.005654866736768175, 0.00565486673832686, 0.00565486673981372, 0.005654866741222953, 0.005654866742550688, 0.00565486674379511, 0.005654866744956361, 0.005654866746036481, 0.005654866747038419, 0.00565486674796574, 0.005654866748822055, 0.005654866749610516, 0.005654866750333282, 0.00565486675099191, 0.0056548667515868055, 0.005654866752117699, 0.0056548667525837286, 0.005654866752983847, 0.00565486675331694, 0.0056548667535821434, 0.00565486675377932, 0.005654866753908881, 0.005654866753972449, 0.005654866753972448, 0.005654866753912377, 0.005654866753796533, 0.005654866753629301, 0.005654866753414727, 0.005654866753155349, 0.0056548667528509115, 0.00565486675249726, 0.005654866752085069, 0.005654866751599669, 0.005654866751021476, 0.005654866750327262, 0.00565486674949357, 0.005654866748499774, 0.005654866747331816, 0.0056548667459849515, 0.005654866744464755, 0.005654866742786153, 0.0056548667409705156, 0.005654866739041799, 0.005654866737022381, 0.005654866734930109, 0.005654866732777621, 0.005654866730572771, 0.0056548667283210265, 0.005654866726028067, 0.0056548667237024085, 0.005654866721356072, 0.005654866719005441, 0.005654866716669407, 0.005654866714368164, 0.005654866712121612, 0.005654866709947324, 0.005654866707860133, 0.005654866705871977, 0.0056548667039915184, 0.005654866702225128, 0.00565486670057717, 0.005654866699050633, 0.005654866697647827, 0.005654866696370188, 0.005654866695218867, 0.005654866694194796, 0.005654866693298664, 0.005654866692531102, 0.005654866691892485, 0.005654866691382742, 0.0056548666910016376, 0.005654866690748874, 0.005654866690623157, 0.0056548666906232, 0.005654866690746747, 0.005654866690991277, 0.0056548666913532435, 0.005654866691828515, 0.00565486669241264, 0.005654866693100765, 0.0056548666938878505, 0.005654866694769241, 0.005654866695740879, 0.005654866696799105, 0.005654866697940946, 0.005654866699163645, 0.005654866700464108, 0.0056548667018381385, 0.005654866703279904, 0.00565486670478188, 0.005654866706334275, 0.0056548667079257585, 0.00565486670954406, 0.005654866711176673, 0.005654866712811718, 0.005654866714438425, 0.005654866716047319, 0.005654866717630521, 0.005654866719181487, 0.005654866720694732, 0.0056548667221659405, 0.005654866723591391, 0.0056548667249683715, 0.005654866726294552, 0.005654866727568401, 0.005654866728788705, 0.0056548667299545245, 0.00565486673106509, 0.00565486673211957, 0.0056548667331167285, 0.005654866734055154, 0.00565486673493307, 0.0056548667357482155, 0.00565486673649817, 0.0056548667371803625, 0.005654866737792033, 0.00565486673833075, 0.005654866738794289, 0.0056548667391808855, 0.0056548667394893054, 0.005654866739719135, 0.0056548667398706705, 0.005654866739945372, 0.005654866739945384, 0.0056548667398739, 0.005654866739734649, 0.005654866739531924, 0.005654866739269454, 0.005654866738949988, 0.005654866738573941, 0.0056548667381387885, 0.005654866737637826, 0.0056548667370599605, 0.005654866736390343, 0.005654866735611126, 0.00565486673470472, 0.005654866733656051, 0.005654866732455834, 0.00565486673110274, 0.005654866729604137, 0.0056548667279746915, 0.005654866726234425, 0.005654866724404293, 0.005654866722503041, 0.0056548667205451875, 0.0056548667185397665, 0.005654866716491211, 0.005654866714402085, 0.005654866712275224, 0.0056548667101161245, 0.00565486670793402, 0.0056548667057421615, 0.005654866703556634, 0.005654866701394817, 0.00565486669927398, 0.00565486669720974, 0.005654866695215388, 0.005654866693301745, 0.005654866691476518, 0.005654866689746089, 0.005654866688114808, 0.005654866686586386, 0.005654866685164153, 0.0056548666838512765, 0.005654866682651598, 0.00565486668156926, 0.005654866680608583, 0.005654866679774607, 0.005654866679071854, 0.005654866678504948, 0.0056548666780774515, 0.005654866677791942, 0.005654866677649542, 0.005654866677649533, 0.00565486667778954, 0.005654866678065251, 0.005654866678470859, 0.005654866678999389, 0.005654866679643118, 0.005654866680393895, 0.00565486668124426, 0.005654866682187342, 0.005654866683217546, 0.0056548666843303196, 0.005654866685522196, 0.005654866686790205, 0.00565486668813123, 0.005654866689541381, 0.005654866691015294, 0.005654866692545562, 0.005654866694123158, 0.005654866695737322, 0.005654866697376734, 0.005654866699029933, 0.0056548667006863515, 0.005654866702336679, 0.0056548667039730246, 0.00565486670558902, 0.005654866707179278, 0.005654866708739233, 0.005654866710265008, 0.0056548667117528395, 0.005654866713199397, 0.005654866714601263, 0.005654866715955484, 0.005654866717259051, 0.005654866718509138, 0.00565486671970317, 0.0056548667208383314, 0.005654866721911952, 0.005654866722921303, 0.005654866723863562, 0.005654866724735951, 0.005654866725535797, 0.005654866726260536, 0.005654866726907897, 0.005654866727475869, 0.005654866727962903, 0.005654866728367924, 0.005654866728690368, 0.005654866728930363, 0.005654866729088658, 0.005654866729166766, 0.00565486672916675, 0.005654866729091526, 0.005654866728944374, 0.005654866728728746, 0.00565486672844768, 0.005654866728103161, 0.005654866727695356, 0.005654866727221309, 0.00565486672667468, 0.005654866726045405, 0.005654866725319884, 0.005654866724482622, 0.005654866723518199, 0.005654866722414042, 0.005654866721163178, 0.005654866719766028, 0.005654866718230938, 0.005654866716573058, 0.005654866714811984, 0.005654866712967993, 0.005654866711059076, 0.005654866709098496, 0.005654866707094323, 0.0056548667050500875, 0.0056548667029671, 0.005654866700846295, 0.005654866698690823, 0.005654866696506381, 0.005654866694301719, 0.005654866692087069, 0.005654866689872933, 0.005654866687668511, 0.005654866685480313, 0.00565486668331209, 0.005654866681164611, 0.005654866679036836, 0.005654866676927431, 0.005654866674835806, 0.005654866672764722, 0.005654866670721469, 0.005654866668718968, 0.005654866666776963, 0.005654866664921743, 0.005654866663185077, 0.005654866661602838, 0.005654866660212751, 0.005654866659051261, 0.005654866658150977, 0.005654866657537522, 0.0056548666572275065, 0.005654866657227528, 0.005654866657533172, 0.005654866658130352, 0.00565486665899677, 0.005654866660104455, 0.005654866661422984, 0.005654866662922319, 0.005654866664575176, 0.005654866666358714, 0.005654866668255183, 0.005654866670251496, 0.0056548666723384, 0.005654866674508899, 0.005654866676758047, 0.00565486667908025, 0.005654866681469864, 0.00565486668391897, 0.005654866686418193, 0.005654866688956145, 0.005654866691519931, 0.005654866694096461, 0.005654866696672615, 0.005654866699236318, 0.005654866701776436, 0.00565486670428275, 0.0056548667067462255, 0.005654866709158054, 0.00565486671151036, 0.005654866713795455, 0.005654866716006154, 0.005654866718136048, 0.005654866720179216, 0.005654866722130543, 0.005654866723985417, 0.005654866725740238, 0.005654866727391717, 0.005654866728937169, 0.005654866730374521, 0.005654866731701947, 0.005654866732918075, 0.005654866734021922, 0.0056548667350129, 0.005654866735890786, 0.005654866736655509, 0.005654866737307509, 0.005654866737847482, 0.005654866738276322, 0.005654866738595313, 0.005654866738805979, 0.005654866738910272, 0.005654866738910267, 0.005654866738808471, 0.00565486673860739, 0.005654866738309457, 0.005654866737916417, 0.005654866737428719, 0.00565486673684485, 0.005654866736160427, 0.00565486673536762, 0.00565486673445519, 0.005654866733408815, 0.005654866732212775, 0.005654866730851397, 0.005654866729312397, 0.005654866727589058, 0.005654866725681812, 0.005654866723599199, 0.005654866721356389, 0.0056548667189727985, 0.005654866716469036, 0.00565486671386344, 0.005654866711169748, 0.005654866708396284, 0.005654866705546307, 0.005654866702619137, 0.005654866699611758, 0.005654866696519527, 0.005654866693336357, 0.0056548666900533015, 0.0056548666866572655, 0.005654866683129281, 0.00565486667944298, 0.005654866675565507, 0.005654866671458487, 0.005654866667082137, 0.005654866662399927, 0.005654866657384945, 0.005654866652026831, 0.005654866646338763, 0.005654866640362632, 0.005654866634173682, 0.005654866627881005, 0.005654866621626184, 0.0056548666155767785, 0.005654866609918161, 0.00565486660484132, 0.005654866600529985, 0.005654866597146729, 0.005654866594820845, 0.005654866593639005, 0.005654866593638972, 0.005654866594809037, 0.005654866597091161, 0.005654866600389629, 0.005654866604582573, 0.005654866609535186, 0.0056548666151136386, 0.005654866621195344, 0.0056548666276767965, 0.0056548666344751995, 0.005654866641527743, 0.0056548666487877515, 0.005654866656220608, 0.005654866663800813, 0.005654866671508907, 0.005654866679328694, 0.005654866687244599, 0.005654866695239641, 0.005654866703293497, 0.005654866711382422, 0.005654866719479297, 0.005654866727554778, 0.005654866735578131, 0.00565486674351746, 0.005654866751341255, 0.005654866759018168, 0.0056548667665179955, 0.0056548667738121495, 0.005654866780874517, 0.0056548667876818465, 0.005654866794214328, 0.005654866800455523, 0.005654866806392205, 0.005654866812014322, 0.0056548668173143635, 0.005654866822286906, 0.005654866826928085, 0.00565486683123541, 0.005654866835207386, 0.005654866838843184, 0.005654866842142658, 0.005654866845106241, 0.005654866847734616, 0.005654866850028988, 0.005654866851990654, 0.005654866853621075, 0.005654866854921997, 0.0056548668558949544, 0.00565486685654189, 0.00565486685686432, 0.005654866856864341], 'K1': [0.0028274333882308098, 0.002819056155599442, 0.0028023291826767714, 0.002777311108777084, 0.0027440978403230295, 0.002702830368064713, 0.0026537036312636146, 0.0025969755514655465, 0.002532975183508354, 0.0024621088772932152, 0.002384863469947609, 0.002301805853436297, 0.0022135787405026344, 0.0021208929658680905, 0.002024517055701508, 0.0019252649454069503, 0.0018239825817738527, 0.0017215337923618325, 0.0016187854253440729, 0.0015165915617973958, 0.0014157767081737545, 0.00131711827471108, 0.001221329179905349, 0.0011290418659403107, 0.001040795172140903, 0.000957025314797265, 0.0008780617217261123, 0.0008041278270854472, 0.0007353463293858971, 0.0006717479914113879, 0.0006132828710182258, 0.0005598328938419496, 0.0005112248419380278, 0.00046724305500479347, 0.0004276413594302625, 0.00039215392046050394, 0.0003605048460526125, 0.00033241646513777116, 0.0003076162708892177, 0.0002858425718637052, 0.0002668489364088617, 0.00025040755004103037, 0.00023631163082995732, 0.00022437706305745037, 0.00021444341426714178, 0.00020637449616957624, 0.00020005861747512927, 0.0001954086587192175, 0.00019236207749903945, 0.0001908809287565837, 0.00019095195970321983, 0.000192586813008329, 0.00019582234491396751, 0.00020072103683214663, 0.0002073714497611266, 0.00021588864097013438, 0.00022641443279650513, 0.0002391173954024461, 0.00025419238038271175, 0.00027185942149971675, 0.0002923618038199386, 0.00031596309502892846, 0.0003429429363012481, 0.0003735914109199245, 0.00040820185514682343, 0.00044706205571465237, 0.0004904438955784329, 0.0005385916596717956, 0.0005917093804641816, 0.0006499477658674171, 0.0007133913836622118, 0.0007820468558411138, 0.0008558328315992235, 0.0009345724583576848, 0.0010179889629033188, 0.0011057047989032392, 0.0011972446216137508, 0.0012920421240884218, 0.001389450522706561, 0.0014887562302803965, 0.001589195025803605, 0.0016899698481587012, 0.0017902692316731086, 0.0018892853805332237, 0.0019862309498199847, 0.0020803537523215016, 0.0021709488198877165, 0.002257367487218126, 0.0023390234054724104, 0.002415395608323916, 0.002486028926969262, 0.0025505321746317547, 0.002608574594463761, 0.0026598810925311683, 0.0027042267683674128, 0.00274143121941175, 0.002771353042135018, 0.0027938848899407005, 0.0028089493820035124, 0.0028164960917362826, 0.002816499779980764, 0.0028089599757594227, 0.0027939019444082236, 0.0027713790160572953, 0.0027414761734627117, 0.002704314714811813, 0.002660057714465681, 0.0026089159068995275, 0.0025511535258635363, 0.0024870935566991006, 0.0024171218224485133, 0.002341689339952078, 0.0022613124592474622, 0.0021765704348538886, 0.0020881002543506563, 0.0019965887425000876, 0.001902762141934614, 0.0018073735263744377, 0.0017111885246914615, 0.0016149699296624557, 0.0015194618420360576, 0.0014253740596966054, 0.0013333674529423028, 0.0012440410517675286, 0.001157921492422444, 0.001075455322960315, 0.000997004462832595, 0.0009228448771749819, 0.0008531682969315841, 0.0007880866232264309, 0.0007276385194630714, 0.0006717976246744015, 0.000620481811593236, 0.000573562950015406, 0.000530876704834487, 0.0004922319842679071, 0.00045741974586590835, 0.00042622095781877264, 0.0003984135955697612, 0.00037377862556595403, 0.00035210498734174927, 0.0003331936313055329, 0.00031686070272813287, 0.00030293998336333413, 0.0002912847122597099, 0.00028176890837416766, 0.000274288311399809, 0.000268761045499582, 0.0002651280948572463, 0.0002633536612358622, 0.0002634254528321128, 0.00026535493110181217, 0.0002691775182186529, 0.00027495274274769296, 0.0002827642755237172, 0.00029271978255918134, 0.0003049504984434636, 0.0003196104038413047, 0.00033687487612925386, 0.0003569386744606301, 0.0003800131207563776, 0.00040632234720602123, 0.0004360985001081671, 0.00046957582156964507, 0.0005069835781788952, 0.0005485378730278776, 0.0005944324663561012, 0.0006448288381974633, 0.0006998458449464447, 0.0007595494356396382, 0.0008239429841325151, 0.0008929588420254813, 0.0009664517111596407, 0.0010441943690547653, 0.0011258761600170244, 0.001211104500363568, 0.0012994094544957508, 0.001390251237577421, 0.0014830303085088708, 0.0015770995505574648, 0.0016717779107678573, 0.0017663647937913134, 0.0018601544867303135, 0.0019524499287701589, 0.0020425752264905685, 0.00212988644139767, 0.0022137803256294846, 0.002293700839158353, 0.0023691434325377944, 0.0024396572116396962, 0.002504845207132344, 0.0025643630479675558, 0.0026179163848117633, 0.002665257428871574, 0.002706180968375542, 0.002740520204302262, 0.002768142713969211, 0.002788946810376038, 0.002802858520291539, 0.002809829357388597, 0.002809835019473144, 0.0028028750911009664, 0.0027889737837531003, 0.00276818169366952, 0.002740578500636081, 0.002706276468211483, 0.002665424537390145, 0.002618212734619428, 0.0025648765482135824, 0.002505700874947568, 0.0024410231133315573, 0.0023712349926474936, 0.002296782782366242, 0.0022181656210185103, 0.0021359318235534583, 0.0020506731528712185, 0.001963017157364978, 0.00187361777321773, 0.001783144470209435, 0.0016922702927525323, 0.0016016592228026013, 0.0015119533678872893, 0.0014237605426698197, 0.0013376428442656533, 0.0012541067987471828, 0.0011735955686409513, 0.0010964835651156495, 0.001023073625595122, 0.0009535967273561545, 0.0008882140386973822, 0.0008270209813668177, 0.000770052899441942, 0.0007172918987515367, 0.0006686744286035873, 0.0006240992129745926, 0.0005834351909782024, 0.0005465291880139448, 0.0005132131034340831, 0.0004833104635915586, 0.00045664224769432485, 0.0004330319457593116, 0.00041230985156195086, 0.0003943166278936462, 0.0003789062064031754, 0.0003659481001507445, 0.0003553292145651726, 0.00034695524288864325, 0.0003407517266531925, 0.00033666485144475864, 0.00033466203420637255, 0.0003347323414538144, 0.00033688675871259264, 0.0003411583108667066, 0.0003476020116629641, 0.00035629459930896286, 0.00036733399525450843, 0.00038083840648764334, 0.00039694497975572434, 0.00041580791054000936, 0.0004375959112535834, 0.0004624889521098551, 0.0004906742040575238, 0.0005223411360010817, 0.000557675749263154, 0.0005968539734099006, 0.0006400343023389946, 0.0006873498197051465, 0.000738899846099206, 0.0007947415288379035, 0.0008548817751831071, 0.0009192699850607229, 0.0009877920555314316, 0.0010602660982208425, 0.0011364402330014472, 0.0012159927047984912, 0.0012985344290742475, 0.001383613920636023, 0.0014707244140786235, 0.0015593128540286629, 0.001648790328317992, 0.0017385434438221292, 0.0018279461072997843, 0.0019163711740068914, 0.002003201463977047, 0.0020878397152049037, 0.0021697171370649738, 0.002248300336559539, 0.0023230965040724064, 0.0023936568545101975, 0.002459578416159901, 0.002520504337889389, 0.00257612294274989, 0.0026261657923070266, 0.002670405042705521, 0.0027086503733914926, 0.002740745755984657, 0.0027665663075071988, 0.002786015442187508, 0.002799022501928668, 0.002805541009092458, 0.0028055476475377476, 0.0027990420391278757, 0.0027860473427371857, 0.0027666116601407264, 0.002740810186851993, 0.0027087479951223192, 0.002670563281301806, 0.0026264308531802265, 0.002576565580371136, 0.002521225490790373, 0.0024607141787737607, 0.0023953822038002355, 0.0023256272063124166, 0.002251892543971275, 0.002174664345238983, 0.002094466970952421, 0.002011856954726171, 0.0019274155545830054, 0.0018417400969273133, 0.0017554343424797353, 0.0016690981632195487, 0.0015833168910595657, 0.0014986507709044503, 0.001415625001272314, 0.0013347208526089207, 0.001256368303965074, 0.0011809405351196655, 0.0011087504701259405, 0.001040049414328122, 0.0009750276846452492, 0.0009138170200541767, 0.0008564944838159833, 0.0008030875304945314, 0.0007535799031313555, 0.0007079180409888704, 0.0006660177085080584, 0.0006277705956371689, 0.0005930506842199084, 0.0005617202215706199, 0.0005336351882151044, 0.0005086501898769302, 0.00048662274228121705, 0.0004674169497848198, 0.00045090660430781033, 0.0004369777492007079, 0.00042553076371858536, 0.00041648202827074537, 0.0004097652293907002, 0.0004053323573342904, 0.000403154439251523, 0.00040322203781122557, 0.00040554552975545364, 0.000410155161914701, 0.0004171008646575456, 0.00042645178576439154, 0.00043829549279105807, 0.0004527367808218834, 0.0004698960167369171, 0.0004899069518843876, 0.0005129139426300536, 0.0005390685319249072, 0.0005685253634764583, 0.0006014374223252426, 0.0006379506219730704, 0.0006781977908491456, 0.0007222921530466117, 0.0007703204520728257, 0.000822335930284778, 0.0008783514437036987, 0.0009383330499470743, 0.001002194441933135, 0.001069792600061664, 0.001140924995446179, 0.0012153285993437499, 0.0012926808490654287, 0.001372602601888216, 0.0014546629892513727, 0.001538385974502485, 0.0016232583258269007, 0.0017087386460313387, 0.0017942670551187065, 0.0018792751016716604, 0.001963195485597816, 0.002045471206962925, 0.002125563810629076, 0.002202960469272927, 0.0022771797314441507, 0.00234777584921127, 0.002414341684477364, 0.0024765102682667312, 0.002533955148998039, 0.0025863897117278643, 0.0026335656801458095, 0.002675271027720006, 0.0027113275257926103, 0.002741588147061486, 0.0027659345253180103, 0.002784274648907041, 0.002796540938111722, 0.002802688827007796, 0.002802695939184063, 0.0027965619143996536, 0.0027843089094994494, 0.0027659827610241597, 0.0027416547580119206, 0.0027114239308347744, 0.00267541971590818, 0.0026338048090113965, 0.002586777976605356, 0.0025345765622808523, 0.0024774784128205416, 0.0024158029622690447, 0.002349911254965671, 0.00228020475456417, 0.00220712286361015, 0.0021311391521860795, 0.0020527563525546875, 0.0019725002165505265, 0.0018909123610969854, 0.0018085422585966226, 0.0017259385753522559, 0.001643640125187259, 0.0015621667763886344, 0.001482010707469394, 0.0014036284292216657, 0.001327433963409595, 0.0012537934922751165, 0.001183021681129623, 0.0011153797497547612, 0.0010510752484451373, 0.0009902633968659716, 0.0009330497757242802, 0.0008794941223771077, 0.0008296149671311025, 0.0007833948508240521, 0.000740785880652675, 0.0007017154059337495, 0.0006660916257013803, 0.0006338089736653027, 0.000604753161237617, 0.000578805794235732, 0.0005558485116659078, 0.000535766624067179, 0.000518452253020303, 0.0005038069918718174, 0.0004917441202642776, 0.00048219041190009017, 0.0004750875765935673, 0.0004703933747495899, 0.00046808243567980125, 0.00046814680137589133, 0.0004705962052741628, 0.00047545808201201393, 0.0004827772902139929, 0.000492615517221926, 0.0005050503239313633, 0.0005201737811681006, 0.0005380906477871364, 0.0005589160457059195, 0.0005827725981514542, 0.0006097870131553585, 0.0006400861128150413, 0.0006737923285371543, 0.0007110187034708233, 0.0007518634678263448, 0.0007964042842922304, 0.0008446923020137088, 0.0008967462077277312, 0.0009525465154884406, 0.0010120303809484925, 0.0010750872495807367, 0.0011415556403818593, 0.001211221323829391, 0.0012838170793604499, 0.0013590241238500306, 0.0014364752015438296, 0.0015157592294787472, 0.001596427308808559, 0.001677999845875565, 0.0017599744787639253, 0.0018418344756978506, 0.001923057261165339, 0.00200312273423963, 0.0020815210708784006, 0.0021577597463661984, 0.002231369572221788, 0.002301909609020636, 0.002368970887043783, 0.0024321789348495833, 0.002491195176977286, 0.0025457173125822304, 0.0025954788249461735, 0.0026402477970162075, 0.0026798252210635544, 0.002714042992661807, 0.0027427617723302473, 0.0027658688843511274, 0.0027832764033118656, 0.0027949195564348217, 0.002800755544954338, 0.0028007628614708673], 'K2': [0.0028274333881450234, 0.0028358106208780237, 0.0028525375940024558, 0.0028775556681983334, 0.0029107689370288536, 0.002952036409716466, 0.0030011631469542576, 0.003057891227129919, 0.0031218915953186177, 0.0031927579015172403, 0.0032700033084927835, 0.0033530609241879407, 0.0034412880357985883, 0.0035339738085906985, 0.0036303497164404345, 0.003729601824043613, 0.0038308841847497313, 0.003933332971150923, 0.004036081335208087, 0.004138275195934262, 0.004239090046908686, 0.004337748477866704, 0.004433537570243728, 0.004525824881770545, 0.004614071573046287, 0.004697841427734812, 0.004776805018012956, 0.004850738909753633, 0.004919520404503552, 0.004983118739547461, 0.005041583857094372, 0.005095033831560633, 0.005143641880923942, 0.005187623665500632, 0.005227225358902824, 0.005262712795875213, 0.0052943618684473, 0.005322450247674599, 0.005347250440373068, 0.005369024137978593, 0.005388017772139695, 0.005404459157338813, 0.005418555075506962, 0.005430489642363753, 0.005440423290367424, 0.005448492207808919, 0.00545480808597883, 0.0054594580443423114, 0.00546250462530183, 0.005463985773914737, 0.005463914742968097, 0.005462279889790376, 0.005459044358136579, 0.005454145666590844, 0.005447495254150395, 0.005438978063540746, 0.005428452272419151, 0.005415749310618146, 0.0054006743265386835, 0.0053830072864154005, 0.005362504905180698, 0.005338903615149399, 0.005311923775148271, 0.0052812753018953, 0.005246664859127813, 0.005207804660109271, 0.00516442282187694, 0.0051162750594854894, 0.005063157340450604, 0.005004918956843876, 0.004941475340867627, 0.004872819870513508, 0.004799033896572502, 0.004720294271611507, 0.004636877768833296, 0.00454916193456151, 0.004457622113531035, 0.004362824612679764, 0.004265416215620306, 0.004166110509533355, 0.004065671715419341, 0.00396489689439198, 0.0038645975121219607, 0.003765581364423158, 0.003668635796216513, 0.00357451299471691, 0.003483917928078035, 0.003397499261603943, 0.0033158433441380884, 0.003239471142009388, 0.0031688378240226477, 0.0031043345769550526, 0.0030462921576539168, 0.002994985660052578, 0.002950639984616433, 0.0029134355339051885, 0.0028835137114471706, 0.0028609818638386285, 0.002845917371905402, 0.0028383706622361828, 0.002838366973991678, 0.0028459067781529766, 0.002860964809388315, 0.002883487737572042, 0.0029133905799520673, 0.0029505520383435787, 0.0029948090383852904, 0.0030459508455977324, 0.0031037132262215516, 0.0031677731949006213, 0.003237744928572939, 0.003313177410375218, 0.0033935542902461444, 0.003478296313645899, 0.0035667664929811805, 0.0036582780034848735, 0.003752104602530135, 0.0038474932164116946, 0.0039436782162790614, 0.004039896809379358, 0.004135404894986299, 0.004229492675233506, 0.004321499279835332, 0.004410825678805248, 0.004496945235898552, 0.004579411403067757, 0.004657862260869777, 0.004732021844181068, 0.004801698422073853, 0.004866780093442956, 0.004927228194905171, 0.0049830690874472245, 0.005034384898354038, 0.005081303757844741, 0.005123990001037461, 0.005162634719723573, 0.005197446956359196, 0.005228645742758368, 0.005256453103480892, 0.005281088072081873, 0.005302761709028411, 0.005321673063913298, 0.00533800599146662, 0.005351926709935355, 0.005363581980271441, 0.005373097783518324, 0.005380578379982926, 0.005386105645502118, 0.005389738595891621, 0.005391513029387308, 0.005391441237791068, 0.005389511759644956, 0.005385689172772572, 0.005379913948605494, 0.005372102416304766, 0.005362146909853463, 0.0053499161946573, 0.0053352562900465346, 0.0053179918186400015, 0.005297928021280219, 0.005274853576042689, 0.005248544350734906, 0.005218768199055471, 0.005185290878894455, 0.005147883123659236, 0.005106328830252036, 0.005060434238425813, 0.0050100378681368065, 0.004955020862979307, 0.004895317273904418, 0.004830923727044145, 0.004761907870786246, 0.004688415003278811, 0.004610672346992572, 0.0045289905576135, 0.004443762218817934, 0.004355457266199012, 0.004264615484588506, 0.004171836415082498, 0.00407776717441088, 0.003983088815526674, 0.0038885019337770916, 0.0037947122420583963, 0.003702416801184379, 0.0036122915045745762, 0.003524980290721862, 0.0034410864074872413, 0.003361165894896814, 0.00328572330239525, 0.003215209524108502, 0.003150021529365831, 0.003090503689212792, 0.0030369503529802857, 0.0029896093094592337, 0.0029486857704187804, 0.0029143465348786496, 0.002886724025520119, 0.002865919929343098, 0.0028520082195791765, 0.002845037382556767, 0.002845031720472234, 0.0028519916487729016, 0.0028658929559815844, 0.002886685045862427, 0.0029142882386334196, 0.002948590270738511, 0.0029894422011837994, 0.003036654003519361, 0.0030899901894242427, 0.003149165862112418, 0.003213843623058716, 0.0032836317429636402, 0.0033580839523384524, 0.0034367011126375142, 0.003518934908902377, 0.003604193578231537, 0.0036918495722391698, 0.003781248954757041, 0.0038717222560250317, 0.003962596431651741, 0.004053207499700466, 0.0041429133526579365, 0.004231106175869924, 0.004317223872225581, 0.004400759915654911, 0.004481271143634264, 0.004558383145000471, 0.00463179308233892, 0.004701269978386063, 0.004766652664859264, 0.004827845720028006, 0.00488481379983203, 0.004937574798458212, 0.004986192266611841, 0.0050307674803271385, 0.005071431500498359, 0.005108337501732142, 0.005141653584680742, 0.005171556222994831, 0.005198224437469781, 0.00522183473809197, 0.0052425568310896665, 0.0052605500536756005, 0.005275960474205462, 0.0052889185796238525, 0.005299537464506696, 0.005307911435616296, 0.005314114951424272, 0.005318201826347206, 0.005320204643443151, 0.005320134336195728, 0.005317979919076931, 0.005313708367198533, 0.005307264666807906, 0.005298572079690466, 0.005287532684388604, 0.005274028273906278, 0.00525792170148857, 0.005239058771647367, 0.005217270771963946, 0.005192377732220464, 0.005164192481464665, 0.005132525550789106, 0.005097190938868074, 0.0050580127161314785, 0.0050148323886762625, 0.004967516872840428, 0.004915966848023947, 0.004860125166899436, 0.004799984922193635, 0.004735596713969226, 0.004667074645154932, 0.004594600604115849, 0.0045184264709715915, 0.00443887400079054, 0.0043563322781050165, 0.0042712527881032195, 0.00418414229618638, 0.004095553857724172, 0.0040060763848813775, 0.00391632327077915, 0.0038269206086556707, 0.0037384955432521257, 0.00365166525453214, 0.00356702700449825, 0.0034851495837733486, 0.0034065663853524142, 0.003331770218848881, 0.003261209869353368, 0.003195288308576044, 0.0031343623876464344, 0.003078743783510663, 0.003028700934600871, 0.0029844616847703497, 0.0029462163545713967, 0.002914120972383229, 0.002888300421183177, 0.002868851286742878, 0.002855844227160035, 0.002849325720074291, 0.002849319081629021, 0.002855824689963642, 0.0028688193862071994, 0.0028882550685880213, 0.0029140565415957066, 0.0029461187329808914, 0.0029843034463935456, 0.003028435874041063, 0.003078301146303563, 0.003133641235255042, 0.0031941525465461495, 0.0032594845206823948, 0.0033292395172057963, 0.0034029741784427727, 0.003480202375924226, 0.003560399748813605, 0.0036430097635047156, 0.003727451161990076, 0.003813126617884672, 0.0038994323704882624, 0.0039857685478395105, 0.004071549818038908, 0.004156215936189871, 0.004239241703777784, 0.004320145850358143, 0.004398498396881205, 0.004473926163571113, 0.004546116226380475, 0.004614817279973622, 0.004679839007441832, 0.004741049669818788, 0.004798372203852551, 0.004851779154985774, 0.004901286780180724, 0.004946948640175722, 0.0049888489705288, 0.005027096081290244, 0.00506181599061588, 0.0050931464511940975, 0.005121231482506337, 0.005146216478842046, 0.005168243924495793, 0.0051874497151369135, 0.005203960058877251, 0.00521788891240212, 0.0052293358964941835, 0.005238384630780551, 0.005245101428760255, 0.005249534300203212, 0.005251712217975983, 0.005251644619416291, 0.005249321127777731, 0.005244711496215695, 0.005237765794339216, 0.00522841487434006, 0.0052165711686319475, 0.005202129882100458, 0.0051849706478382575, 0.005164959714474336, 0.005141952725625143, 0.005115798138326596, 0.005086341308861926, 0.005053429252183731, 0.0050169160547849645, 0.004976668888231128, 0.004932574528423206, 0.004884546231846123, 0.00483253075613344, 0.004776515245252464, 0.004716533641572872, 0.004652672252163306, 0.004585074096610958, 0.004513941703790171, 0.00443953810243267, 0.0043621858552173555, 0.0042822641048579765, 0.004200203719906724, 0.004116480737007855, 0.004031608387968529, 0.003946128069974837, 0.003860599663017344, 0.003775591618507544, 0.003691671236532684, 0.0036093955170225294, 0.003529302915111192, 0.0034519062581188226, 0.003377686997493087, 0.0033070908811632447, 0.003240525047224561, 0.003178356464651315, 0.0031209115850238892, 0.0030684770232850458, 0.0030213010557449526, 0.0029795957089355013, 0.0029435392115149386, 0.002913278590785986, 0.0028889322129583075, 0.002870592089688237, 0.0028583258006942593, 0.0028521779119024173, 0.002852170799726187, 0.0028583048244087703, 0.0028705578291079114, 0.002888883977285273, 0.0029132119799044794, 0.002943442806593942, 0.002979447020936685, 0.003021061927149015, 0.0030680887587622653, 0.0031202901721743424, 0.0031773883205883408, 0.003239063769943722, 0.003304955475885733, 0.0033746619747482445, 0.0034477438639788616, 0.0035237275734957213, 0.0036021103710444763, 0.00368236650480581, 0.003763954357875806, 0.0038463244578724565, 0.003928928138511163, 0.0040112265859824775, 0.004092699932007665, 0.004172855998076894, 0.004251238273397478, 0.004327432736202152, 0.00440107320424442, 0.004471845012206708, 0.004539486940298519, 0.004603791438212142, 0.0046646032862632985, 0.004721816903718711, 0.004775372553188374, 0.004825251704327403, 0.00487147181625812, 0.004914080781747266, 0.0049531512514512, 0.004988775026325498, 0.005021057672673444, 0.005050113479125015, 0.005076060839937914, 0.005099018116215137, 0.005119099997558978, 0.005136414362556467, 0.005151059618046297, 0.005163122484577063, 0.005172676188629885, 0.0051797790205531736, 0.005184473220071319, 0.005186784157959221, 0.005186719792263118, 0.005184270389534893, 0.005179408515079174, 0.005172089310175675, 0.00516225108736066, 0.005149816285603867, 0.0051346928339455295, 0.005116775973408195, 0.005095950581970877, 0.005072094036323762, 0.0050450796283724505, 0.005014780535972687, 0.004981074327683454, 0.004943847960330012, 0.004903003203682547, 0.004858462395036418, 0.004810174385230913, 0.004758120487511913, 0.004702320187805074, 0.00464283633043394, 0.004579779469898608, 0.004513311087172966, 0.0044436454117487145, 0.004371049664157005, 0.004295842627491244, 0.004218391557474358, 0.0041391075370392225, 0.004058439465003576, 0.003976866934998902, 0.0038948923089179386, 0.00381303231851648, 0.0037318095392901442, 0.0036517440721525554, 0.0035733457411359685, 0.0034971070709482375, 0.0034234972500651437, 0.0033529572179074726, 0.003285895944191641, 0.0032226879003577876, 0.0031636716618659044, 0.0031091495295604544, 0.003059388020160068, 0.0030146190507184586, 0.002975041628965441, 0.0029408238593288194, 0.002912105081290828, 0.00288899797057085, 0.002871590452583141, 0.0028599473001070133, 0.0028541113119100133, 0.002854103995393481]}
-Total runtime: 629.48 s
+Total runtime: 2462.96 s
