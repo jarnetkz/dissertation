@@ -1,23 +1,6 @@
-from utils import *
+from project.utils_sin import *
 import matplotlib.pyplot as plt
 from concurrent.futures import ProcessPoolExecutor
-
-'''
-This file does the following tasks:
-- Create directories (both VTK format result, and raw dictionary)
-- Solve pde through main() --> solve_pde
-- Concentration distribution
-    - Concentration profile along the vertical line, c(x₀, y)
-    - x-integrated concentration profile, ∫ c(x, y) dx (as a function of y)
-'''
-
-# ----------------test param----------------
-# T = 5
-# update_simulation_param = [
-#     {'T':1, 'dts' : [0.1], 'mesh_sizes':[10], '_u_x': None, '_omega': None},
-#     {'T':1, 'dts' : [0.1], 'mesh_sizes':[20], '_u_x': None, '_omega': None}
-# ]
-
 
 T = 50
 dts = [0.01]
@@ -60,7 +43,7 @@ def simulation(task_k_v):
     print(f"\n--- Running Experiment {i+1}/{len(update_simulation_param)} with params: {set_param} ---")
 
     # 2 Prep physical parameters 
-    # isolate _u_x and _omega from dict!
+    # select only _u_x and _omega from dict as an override list
     physics_overrides = {k: set_param[k] for k in ('_u_x', '_omega')}
     
     physical_params = prep_physical_params(logfile, overrides=physics_overrides)

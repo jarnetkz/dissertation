@@ -1,4 +1,4 @@
-from utils import *
+from project.utils_cos import *
 from fenics import *
 import dolfin
 

@@ -1,4 +1,4 @@
-from utils import *
+from project.utils_cos import *
 from dolfin import *
 from fenics import *
 import matplotlib.pyplot as plt

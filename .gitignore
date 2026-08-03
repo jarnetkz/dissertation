@@ -3,3 +3,7 @@
 *.vtu
 *.pkl
 *.h5
+*.DS_Store
+
+/workspaces/Fenics/project/output
+/workspaces/Fenics/demo/output
