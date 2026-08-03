@@ -34,7 +34,7 @@ a = u*v*dx + dt*dot(grad(u), grad(v))*dx
 # Linear form L(v): known data from the previous step and the source f
 L = (u_n + dt*f)*v*dx
 
-vtkfile = File(f'demo/output/ex3/vtk/solution_{nx}_.pvd')
+vtkfile = File(f'output/ex3/vtk/solution_{nx}_.pvd')
 
 t = 0     
 vtkfile << (u_n, t) # save the solution at t=0 BEFORE the loop starts 

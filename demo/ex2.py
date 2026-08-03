@@ -263,7 +263,7 @@ def plot(result, y_mid, x_vals, save_path, t_target):
 # ==============================================================================
 
 # 1. Prep plot output folder
-save_path = 'demo/output/ex2/plots'
+save_path = 'output/ex2/plots'
 utils.prep_folder(save_path)
 
 # 2. Run simulation
